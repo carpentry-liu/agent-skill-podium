@@ -12,6 +12,7 @@ Maintain a static, source-traceable index of AI Agent, Agent Skill, MCP, and mul
 - Use a numeric `rank` only when the organizer explicitly publishes one.
 - Keep unknown fields `null`; explain material gaps in `verification_note`.
 - Do not introduce browser-side scraping or credentials. This is a static site.
+- Daily discovery data is an unverified lead feed. Never promote an automated lead into `data/competitions.json` without official result evidence.
 
 ## Validation
 
@@ -20,6 +21,7 @@ After changing `data/competitions.json`, always run:
 ```text
 python scripts/sync_data_bundle.py
 python scripts/validate_data.py --check-bundle
+python scripts/discover_competitions.py --check-bundle
 python -m unittest discover -s tests -v
 node tests/test_core.js
 ```

@@ -238,6 +238,40 @@
     refreshDiscovery();
   }
 
+  function initDailyDiscovery() {
+    const daily = window.AgentSkillDiscovery;
+    const list = document.getElementById("daily-discovery-list");
+    const empty = document.getElementById("daily-discovery-empty");
+    const updated = document.getElementById("daily-discovery-updated");
+    if (!daily || !Array.isArray(daily.candidates)) {
+      empty.hidden = false;
+      updated.textContent = "自动数据暂不可用";
+      return;
+    }
+    updated.textContent = `北京时间 ${daily.updated_at.slice(0, 10)} · ${daily.candidates.length} 条待核验`;
+    const cards = daily.candidates.slice(0, 6).map((candidate, index) => {
+      const card = document.createElement("article");
+      card.className = "lead-card";
+      const top = document.createElement("div");
+      top.className = "lead-card__top";
+      top.append(text("span", "lead-card__rank", String(index + 1).padStart(2, "0")), text("span", "lead-card__status", "待核验"));
+      const title = link("lead-card__title", candidate.title, candidate.url, `打开 ${candidate.title} GitHub 仓库（新窗口）`);
+      const description = text("p", "lead-card__description", candidate.description);
+      const queries = document.createElement("div");
+      queries.className = "lead-card__queries";
+      (candidate.matched_queries || []).slice(0, 2).forEach((query) => queries.appendChild(text("span", "", query)));
+      const meta = document.createElement("p");
+      meta.className = "lead-card__meta";
+      const language = candidate.language || "语言未标注";
+      const stars = ` · ★ ${candidate.stars || 0}`;
+      meta.textContent = `GitHub 候选 · ${language}${stars} · 最近发现 ${String(candidate.pushed_at || "").slice(0, 10)}`;
+      card.append(top, title, description, queries, meta);
+      return card;
+    });
+    list.replaceChildren(...cards);
+    empty.hidden = cards.length !== 0;
+  }
+
   function resetAll() {
     elements.form.reset();
     render();
@@ -246,6 +280,7 @@
 
   populateFilters();
   updateScoreboard();
+  initDailyDiscovery();
   initDiscovery();
   render();
 

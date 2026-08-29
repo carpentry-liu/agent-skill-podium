@@ -131,6 +131,21 @@
           <p>这里负责生成搜索线索；候选结果仍需核验官方证据后才会进入上方目录。</p>
         </div>
 
+        <section class="daily-discovery" aria-labelledby="daily-discovery-title">
+          <div class="daily-discovery__header">
+            <div>
+              <p><span class="live-dot" aria-hidden="true"></span> 每日自动发现</p>
+              <h3 id="daily-discovery-title">今天新出现的比赛线索</h3>
+            </div>
+            <div class="daily-discovery__meta">
+              <span id="daily-discovery-updated">等待数据</span>
+              <a href="./data/discovery.json">查看全部 JSON</a>
+            </div>
+          </div>
+          <div id="daily-discovery-list" class="daily-discovery__list"></div>
+          <p id="daily-discovery-empty" class="daily-discovery__empty" hidden>本轮没有发现符合条件的新线索；定时任务会在下一次运行时继续搜索。</p>
+        </section>
+
         <div class="discovery-console">
           <div class="discovery-console__builder">
             <label class="discovery-keyword">
@@ -149,7 +164,7 @@
 
         <div class="boundary-note">
           <span aria-hidden="true">i</span>
-          <p><strong>这是静态站点。</strong>页面不会在浏览器中实时抓取外部内容；搜索结果需经 <code>agent-competition-scout</code> Skill 或维护者核验、去重并写入数据集。</p>
+          <p><strong>自动发现不等于正式收录。</strong>GitHub Actions 每天 09:17（北京时间）刷新 GitHub 候选池；中国大陆与全球主办方官网可用上方搜索入口现场查询。候选仍需经 <code>agent-competition-scout</code> Skill 或维护者核验主办方身份、赛程与官方赛果，才会进入上方目录。</p>
         </div>
       </section>
 
@@ -198,6 +213,7 @@
       </article>
     </template>
 
+    <script src="./data/discovery.js"></script>
     <script src="./data/competitions.js"></script>
     <script src="./core.js"></script>
     <script src="./app.js"></script>

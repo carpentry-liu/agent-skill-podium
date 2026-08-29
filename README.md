@@ -33,12 +33,15 @@ AI 爆发后，企业、社区和平台举办了大量 Agent / Skill 比赛，�
 - 比赛结束后链接会迁移、结果会补发，缺少核验日期就不知道信息有多新；
 - 单纯自动抓取很容易把搜索摘要、参赛者自述或页面顺序误当正式名次。
 
-这个项目把“发现”和“确认”拆开：网页让人快速搜索，Skill 负责做需要判断力的官方核验，结构化数据保存结果，网页再以统一界面呈现。
+这个项目把“发现”和“确认”拆开：定时任务每天生成新的候选线索，网页让人快速搜索，Skill 负责做需要判断力的官方核验，结构化数据保存结果，网页再以统一界面呈现。
 
 ```mermaid
 flowchart LR
-    A[网页：关键词 + 标签] --> B[官方域名 / GitHub / 竞赛平台搜索]
-    B --> C[agent-competition-scout]
+    X[每天 09:17 定时发现] --> B[GitHub Search]
+    U[用户标签搜索] --> S[主办方官网 / 竞赛平台]
+    B --> A[待核验候选池]
+    S --> C[agent-competition-scout]
+    A --> C
     C --> D{证据分级与去重}
     D -->|通过| E[data/competitions.json]
     D -->|不足| F[待补充 / 不收录]
@@ -60,6 +63,13 @@ flowchart LR
 
 ### 标签化发现
 
+发现区分成两层：
+
+1. **每日候选池**：GitHub Actions 每天 09:17（北京时间）调用 GitHub Search API。任务使用 Agent、Skill、MCP、多智能体以及“黑客松 / 大赛 / 挑战赛”等中英文组合，更新 [`data/discovery.json`](data/discovery.json) 和网页数据包；
+2. **交互搜索台**：用户继续组合主题、行业、主办方、地区和年份标签，跳转到官方域名、GitHub、Devpost、Kaggle 等入口做针对性搜索。
+
+自动候选统一标记为“待核验”。它可能是主办仓库、参赛项目或只提到赛事的仓库，**绝不会因为自动发现就进入正式赛果目录**。只有核验到主办方身份、官方奖项和获奖者后，维护者才会写入 `data/competitions.json`。
+
 发现台支持组合以下标签：
 
 - 主题：Agent、Skill、MCP、multi-agent、安全、智能攻防；
@@ -69,7 +79,7 @@ flowchart LR
 
 组合后的查询可以跳转到可配置的搜索入口：全球主办方官网、中国大陆主办方官网、火山引擎 / 扣子、腾讯云、阿里云 / 魔搭、GitHub、Devpost、Kaggle 和 Hugging Face。配置位于 [`data/competitions.json`](data/competitions.json) 的 `discovery` 字段。
 
-> 这是无后端静态站点。浏览器只负责生成和打开查询，不会绕过 CORS 实时抓取外部网站，也不会把搜索结果自动当成已验证赛果。
+> 浏览器本身不抓取外部网站。每日候选由 GitHub Actions 在服务端定时生成并直接重新部署 Pages；因此访客每天能看到更新后的线索，同时正式赛果仍保持人工 / Skill 核验门槛。
 
 ### Agent Competition Scout Skill
 
@@ -152,6 +162,7 @@ python -m http.server 8000
 ```powershell
 python scripts/sync_data_bundle.py
 python scripts/validate_data.py --check-bundle
+python scripts/discover_competitions.py --check-bundle
 python -m unittest discover -s tests -v
 node tests/test_core.js
 ```
@@ -162,7 +173,7 @@ node tests/test_core.js
 
 - 原生 HTML、CSS、JavaScript，无框架、无生产构建依赖；
 - GitHub Pages 可直接托管；
-- 编辑部 × 领奖台的情报台视觉：新闻纸、黑墨、信号红和高亮黄绿；
+- 克制的比价目录视觉：海军蓝可信主色、琥珀重点色、绿色核验状态与分区浅色背景；
 - 响应式布局、键盘焦点、跳转链接、ARIA live 区域和 reduced-motion 支持；
 - 所有动态内容通过 DOM 文本节点写入，避免将数据直接拼成 HTML；
 - Python 标准库负责数据 schema、URL、日期、重复 ID、奖项状态和 Bundle 同步校验。
