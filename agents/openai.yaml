@@ -1,0 +1,5 @@
+interface:
+  display_name: "Agent Competition Scout"
+  short_description: "Verify and maintain official AI competition results"
+  brand_color: "#EE3E2B"
+  default_prompt: "Use $agent-competition-scout to find current Agent and Skill competition winners, verify official sources, and update the podium dataset with a validation receipt."

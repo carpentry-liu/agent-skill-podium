@@ -1,0 +1,132 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/carpentry-liu/agent-skill-podium/blob/main/data/competitions.schema.json",
+  "title": "Agent / Skill Podium competition data",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "updated_at", "methodology", "discovery", "competitions"],
+  "properties": {
+    "schema_version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$" },
+    "updated_at": { "$ref": "#/$defs/date" },
+    "methodology": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["scope", "source_policy", "ranking_policy", "unknown_policy"],
+      "properties": {
+        "scope": { "$ref": "#/$defs/nonEmptyString" },
+        "source_policy": { "$ref": "#/$defs/nonEmptyString" },
+        "ranking_policy": { "$ref": "#/$defs/nonEmptyString" },
+        "unknown_policy": { "$ref": "#/$defs/nonEmptyString" }
+      }
+    },
+    "discovery": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["query_suffix", "tag_groups", "search_targets"],
+      "properties": {
+        "query_suffix": { "$ref": "#/$defs/nonEmptyString" },
+        "tag_groups": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "label", "tags"],
+            "properties": {
+              "id": { "$ref": "#/$defs/kebabId" },
+              "label": { "$ref": "#/$defs/nonEmptyString" },
+              "tags": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/nonEmptyString" } }
+            }
+          }
+        },
+        "search_targets": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["id", "label", "url_template", "query_suffix"],
+            "properties": {
+              "id": { "$ref": "#/$defs/kebabId" },
+              "label": { "$ref": "#/$defs/nonEmptyString" },
+              "url_template": { "type": "string", "pattern": "^https://.*\\{query\\}" },
+              "query_suffix": { "$ref": "#/$defs/nonEmptyString" }
+            }
+          }
+        }
+      }
+    },
+    "competitions": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/competition" }
+    }
+  },
+  "$defs": {
+    "nonEmptyString": { "type": "string", "minLength": 1 },
+    "kebabId": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+    "date": { "type": "string", "format": "date" },
+    "nullableDate": { "oneOf": [{ "$ref": "#/$defs/date" }, { "type": "null" }] },
+    "nullableCount": { "oneOf": [{ "type": "integer", "minimum": 0 }, { "type": "null" }] },
+    "competition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "organizer", "year", "region", "types", "tags", "status", "result_status", "dates", "official_url", "verified_on", "verification_note", "summary", "scale", "results"],
+      "properties": {
+        "id": { "$ref": "#/$defs/kebabId" },
+        "title": { "$ref": "#/$defs/nonEmptyString" },
+        "organizer": { "$ref": "#/$defs/nonEmptyString" },
+        "year": { "type": "integer", "minimum": 2000, "maximum": 2100 },
+        "region": { "$ref": "#/$defs/nonEmptyString" },
+        "types": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": { "enum": ["agent", "multi-agent", "live-agent", "mcp", "web-agent"] }
+        },
+        "tags": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/nonEmptyString" } },
+        "status": { "enum": ["open", "completed", "cancelled"] },
+        "result_status": { "enum": ["verified", "partial", "pending"] },
+        "dates": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["start", "end", "announced"],
+          "properties": {
+            "start": { "$ref": "#/$defs/nullableDate" },
+            "end": { "$ref": "#/$defs/nullableDate" },
+            "announced": { "$ref": "#/$defs/nullableDate" }
+          }
+        },
+        "official_url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "verified_on": { "$ref": "#/$defs/date" },
+        "verification_note": { "$ref": "#/$defs/nonEmptyString" },
+        "summary": { "$ref": "#/$defs/nonEmptyString" },
+        "scale": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["participants", "submissions", "countries"],
+          "properties": {
+            "participants": { "$ref": "#/$defs/nullableCount" },
+            "submissions": { "$ref": "#/$defs/nullableCount" },
+            "countries": { "$ref": "#/$defs/nullableCount" }
+          }
+        },
+        "results": { "type": "array", "items": { "$ref": "#/$defs/result" } }
+      }
+    },
+    "result": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["award", "rank", "track", "project", "team", "summary", "project_url"],
+      "properties": {
+        "award": { "$ref": "#/$defs/nonEmptyString" },
+        "rank": { "oneOf": [{ "type": "integer", "minimum": 1 }, { "type": "null" }] },
+        "track": { "$ref": "#/$defs/nonEmptyString" },
+        "project": { "$ref": "#/$defs/nonEmptyString" },
+        "team": { "oneOf": [{ "$ref": "#/$defs/nonEmptyString" }, { "type": "null" }] },
+        "summary": { "$ref": "#/$defs/nonEmptyString" },
+        "project_url": { "oneOf": [{ "type": "string", "format": "uri", "pattern": "^https://" }, { "type": "null" }] }
+      }
+    }
+  }
+}

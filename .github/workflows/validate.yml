@@ -1,0 +1,29 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Validate data and generated bundle
+        run: python scripts/validate_data.py --check-bundle
+      - name: Run Python behavior tests
+        run: python -m unittest discover -s tests -v
+      - name: Run browser-core behavior tests
+        run: node tests/test_core.js
+      - name: Compile Python helpers
+        run: python -m compileall -q scripts tests

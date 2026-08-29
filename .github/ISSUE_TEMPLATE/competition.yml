@@ -1,0 +1,47 @@
+name: Add or update a competition
+description: Propose an official Agent / Skill competition result source
+title: "[Competition]: "
+labels: ["data"]
+body:
+  - type: input
+    id: event
+    attributes:
+      label: Competition and edition
+      placeholder: Example Agent Challenge 2026
+    validations:
+      required: true
+  - type: input
+    id: organizer
+    attributes:
+      label: Organizer
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official result URL
+      description: The page must directly support the award or result status.
+      placeholder: https://official.example/results
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: Awards and projects
+      description: Copy award names faithfully. Explain any unknown fields.
+    validations:
+      required: true
+  - type: input
+    id: verified
+    attributes:
+      label: Date checked
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Source check
+      options:
+        - label: This is an organizer or official competition source, not only a participant self-claim.
+          required: true
