@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Agent / Skill 赛事领奖台：聚合官方赛果、获奖项目与可追溯来源。">
-    <meta name="theme-color" content="#171714">
+    <meta name="theme-color" content="#ffffff">
     <title>Agent / Skill 领奖台｜官方赛果情报站</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="./styles.css">
@@ -12,99 +12,73 @@
   <body>
     <a class="skip-link" href="#results">跳到赛果</a>
 
-    <header class="masthead">
-      <div class="masthead__rule" aria-hidden="true"></div>
-      <div class="masthead__inner">
-        <a class="wordmark" href="#top" aria-label="Agent / Skill 领奖台首页">
-          <span class="wordmark__issue">ISSUE 01</span>
-          <span class="wordmark__name">领奖台</span>
-          <span class="wordmark__sub">AGENT / SKILL PODIUM</span>
+    <header class="site-header">
+      <div class="container site-header__inner">
+        <a class="brand" href="#top" aria-label="Agent / Skill 领奖台首页">
+          <span class="brand__mark" aria-hidden="true">AS</span>
+          <span class="brand__copy">
+            <strong>Agent / Skill 领奖台</strong>
+            <small>官方赛果情报站</small>
+          </span>
         </a>
-        <p class="masthead__stamp">
-          <span>OFFICIAL SOURCES ONLY</span>
-          <strong>只收官方可核验赛果</strong>
-        </p>
+        <nav class="site-nav" aria-label="主要导航">
+          <a href="#catalog">赛事赛果</a>
+          <a href="#discovery">发现赛事</a>
+          <a href="#methodology">收录口径</a>
+        </nav>
+        <p class="trust-mark"><span aria-hidden="true">✓</span> 只收官方可核验赛果</p>
       </div>
     </header>
 
     <main id="top">
-      <section class="hero" aria-labelledby="hero-title">
-        <div class="hero__copy">
-          <p class="eyebrow"><span aria-hidden="true">●</span> AI 赛事赛果情报台</p>
-          <h1 id="hero-title">不追热闹，<br><em>只看谁站上领奖台。</em></h1>
-          <p class="hero__lead">把散落在企业博客、赛事官网与官方 GitHub 的 Agent / Skill 获奖信息，整理成可以搜索、筛选、追溯的公开档案。</p>
+      <section class="intro container" aria-labelledby="hero-title">
+        <div class="intro__copy">
+          <p class="eyebrow">AI Agent 赛事公开数据</p>
+          <h1 id="hero-title">找到值得研究的<br>Agent 获奖项目</h1>
+          <p class="intro__lead">把分散在企业博客、赛事官网和官方竞赛页里的赛果，整理成可搜索、可筛选、可追溯的项目目录。</p>
+          <div class="intro__actions">
+            <a class="button button--primary" href="#catalog">搜索已收录赛果</a>
+            <a class="button button--quiet" href="#discovery">去官方渠道发现赛事</a>
+          </div>
         </div>
-        <aside class="hero__brief" aria-label="数据口径摘要">
-          <span class="hero__brief-number" aria-hidden="true">01</span>
-          <h2>编辑部口径</h2>
-          <p>奖项名称按主办方原文保留；没有官方总排名时，不把类别奖强行排成第一、第二、第三。</p>
-          <a href="#methodology">查看完整口径 <span aria-hidden="true">↘</span></a>
+        <aside class="intro__policy" aria-label="收录规则摘要">
+          <div class="intro__policy-title">
+            <span>收录规则</span>
+            <a href="#methodology">查看详情</a>
+          </div>
+          <ul>
+            <li><span aria-hidden="true">✓</span><p><strong>官方来源</strong><small>优先主办方官网、博客和竞赛页</small></p></li>
+            <li><span aria-hidden="true">✓</span><p><strong>保留奖项原文</strong><small>类别奖不伪装成数字排名</small></p></li>
+            <li><span aria-hidden="true">✓</span><p><strong>显示核验日期</strong><small>未知信息明确标记待补充</small></p></li>
+          </ul>
         </aside>
-        <div class="hero__ticker" aria-label="站点特点">
-          <span>官方来源</span><i aria-hidden="true">◆</i>
-          <span>获奖项目直达</span><i aria-hidden="true">◆</i>
-          <span>最近核验日期</span><i aria-hidden="true">◆</i>
-          <span>未公布就写待补充</span>
-        </div>
       </section>
 
-      <section class="scoreboard" aria-label="收录统计">
-        <div class="scoreboard__label">LIVE<br>INDEX</div>
+      <section class="stats container" aria-label="收录统计">
         <dl>
-          <div><dt>收录赛事</dt><dd id="competition-count">—</dd></div>
-          <div><dt>获奖项目</dt><dd id="winner-count">—</dd></div>
-          <div><dt>主办组织</dt><dd id="organizer-count">—</dd></div>
-          <div><dt>数据更新</dt><dd id="updated-at">—</dd></div>
+          <div><dt>已收录赛事</dt><dd id="competition-count">—</dd><small>场</small></div>
+          <div><dt>获奖记录</dt><dd id="winner-count">—</dd><small>条</small></div>
+          <div><dt>主办组织</dt><dd id="organizer-count">—</dd><small>个</small></div>
+          <div><dt>最近更新</dt><dd id="updated-at">—</dd></div>
         </dl>
       </section>
 
-      <section class="discovery-lab" aria-labelledby="discovery-title">
-        <div class="discovery-lab__mast">
-          <div>
-            <p class="eyebrow">DISCOVERY WIRE / 联网发现入口</p>
-            <h2 id="discovery-title">给线索贴标签，<br>再去正确的地方找。</h2>
-          </div>
-          <p>组合 Agent、Skill、MCP、multi-agent、安全、行业、主办方、年份与地区等标签，一键生成面向不同平台的搜索。搜索只负责发现线索，正式收录仍需核验官方证据。</p>
-        </div>
-
-        <div class="discovery-console">
-          <div class="discovery-console__builder">
-            <label class="discovery-keyword">
-              <span>补充关键词</span>
-              <input id="discovery-keyword" type="search" placeholder="例如：financial agent、red teaming、2026 winners">
-            </label>
-            <div id="tag-groups" class="tag-groups" aria-label="发现标签"></div>
-          </div>
-          <aside class="query-slip">
-            <p class="query-slip__label">COMPOSED QUERY</p>
-            <output id="query-preview">AI agent skill competition hackathon winners results</output>
-            <div id="source-links" class="source-links" aria-label="外部搜索入口"></div>
-            <button type="button" id="filter-from-tags">用这些条件筛选已收录档案 ↓</button>
-          </aside>
-        </div>
-
-        <div class="boundary-note">
-          <strong>静态站点边界</strong>
-          <p>本站没有后端，也不在浏览器里伪装实时抓取。上面的按钮只会把组合查询带到可配置的外部搜索入口；找到的候选结果必须由 <code>agent-competition-scout</code> Skill 或维护者核验、去重、写入数据集后，才会出现在下方赛果中。</p>
-        </div>
-      </section>
-
-      <section class="desk" aria-labelledby="desk-title">
+      <section class="catalog container" id="catalog" aria-labelledby="catalog-title">
         <div class="section-heading">
           <div>
-            <p class="eyebrow">THE RESULT DESK</p>
-            <h2 id="desk-title">赛果检索台</h2>
+            <p class="eyebrow">赛事目录</p>
+            <h2 id="catalog-title">筛选获奖项目</h2>
           </div>
-          <p>搜索赛事、项目、团队或用途，再按主办方、年份、类型和状态收窄。</p>
+          <p>像筛选商品一样按主办方、年份、赛事类型和赛果状态收窄结果。</p>
         </div>
 
         <form class="filters" id="filters" role="search">
           <label class="search-field">
-            <span>检索关键词</span>
+            <span>关键词</span>
             <span class="search-field__control">
               <span aria-hidden="true">⌕</span>
-              <input id="search" name="q" type="search" autocomplete="off" placeholder="例如：Google、MCP、医疗、multi-agent">
-              <kbd>⌘ K</kbd>
+              <input id="search" name="q" type="search" autocomplete="off" placeholder="搜索赛事、项目、团队或用途">
+              <kbd>Ctrl K</kbd>
             </span>
           </label>
           <label>
@@ -123,40 +97,84 @@
             <span>赛果状态</span>
             <select id="status" name="status"><option value="">全部状态</option></select>
           </label>
-          <button class="reset-button" id="reset" type="reset">清空条件</button>
+          <label>
+            <span>排序</span>
+            <select id="sort" name="sort">
+              <option value="newest">最新年份</option>
+              <option value="most-results">获奖记录最多</option>
+              <option value="organizer">按主办方</option>
+            </select>
+          </label>
+          <button class="reset-button" id="reset" type="reset">重置筛选</button>
         </form>
 
-        <div class="results-meta">
-          <p id="result-summary" aria-live="polite">正在整理情报……</p>
-          <p><span class="verified-dot" aria-hidden="true"></span> 绿色印章 = 已由官方页面核验</p>
+        <div class="results-toolbar">
+          <p id="result-summary" aria-live="polite">正在整理赛果……</p>
+          <p class="legend"><span class="legend__dot" aria-hidden="true"></span> 官方来源已核验</p>
         </div>
 
         <div class="competition-list" id="results" aria-live="polite"></div>
         <div class="empty-state" id="empty-state" hidden>
-          <span aria-hidden="true">0</span>
-          <h3>这一组条件没有赛果</h3>
-          <p>换个关键词，或清空一项筛选条件。我们不会用未经证实的结果填满页面。</p>
+          <span aria-hidden="true">⌕</span>
+          <h3>没有符合条件的赛果</h3>
+          <p>换个关键词或减少一项筛选条件。本站不会用未经证实的结果填充列表。</p>
           <button type="button" id="empty-reset">查看全部赛事</button>
         </div>
       </section>
 
-      <section class="methodology" id="methodology" aria-labelledby="methodology-title">
-        <div class="methodology__title">
-          <p class="eyebrow">READ THE FINE PRINT</p>
-          <h2 id="methodology-title">不是算法榜，<br>是可追溯的获奖档案。</h2>
+      <section class="discovery container" id="discovery" aria-labelledby="discovery-title">
+        <div class="section-heading section-heading--compact">
+          <div>
+            <p class="eyebrow">发现新赛事</p>
+            <h2 id="discovery-title">组合标签，去官方渠道搜索</h2>
+          </div>
+          <p>这里负责生成搜索线索；候选结果仍需核验官方证据后才会进入上方目录。</p>
+        </div>
+
+        <div class="discovery-console">
+          <div class="discovery-console__builder">
+            <label class="discovery-keyword">
+              <span>补充关键词</span>
+              <input id="discovery-keyword" type="search" placeholder="例如：financial agent、red teaming、2026 winners">
+            </label>
+            <div id="tag-groups" class="tag-groups" aria-label="发现标签"></div>
+          </div>
+          <aside class="query-panel">
+            <p class="query-panel__label">生成的搜索词</p>
+            <output id="query-preview">AI agent skill competition hackathon winners results</output>
+            <div id="source-links" class="source-links" aria-label="外部搜索入口"></div>
+            <button type="button" id="filter-from-tags">用这些标签筛选本站数据</button>
+          </aside>
+        </div>
+
+        <div class="boundary-note">
+          <span aria-hidden="true">i</span>
+          <p><strong>这是静态站点。</strong>页面不会在浏览器中实时抓取外部内容；搜索结果需经 <code>agent-competition-scout</code> Skill 或维护者核验、去重并写入数据集。</p>
+        </div>
+      </section>
+
+      <section class="methodology container" id="methodology" aria-labelledby="methodology-title">
+        <div class="section-heading section-heading--compact">
+          <div>
+            <p class="eyebrow">数据口径</p>
+            <h2 id="methodology-title">可追溯，比热度更重要</h2>
+          </div>
+          <p>本站是公开赛果目录，不把不同赛事的奖项强行合并成一张综合排行榜。</p>
         </div>
         <div class="methodology__grid">
-          <article><span>01</span><h3>来源门槛</h3><p>只接受主办方官网、官方博客、官方竞赛页或主办方维护的 GitHub。参赛者自述不能单独证明名次。</p></article>
-          <article><span>02</span><h3>排名原貌</h3><p>官方写“Grand Prize”就展示大奖，写“类别奖”就展示类别奖；只有官方明确排序时才显示数字名次。</p></article>
-          <article><span>03</span><h3>时间戳</h3><p>每项赛事都有最近核验日期。页面展示的是核验时的公开信息，不承诺外部链接永远不变。</p></article>
-          <article><span>04</span><h3>未知可见</h3><p>作品链接缺失、结果待公布或资料不完整时，直接标注“待补充”，不根据搜索摘要或热度猜测。</p></article>
+          <article><span>01</span><h3>来源门槛</h3><p>主办方官网、官方博客、官方竞赛页或主办方维护的 GitHub，才可作为名次依据。</p></article>
+          <article><span>02</span><h3>排名原貌</h3><p>只有主办方明确排序时才显示数字名次；类别奖和同档奖保留官方原文。</p></article>
+          <article><span>03</span><h3>核验时间</h3><p>每场赛事显示最近核验日期，帮助判断信息的新旧程度。</p></article>
+          <article><span>04</span><h3>未知可见</h3><p>项目链接缺失、结果待公布或资料不完整时，直接标记待补充。</p></article>
         </div>
       </section>
     </main>
 
-    <footer>
-      <p><strong>AGENT / SKILL PODIUM</strong> · 一份社区维护的赛果索引</p>
-      <p><a href="./CONTRIBUTING.md">提交新赛事</a> · <a href="./data/competitions.json">查看原始数据</a> · <a href="./README.md">项目说明</a></p>
+    <footer class="site-footer">
+      <div class="container site-footer__inner">
+        <p><strong>Agent / Skill 领奖台</strong><span>社区维护的官方赛果索引</span></p>
+        <p><a href="./CONTRIBUTING.md">提交新赛事</a><a href="./data/competitions.json">原始数据</a><a href="./README.md">项目说明</a></p>
+      </div>
     </footer>
 
     <template id="competition-template">
@@ -170,6 +188,9 @@
           </div>
           <div class="competition-card__facts"></div>
         </header>
+        <div class="competition-card__columns" aria-hidden="true">
+          <span>奖项 / 赛道</span><span>获奖项目与团队</span><span>项目用途</span><span>详情</span>
+        </div>
         <div class="competition-card__body">
           <div class="podium"></div>
           <aside class="source-ticket"></aside>

@@ -29,6 +29,7 @@
     year: document.getElementById("year"),
     type: document.getElementById("type"),
     status: document.getElementById("status"),
+    sort: document.getElementById("sort"),
     reset: document.getElementById("reset"),
     emptyReset: document.getElementById("empty-reset"),
     results: document.getElementById("results"),
@@ -72,19 +73,21 @@
 
     const rank = document.createElement("div");
     rank.className = "winner__rank";
-    rank.textContent = result.rank ? String(result.rank).padStart(2, "0") : "◆";
+    rank.textContent = result.rank ? `第 ${result.rank} 名` : result.award;
     rank.appendChild(text("small", "", result.track || "官方奖项"));
 
-    const copy = document.createElement("div");
-    copy.appendChild(text("span", "winner__team", result.award));
-    copy.appendChild(text("h4", "", result.project));
-    copy.appendChild(text("p", "", result.team ? `${result.team}｜${result.summary}` : result.summary));
+    const project = document.createElement("div");
+    project.className = "winner__project";
+    project.appendChild(text("h4", "", result.project));
+    project.appendChild(text("span", "winner__team", result.team ? `团队：${result.team}` : "团队信息待补充"));
 
-    row.append(rank, copy);
+    const summary = text("p", "winner__summary", result.summary);
+
+    row.append(rank, project, summary);
     if (result.project_url) {
-      row.appendChild(link("winner__link", "↗", result.project_url, `打开 ${result.project} 项目页面（新窗口）`));
+      row.appendChild(link("winner__link", "查看项目", result.project_url, `打开 ${result.project} 项目页面（新窗口）`));
     } else {
-      row.appendChild(text("span", "winner__missing", "项目链接待补充"));
+      row.appendChild(text("span", "winner__missing", "暂无链接"));
     }
     return row;
   }
@@ -93,7 +96,7 @@
     const fragment = elements.template.content.cloneNode(true);
     const card = fragment.querySelector(".competition-card");
     card.style.animationDelay = `${Math.min(index, 6) * 65}ms`;
-    fragment.querySelector(".competition-card__serial").textContent = String(index + 1).padStart(2, "0");
+    fragment.querySelector(".competition-card__serial").textContent = `赛事\n${String(index + 1).padStart(2, "0")}`;
     fragment.querySelector("h3").textContent = item.title;
     fragment.querySelector(".competition-card__dek").textContent = item.summary;
 
@@ -119,12 +122,12 @@
 
     const ticket = fragment.querySelector(".source-ticket");
     const top = document.createElement("div");
-    top.append(text("h4", "", "SOURCE TICKET"), text("p", "source-ticket__seal", item.result_status === "pending" ? "○ 官方待开奖" : "✓ 官方已核验"));
+    top.append(text("h4", "", "信息来源"), text("p", "source-ticket__seal", item.result_status === "pending" ? "官方待开奖" : "官方已核验"));
     const detail = document.createElement("div");
     detail.append(
       text("p", "", `最近核验：${item.verified_on}`),
       text("p", "", item.verification_note),
-      link("", "打开官方赛果来源 ↗", item.official_url, `打开 ${item.title} 官方来源（新窗口）`)
+      link("", "查看官方结果", item.official_url, `打开 ${item.title} 官方来源（新窗口）`)
     );
     ticket.append(top, detail);
     return fragment;
@@ -140,13 +143,24 @@
     };
   }
 
+  function sortCompetitions(items) {
+    const sorted = [...items];
+    if (elements.sort.value === "most-results") {
+      return sorted.sort((a, b) => b.results.length - a.results.length || b.year - a.year);
+    }
+    if (elements.sort.value === "organizer") {
+      return sorted.sort((a, b) => a.organizer.localeCompare(b.organizer, "zh-CN") || b.year - a.year);
+    }
+    return sorted.sort((a, b) => b.year - a.year || a.title.localeCompare(b.title, "zh-CN"));
+  }
+
   function render() {
-    const filtered = core.filterCompetitions(data.competitions, readFilters());
+    const filtered = sortCompetitions(core.filterCompetitions(data.competitions, readFilters()));
     elements.results.replaceChildren(...filtered.map(renderCard));
     elements.empty.hidden = filtered.length !== 0;
     elements.results.hidden = filtered.length === 0;
     const awardCount = filtered.reduce((sum, item) => sum + item.results.length, 0);
-    elements.summary.textContent = `命中 ${filtered.length} 场赛事 · ${awardCount} 个已收录获奖席位`;
+    elements.summary.textContent = `共 ${filtered.length} 场赛事，${awardCount} 条获奖记录`;
   }
 
   function option(value, label) {
@@ -164,10 +178,10 @@
   }
 
   function updateScoreboard() {
-    document.getElementById("competition-count").textContent = String(data.competitions.length).padStart(2, "0");
-    document.getElementById("winner-count").textContent = String(data.competitions.reduce((sum, item) => sum + item.results.length, 0)).padStart(2, "0");
-    document.getElementById("organizer-count").textContent = String(new Set(data.competitions.map((item) => item.organizer)).size).padStart(2, "0");
-    document.getElementById("updated-at").textContent = data.updated_at.slice(5).replace("-", ".");
+    document.getElementById("competition-count").textContent = String(data.competitions.length);
+    document.getElementById("winner-count").textContent = String(data.competitions.reduce((sum, item) => sum + item.results.length, 0));
+    document.getElementById("organizer-count").textContent = String(new Set(data.competitions.map((item) => item.organizer)).size);
+    document.getElementById("updated-at").textContent = data.updated_at;
   }
 
   function initDiscovery() {
