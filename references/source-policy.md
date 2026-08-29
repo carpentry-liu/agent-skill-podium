@@ -25,6 +25,7 @@ Use date filters for current requests. Compare the event date, result-announceme
 ## Ranking boundaries
 
 - `1st`, `2nd`, and `3rd` support numeric ranks.
+- `一等奖`、`二等奖`等是奖项层级；除非官方明确发布数字榜位，否则保留原奖名并将 `rank` 设为 `null`。
 - `Grand Prize`, `regional winner`, `best use of`, `category winner`, and `honorable mention` are award labels, not numeric ranks unless the organizer explicitly says otherwise.
 - Finalists are not winners.
 - A list's visual or DOM order is not a rank unless the page labels it as one.

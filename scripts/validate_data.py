@@ -18,7 +18,7 @@ DEFAULT_BUNDLE = ROOT / "data" / "competitions.js"
 ID_PATTERN = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 ALLOWED_STATUSES = {"open", "completed", "cancelled"}
 ALLOWED_RESULT_STATUSES = {"verified", "partial", "pending"}
-ALLOWED_TYPES = {"agent", "multi-agent", "live-agent", "mcp", "web-agent"}
+ALLOWED_TYPES = {"agent", "skill", "multi-agent", "live-agent", "mcp", "web-agent"}
 
 
 def expected_bundle(data: dict) -> str:

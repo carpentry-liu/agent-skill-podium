@@ -29,8 +29,14 @@ class CompetitionDataTests(unittest.TestCase):
 
     def test_pending_competition_cannot_claim_results(self) -> None:
         data = copy.deepcopy(self.data)
-        data["competitions"][0]["results"] = [copy.deepcopy(data["competitions"][1]["results"][0])]
+        pending = next(item for item in data["competitions"] if item["result_status"] == "pending")
+        verified = next(item for item in data["competitions"] if item["results"])
+        pending["results"] = [copy.deepcopy(verified["results"][0])]
         self.assertTrue(any("pending competitions" in error for error in VALIDATOR.validate(data)))
+
+    def test_skill_is_a_supported_competition_type(self) -> None:
+        self.assertFalse(any("unsupported" in error for error in VALIDATOR.validate(self.data)))
+        self.assertTrue(any("skill" in item["types"] for item in self.data["competitions"]))
 
     def test_insecure_official_source_is_rejected(self) -> None:
         data = copy.deepcopy(self.data)

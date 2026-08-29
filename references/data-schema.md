@@ -16,7 +16,7 @@ Required fields:
 
 - `id`: stable kebab-case ID, normally `<organizer>-<event>-<year>`.
 - `title`, `organizer`, `year`, `region`, `summary`.
-- `types`: one or more of `agent`, `multi-agent`, `live-agent`, `mcp`, `web-agent`.
+- `types`: one or more of `agent`, `skill`, `multi-agent`, `live-agent`, `mcp`, `web-agent`.
 - `tags`: discovery terms; include the exact organizer, year string, and region.
 - `status`: `open`, `completed`, or `cancelled`.
 - `result_status`: `verified`, `partial`, or `pending`.

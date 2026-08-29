@@ -1,14 +1,14 @@
 window.PODIUM_DATA = {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "updated_at": "2026-08-29",
   "methodology": {
     "scope": "公开举办、主题明确涉及 AI Agent、Agent Skill、MCP 或多智能体系统的竞赛与黑客松。",
     "source_policy": "赛事名次必须由主办方官网、官方博客、官方竞赛页或主办方维护的 GitHub 证明。项目页用于补充作品细节，不能单独证明名次。",
-    "ranking_policy": "仅在官方明确给出数字名次时填写 rank；大奖、地区奖和类别奖保持官方奖项名称，不自行换算成总排名。",
+    "ranking_policy": "仅在官方明确给出数字名次时填写 rank；一等奖、最佳实践奖、大奖、地区奖和类别奖保持官方奖项名称，不自行换算成总排名。",
     "unknown_policy": "官方没有公布的信息使用 null、空数组或待补充说明，不依据二手榜单、搜索摘要或项目自述猜测。"
   },
   "discovery": {
-    "query_suffix": "AI agent skill competition hackathon winners results",
+    "query_suffix": "AI Agent 智能体 Skill 技能 MCP 多智能体 competition hackathon 大赛 挑战赛 winners results 获奖 赛果",
     "tag_groups": [
       {
         "id": "topic",
@@ -18,7 +18,8 @@ window.PODIUM_DATA = {
           "Skill",
           "MCP",
           "multi-agent",
-          "安全"
+          "安全",
+          "智能攻防"
         ]
       },
       {
@@ -30,7 +31,10 @@ window.PODIUM_DATA = {
           "开发者工具",
           "教育",
           "可持续",
-          "生活服务"
+          "生活服务",
+          "游戏",
+          "网络安全",
+          "AI PC"
         ]
       },
       {
@@ -40,7 +44,13 @@ window.PODIUM_DATA = {
           "Google Cloud",
           "Microsoft",
           "AWS",
-          "OpenAI"
+          "OpenAI",
+          "火山引擎",
+          "扣子 Coze",
+          "字节跳动",
+          "腾讯云",
+          "阿里云",
+          "魔搭 ModelScope"
         ]
       },
       {
@@ -49,7 +59,10 @@ window.PODIUM_DATA = {
         "tags": [
           "2026",
           "2025",
+          "2024",
           "全球",
+          "中国大陆",
+          "中国",
           "北美",
           "亚太",
           "日本"
@@ -61,7 +74,31 @@ window.PODIUM_DATA = {
         "id": "official",
         "label": "主办方官方域名",
         "url_template": "https://www.google.com/search?q={query}",
-        "query_suffix": "(site:openai.com OR site:cloud.google.com OR site:developers.googleblog.com OR site:devblogs.microsoft.com OR site:aws.amazon.com)"
+        "query_suffix": "(site:openai.com OR site:cloud.google.com OR site:developers.googleblog.com OR site:devblogs.microsoft.com OR site:aws.amazon.com OR site:volcengine.com OR site:developer.volcengine.com OR site:coze.cn OR site:cloud.tencent.com OR site:developer.cloud.tencent.com OR site:tch.cloud.tencent.com OR site:aliyun.com OR site:developer.aliyun.com OR site:modelscope.cn)"
+      },
+      {
+        "id": "china-official",
+        "label": "中国大陆主办方官网",
+        "url_template": "https://www.google.com/search?q={query}",
+        "query_suffix": "(site:volcengine.com OR site:developer.volcengine.com OR site:coze.cn OR site:cloud.tencent.com OR site:developer.cloud.tencent.com OR site:tch.cloud.tencent.com OR site:aliyun.com OR site:developer.aliyun.com OR site:modelscope.cn)"
+      },
+      {
+        "id": "volcengine-coze",
+        "label": "火山引擎 / 扣子",
+        "url_template": "https://www.google.com/search?q={query}",
+        "query_suffix": "(site:volcengine.com OR site:developer.volcengine.com OR site:coze.cn)"
+      },
+      {
+        "id": "tencent-cloud",
+        "label": "腾讯云",
+        "url_template": "https://www.google.com/search?q={query}",
+        "query_suffix": "(site:cloud.tencent.com OR site:developer.cloud.tencent.com OR site:tch.cloud.tencent.com)"
+      },
+      {
+        "id": "aliyun-modelscope",
+        "label": "阿里云 / 魔搭",
+        "url_template": "https://www.google.com/search?q={query}",
+        "query_suffix": "(site:aliyun.com OR site:developer.aliyun.com OR site:modelscope.cn)"
       },
       {
         "id": "github",
@@ -90,6 +127,266 @@ window.PODIUM_DATA = {
     ]
   },
   "competitions": [
+    {
+      "id": "modelscope-ai-pc-agent-skills-2026",
+      "title": "AI PC Agent Skills 征文活动",
+      "organizer": "Intel / OpenVINO / 魔搭社区",
+      "year": 2026,
+      "region": "中国大陆",
+      "types": [
+        "agent",
+        "skill",
+        "multi-agent"
+      ],
+      "tags": [
+        "Agent",
+        "Skill",
+        "multi-agent",
+        "AI PC",
+        "开发者工具",
+        "Intel / OpenVINO / 魔搭社区",
+        "魔搭 ModelScope",
+        "2026",
+        "中国大陆",
+        "中国",
+        "亚太"
+      ],
+      "status": "completed",
+      "result_status": "verified",
+      "dates": {
+        "start": null,
+        "end": null,
+        "announced": "2026-04-30"
+      },
+      "official_url": "https://modelscope.cn/events/242/AI%20PC%20Agent%20Skills%20%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8",
+      "verified_on": "2026-08-29",
+      "verification_note": "魔搭官方赛事页公布全部 10 组最佳实践奖，并明确注明排名不分先后；因此所有 rank 均保留为 null，不把页面顺序解释为名次。",
+      "summary": "Intel、OpenVINO 中文社区与魔搭社区联合评选面向 AI PC 的本地 Agent Skill，强调端侧运行、隐私与可复用工作流。",
+      "scale": {
+        "participants": 83,
+        "submissions": null,
+        "countries": null
+      },
+      "results": [
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "「拍照即问」本地 AI 文档助手（scan-and-ask）",
+          "team": "孙丰举",
+          "summary": "让扫描件与照片在本地完成 OCR 和文档问答，隐私数据不离开设备。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "InfoBridge：AI PC 本地多受众信息适配",
+          "team": "吴祀霖",
+          "summary": "用本地多智能体 Skill 把同一材料适配为不同受众版本。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "个人知识库智能管家（基于本地 RAG 的私有知识问答系统）",
+          "team": "周博远",
+          "summary": "以 OpenVINO、向量检索和本地模型构建私有知识问答。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "OCR 财务提取 Skill",
+          "team": "刘文昌",
+          "summary": "在本地批量识别票据、提取财务字段并生成复核清单。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "智能科研写作副驾驶（cloud-edge-writing）",
+          "team": "陈冬冬",
+          "summary": "面向科研写作工作流的端云协同 Agent Skill。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "用 OpenVINO 与 OpenClaw Skill 打造端侧营销海报审核助手",
+          "team": "冯亦根",
+          "summary": "用端侧推理完成营销海报审核工作流。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "让敏感文件不出电脑：基于 AI PC 的本地隐私数据检查 Skill",
+          "team": "李悦",
+          "summary": "在本地检查文件中的敏感数据，减少外发隐私风险。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "Email Concierge：跑在 AI PC 本地的智能邮件管家",
+          "team": "戴宏伟",
+          "summary": "离线读取上下文并调用本地工具生成邮件回复草稿。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "AI PC Daily Memory 工作记忆助手",
+          "team": "董伟君",
+          "summary": "为日常工作提供运行在 AI PC 上的本地记忆辅助。",
+          "project_url": null
+        },
+        {
+          "award": "最佳实践奖",
+          "rank": null,
+          "track": "最佳实践奖",
+          "project": "本地身份保险柜 + 自动填表协调 Skill",
+          "team": "张成旭",
+          "summary": "把身份字段留在本地保险柜，并协调浏览器和办公软件自动填表。",
+          "project_url": null
+        }
+      ]
+    },
+    {
+      "id": "tencent-cloud-agent-pentest-challenge-2026",
+      "title": "第二届腾讯云黑客松智能渗透挑战赛",
+      "organizer": "腾讯云",
+      "year": 2026,
+      "region": "中国大陆",
+      "types": [
+        "agent",
+        "multi-agent"
+      ],
+      "tags": [
+        "Agent",
+        "multi-agent",
+        "安全",
+        "智能攻防",
+        "网络安全",
+        "腾讯云",
+        "2026",
+        "中国大陆",
+        "中国",
+        "亚太"
+      ],
+      "status": "completed",
+      "result_status": "partial",
+      "dates": {
+        "start": null,
+        "end": "2026-04-25",
+        "announced": "2026-04-27"
+      },
+      "official_url": "https://developer.cloud.tencent.com/article/2661083",
+      "verified_on": "2026-08-29",
+      "verification_note": "腾讯云官方复盘明确点名主赛场冠军和“零界”平行赛场第一名，但正文未给出其他名次；本数据不从图片或页面顺序补推亚军、季军。",
+      "summary": "以 Agent 架构、任务调度和多 Solver 协作为核心的智能渗透挑战，官方复盘称共有 610 支队伍参赛。",
+      "scale": {
+        "participants": null,
+        "submissions": null,
+        "countries": null
+      },
+      "results": [
+        {
+          "award": "冠军",
+          "rank": 1,
+          "track": "智能渗透主赛场",
+          "project": "ai小分队",
+          "team": "绿盟科技",
+          "summary": "采用 Agent 架构与 Harness 构建三层底座，以 Manager 调度多个 Solver。",
+          "project_url": null
+        },
+        {
+          "award": "第一名",
+          "rank": 1,
+          "track": "“零界”平行赛场",
+          "project": "yhy战队",
+          "team": null,
+          "summary": "凭借 Agent 设计和策略调度获得平行赛场第一名。",
+          "project_url": null
+        }
+      ]
+    },
+    {
+      "id": "volcengine-coze-game-agent-challenge-2024",
+      "title": "AI 智能体线上挑战赛——游戏主题快闪",
+      "organizer": "火山引擎 / 扣子",
+      "year": 2024,
+      "region": "中国大陆",
+      "types": [
+        "agent"
+      ],
+      "tags": [
+        "Agent",
+        "游戏",
+        "生活服务",
+        "火山引擎 / 扣子",
+        "火山引擎",
+        "扣子 Coze",
+        "字节跳动",
+        "2024",
+        "中国大陆",
+        "中国",
+        "亚太"
+      ],
+      "status": "completed",
+      "result_status": "partial",
+      "dates": {
+        "start": "2024-09-12",
+        "end": "2024-10-13",
+        "announced": "2024-10-16"
+      },
+      "official_url": "https://developer.volcengine.com/activities/7413321752799150117",
+      "verified_on": "2026-08-29",
+      "verification_note": "火山引擎开发者社区官方活动页公布完整获奖表；当前精选一等奖和全部二等奖。二等奖为并列奖项层级，rank 保持 null，不臆造内部先后。",
+      "summary": "基于扣子专业版与豆包大模型制作游戏主题 Bot 的线上挑战赛，官方活动页显示 607 人参与。",
+      "scale": {
+        "participants": 607,
+        "submissions": null,
+        "countries": null
+      },
+      "results": [
+        {
+          "award": "一等奖",
+          "rank": null,
+          "track": "游戏主题快闪",
+          "project": "天命人助手",
+          "team": null,
+          "summary": "官方活动页列为本场游戏主题智能体挑战赛一等奖。",
+          "project_url": null
+        },
+        {
+          "award": "二等奖",
+          "rank": null,
+          "track": "游戏主题快闪",
+          "project": "规则怪谈解密游戏",
+          "team": null,
+          "summary": "官方活动页列为本场游戏主题智能体挑战赛二等奖。",
+          "project_url": null
+        },
+        {
+          "award": "二等奖",
+          "rank": null,
+          "track": "游戏主题快闪",
+          "project": "游戏帮：黑神话悟空",
+          "team": null,
+          "summary": "官方活动页列为本场游戏主题智能体挑战赛二等奖。",
+          "project_url": null
+        }
+      ]
+    },
     {
       "id": "openai-webmcp-challenge-2026",
       "title": "The WebMCP Challenge",

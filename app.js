@@ -3,6 +3,7 @@
 
   const TYPE_LABELS = {
     agent: "Agent 应用",
+    skill: "Agent Skill",
     "multi-agent": "多智能体",
     "live-agent": "实时智能体",
     mcp: "MCP / Skill",

@@ -1,8 +1,27 @@
+<div align="center">
+
 # Agent / Skill 领奖台
 
-一个面向 AI Agent、Agent Skill、MCP 与多智能体比赛的公开赛果情报站。
+### 不追热闹，只看谁站上领奖台。
 
-它不试图制造新的“综合排行榜”，而是把散落在主办方博客、赛事官网和官方竞赛页里的获奖信息，整理成可搜索、可筛选、可追溯的数据集。仓库同时包含一个可安装的 `agent-competition-scout` Skill，用来联网发现候选赛事、核验官方证据并维护数据。
+面向 AI Agent、Agent Skill、MCP 与多智能体比赛的公开赛果情报站<br>
+**官方来源优先 · 奖项口径不混排 · 核验日期可追溯**
+
+`纯静态`　`零前端依赖`　`GitHub Pages`　`内置联网核验 Skill`
+
+[浏览赛果](#功能) · [使用发现台](#标签化发现) · [安装 Skill](#agent-competition-scout-skill) · [提交比赛](CONTRIBUTING.md)
+
+</div>
+
+![Agent / Skill 领奖台真实运行页面](docs/assets/agent-skill-podium-overview.png)
+
+> 截图来自本仓库静态页面的本地实际运行结果（1440 × 2400），不是设计概念图。页面可由 GitHub Pages 原样托管。
+
+它不制造新的“综合排行榜”，而是把散落在主办方博客、赛事官网和官方竞赛页里的获奖信息，整理成可搜索、可筛选、可追溯的数据集。仓库同时包含可安装的 `agent-competition-scout` Skill，用来联网发现候选赛事、核验官方证据并维护数据。
+
+| 数据快照 | 已收录赛事 | 获奖记录 | 主办组织 | 最近核验 |
+| --- | ---: | ---: | ---: | --- |
+| `v1` | 8 | 32 | 7 | 2026-08-29 |
 
 ## 为什么需要它
 
@@ -43,12 +62,12 @@ flowchart LR
 
 发现台支持组合以下标签：
 
-- 主题：Agent、Skill、MCP、multi-agent、安全；
-- 行业：医疗、企业协作、开发者工具、教育、可持续、生活服务；
-- 主办方：Google Cloud、Microsoft、AWS、OpenAI；
-- 年份与地区：2025、2026、全球、北美、亚太、日本。
+- 主题：Agent、Skill、MCP、multi-agent、安全、智能攻防；
+- 行业：医疗、企业协作、开发者工具、教育、可持续、生活服务、游戏、网络安全、AI PC；
+- 主办方：Google Cloud、Microsoft、AWS、OpenAI、火山引擎、扣子、字节跳动、腾讯云、阿里云、魔搭；
+- 年份与地区：2024–2026、全球、中国大陆、中国、北美、亚太、日本。
 
-组合后的查询可以跳转到可配置的搜索入口：主办方官方域名、GitHub、Devpost、Kaggle 和 Hugging Face。配置位于 [`data/competitions.json`](data/competitions.json) 的 `discovery` 字段。
+组合后的查询可以跳转到可配置的搜索入口：全球主办方官网、中国大陆主办方官网、火山引擎 / 扣子、腾讯云、阿里云 / 魔搭、GitHub、Devpost、Kaggle 和 Hugging Face。配置位于 [`data/competitions.json`](data/competitions.json) 的 `discovery` 字段。
 
 > 这是无后端静态站点。浏览器只负责生成和打开查询，不会绕过 CORS 实时抓取外部网站，也不会把搜索结果自动当成已验证赛果。
 
@@ -83,9 +102,17 @@ git clone https://github.com/carpentry-liu/agent-skill-podium.git .codex/skills/
 
 Skill 的入口和判定口径分别位于 [`SKILL.md`](SKILL.md) 与 [`references/source-policy.md`](references/source-policy.md)。
 
-## 首版数据
+## 当前数据
 
-截至 2026-08-29，首版收录以下官方材料：
+截至 2026-08-29，数据集收录以下官方材料：
+
+### 中国大陆
+
+- [魔搭 · AI PC Agent Skills 征文活动](https://modelscope.cn/events/242/AI%20PC%20Agent%20Skills%20%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8)：收录官方公布的全部 10 组最佳实践奖；官方注明排名不分先后，数据不写数字名次；
+- [腾讯云 · 第二届黑客松智能渗透挑战赛](https://developer.cloud.tencent.com/article/2661083)：只收录官方复盘正文明确点名的主赛场冠军与平行赛场第一名；
+- [火山引擎 / 扣子 · AI 智能体线上挑战赛](https://developer.volcengine.com/activities/7413321752799150117)：精选官方获奖表的一等奖与全部二等奖，不把同档奖项强行排序。
+
+### 全球与其他地区
 
 - [OpenAI · The WebMCP Challenge](https://openai.com/webmcp-challenge/)：仍在征集，赛果待公布；
 - [Microsoft · Agent Academy Hackathon Winners](https://devblogs.microsoft.com/powerplatform/agent-academy-hackathon-winners/)；
@@ -93,7 +120,7 @@ Skill 的入口和判定口径分别位于 [`SKILL.md`](SKILL.md) 与 [`referenc
 - [Google Cloud · ADK Hackathon Winners](https://cloud.google.com/blog/products/ai-machine-learning/adk-hackathon-results-winners-and-highlights)；
 - [AWS · Summit Japan 2025 生成 AI Agent Hackathon](https://aws.amazon.com/jp/blogs/news/aiagent_hackathon_report/)。
 
-“首版收录”不代表赛事全量覆盖。每场赛事的 `verification_note` 会说明当前是完整前三、主要奖项精选，还是待开奖。
+收录不代表赛事全量覆盖。阿里云、魔搭、腾讯云、火山引擎等搜索入口可以帮助继续发现候选项，但只有官方页面明确给出获奖者时才会进入数据集；每场赛事的 `verification_note` 会说明当前是完整奖单、主要奖项精选，还是待开奖。
 
 ## 数据可信度
 

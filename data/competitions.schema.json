@@ -82,7 +82,7 @@
           "type": "array",
           "minItems": 1,
           "uniqueItems": true,
-          "items": { "enum": ["agent", "multi-agent", "live-agent", "mcp", "web-agent"] }
+          "items": { "enum": ["agent", "skill", "multi-agent", "live-agent", "mcp", "web-agent"] }
         },
         "tags": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/nonEmptyString" } },
         "status": { "enum": ["open", "completed", "cancelled"] },
