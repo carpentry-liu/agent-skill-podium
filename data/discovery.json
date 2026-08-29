@@ -42,7 +42,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-05-10T03:55:35Z",
-      "pushed_at": "2026-08-29T04:13:49Z",
+      "pushed_at": "2026-08-29T10:16:35Z",
       "topics": [],
       "matched_queries": [
         "AI agent competition"
@@ -61,6 +61,24 @@
       "stars": 0,
       "created_at": "2026-08-28T02:09:43Z",
       "pushed_at": "2026-08-29T09:33:37Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1350478934",
+      "title": "Anoushkha1225/Resume-Agent",
+      "url": "https://github.com/Anoushkha1225/Resume-Agent",
+      "description": "Autonomous agent that reconstructs why you were doing what you were doing after an interruption, and learns your personal interruption patterns over time. Built with Gemini 3.5, Google ADK, and Cloud Firestore for the All Things Agentic Hackathon — Collaborative Partner track.",
+      "owner": "Anoushkha1225",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-29T10:10:59Z",
+      "pushed_at": "2026-08-29T10:14:18Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -115,24 +133,6 @@
       "source_type": "github-search"
     },
     {
-      "id": "1348107916",
-      "title": "KrishKarna/Agentic-Hackathon",
-      "url": "https://github.com/KrishKarna/Agentic-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "KrishKarna",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-27T05:32:07Z",
-      "pushed_at": "2026-08-29T07:01:45Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
       "id": "1346517144",
       "title": "lx-singw/benchpress",
       "url": "https://github.com/lx-singw/benchpress",
@@ -169,6 +169,24 @@
       "source_type": "github-search"
     },
     {
+      "id": "1350479672",
+      "title": "mihai-satmarean/alpaca-trading-agents",
+      "url": "https://github.com/mihai-satmarean/alpaca-trading-agents",
+      "description": "ProductAdvisors - Autonomous AI options trading agents for the Alpaca AI Trading Agents Hackathon. Signal-processing pipeline with MCP tooling, multi-strategy orchestration, and intelligent risk management.",
+      "owner": "mihai-satmarean",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-08-29T10:12:10Z",
+      "pushed_at": "2026-08-29T10:12:11Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
       "id": "1350472446",
       "title": "pranavjawale01/Alpaca-AI-Trading-Agents-Hackathon",
       "url": "https://github.com/pranavjawale01/Alpaca-AI-Trading-Agents-Hackathon",
@@ -177,7 +195,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-29T10:01:31Z",
-      "pushed_at": "2026-08-29T10:02:03Z",
+      "pushed_at": "2026-08-29T10:14:18Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -195,7 +213,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-27T14:56:47Z",
-      "pushed_at": "2026-08-29T09:33:31Z",
+      "pushed_at": "2026-08-29T10:16:14Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -214,24 +232,6 @@
       "stars": 0,
       "created_at": "2026-08-28T17:00:22Z",
       "pushed_at": "2026-08-29T08:40:17Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349875413",
-      "title": "Vaishnav9699/google-Agentic-Hackathon",
-      "url": "https://github.com/Vaishnav9699/google-Agentic-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Vaishnav9699",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-08-28T17:35:15Z",
-      "pushed_at": "2026-08-29T07:51:57Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
