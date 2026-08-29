@@ -1,5 +1,5 @@
 interface:
-  display_name: "Agent Competition Scout"
-  short_description: "Verify and maintain official AI competition results"
+  display_name: "Agent / Skill 比赛情报站"
+  short_description: "搜索、核验并维护 Agent、Skill、MCP 与多智能体比赛赛果"
   brand_color: "#EE3E2B"
-  default_prompt: "Use $agent-competition-scout to find current Agent and Skill competition winners, verify official sources, and update the podium dataset with a validation receipt."
+  default_prompt: "使用 $agent-competition-scout 搜索近期 Agent 与 Skill 比赛前三名，核验官方来源并给出可复查的更新记录。"

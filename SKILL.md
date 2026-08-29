@@ -1,6 +1,6 @@
 ---
 name: agent-competition-scout
-description: Discover, verify, deduplicate, and maintain results for AI Agent, Agent Skill, MCP, and multi-agent competitions. Use when researching current competitions or updating the Agent / Skill Podium dataset; do not treat participant self-claims or secondary roundups as proof of placement.
+description: 搜索、核验、去重并维护 AI Agent、Agent Skill、MCP 与多智能体比赛赛果；适用于调研近期赛事、获奖项目或更新比赛领奖台数据，不把参赛者自述和二手汇总当作名次证据。
 ---
 
 # Agent Competition Scout
