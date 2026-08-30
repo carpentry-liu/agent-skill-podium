@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-08-29T09:00:00+08:00",
+  "updated_at": "2026-08-30T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,24 +21,6 @@
   ],
   "candidates": [
     {
-      "id": "1347521265",
-      "title": "malik-saab-c/clarity-agent-hackathon",
-      "url": "https://github.com/malik-saab-c/clarity-agent-hackathon",
-      "description": "Clarity — approval-first AI agent for the Agent Harness Hackathon (TrueForge + Groq + real tools)",
-      "owner": "malik-saab-c",
-      "language": "JavaScript",
-      "stars": 2,
-      "created_at": "2026-08-26T15:51:54Z",
-      "pushed_at": "2026-08-29T09:11:29Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.477,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
       "id": "1234341370",
       "title": "20030419zhanghongyi/qwenpaw-ai-agent-competition",
       "url": "https://github.com/20030419zhanghongyi/qwenpaw-ai-agent-competition",
@@ -47,46 +29,10 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-05-10T03:55:35Z",
-      "pushed_at": "2026-08-29T10:16:35Z",
+      "pushed_at": "2026-08-30T05:26:20Z",
       "topics": [],
       "matched_queries": [
         "AI agent competition"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349114752",
-      "title": "ajalcance/glassbox-ai-quant",
-      "url": "https://github.com/ajalcance/glassbox-ai-quant",
-      "description": "News-driven, risk-gated AI options trading agent on Alpaca (paper trading) — every decision inspectable. Alpaca AI Trading Agents Hackathon 2026.",
-      "owner": "ajalcance",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T02:09:43Z",
-      "pushed_at": "2026-08-29T09:33:37Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1350478934",
-      "title": "Anoushkha1225/Resume-Agent",
-      "url": "https://github.com/Anoushkha1225/Resume-Agent",
-      "description": "Autonomous agent that reconstructs why you were doing what you were doing after an interruption, and learns your personal interruption patterns over time. Built with Gemini 3.5, Google ADK, and Cloud Firestore for the All Things Agentic Hackathon — Collaborative Partner track.",
-      "owner": "Anoushkha1225",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-29T10:10:59Z",
-      "pushed_at": "2026-08-29T10:14:18Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -101,7 +47,7 @@
       "language": null,
       "stars": 0,
       "created_at": "2026-08-01T08:37:39Z",
-      "pushed_at": "2026-08-29T05:03:02Z",
+      "pushed_at": "2026-08-30T02:03:45Z",
       "topics": [
         "agent-competitions",
         "ai-agents",
@@ -120,15 +66,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1350468850",
-      "title": "Hoodk123/Alpaca-trade",
-      "url": "https://github.com/Hoodk123/Alpaca-trade",
-      "description": "TradOX - a simple AI paper-trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "Hoodk123",
+      "id": "1350665957",
+      "title": "CHAUPHUOCHOA/vf-logistics-hackathon-google",
+      "url": "https://github.com/CHAUPHUOCHOA/vf-logistics-hackathon-google",
+      "description": "VF Logistics autonomous fraud detection - All Things Agentic Hackathon 2026",
+      "owner": "CHAUPHUOCHOA",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-29T09:56:20Z",
-      "pushed_at": "2026-08-29T09:56:38Z",
+      "created_at": "2026-08-29T14:49:27Z",
+      "pushed_at": "2026-08-30T06:39:50Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -138,15 +84,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1346517144",
-      "title": "lx-singw/benchpress",
-      "url": "https://github.com/lx-singw/benchpress",
-      "description": "The independent economic and trajectory intelligence platform for AI agents & model routing — benchmarking real-world Cost Per Resolution (CPR), tool reliability, trajectory bloat, and hybrid routing economics. Built for the Google All Things Agentic Hackathon.",
-      "owner": "lx-singw",
-      "language": "Python",
+      "id": "1342292094",
+      "title": "Its-a-me-Ashwin/Anvil",
+      "url": "https://github.com/Its-a-me-Ashwin/Anvil",
+      "description": "All Things Agentic Hackathon ",
+      "owner": "Its-a-me-Ashwin",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-08-25T18:54:29Z",
-      "pushed_at": "2026-08-29T09:17:01Z",
+      "created_at": "2026-08-21T23:12:53Z",
+      "pushed_at": "2026-08-30T05:25:51Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -156,15 +102,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1347538847",
-      "title": "mayurpawar/cloudcap",
-      "url": "https://github.com/mayurpawar/cloudcap",
-      "description": "Governed multi-agent fleet for GCP cost, security & compliance — live scan + Gemini reasoning + GitOps PR remediation. Built for the All Things Agentic Hackathon (Fortified Enterprise Fleet).",
-      "owner": "mayurpawar",
-      "language": "Python",
+      "id": "1346883628",
+      "title": "joshDamian/agentic-hack",
+      "url": "https://github.com/joshDamian/agentic-hack",
+      "description": "Autonomous Dependabot backlog triage agent — All Things Agentic hackathon",
+      "owner": "joshDamian",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-08-26T16:10:48Z",
-      "pushed_at": "2026-08-29T09:12:56Z",
+      "created_at": "2026-08-26T04:05:47Z",
+      "pushed_at": "2026-08-30T06:29:23Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -174,15 +120,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1350479672",
-      "title": "mihai-satmarean/alpaca-trading-agents",
-      "url": "https://github.com/mihai-satmarean/alpaca-trading-agents",
-      "description": "ProductAdvisors - Autonomous AI options trading agents for the Alpaca AI Trading Agents Hackathon. Signal-processing pipeline with MCP tooling, multi-strategy orchestration, and intelligent risk management.",
-      "owner": "mihai-satmarean",
-      "language": null,
+      "id": "1346914219",
+      "title": "Joticle/Uncharted-Labs",
+      "url": "https://github.com/Joticle/Uncharted-Labs",
+      "description": "Autonomous options agent with instrument-level risk containment — per-position max loss fixed at order construction, not enforced by agent code. Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Joticle",
+      "language": "C#",
       "stars": 0,
-      "created_at": "2026-08-29T10:12:10Z",
-      "pushed_at": "2026-08-29T10:12:11Z",
+      "created_at": "2026-08-26T04:52:51Z",
+      "pushed_at": "2026-08-30T06:29:01Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -192,15 +138,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1350472446",
-      "title": "pranavjawale01/Alpaca-AI-Trading-Agents-Hackathon",
-      "url": "https://github.com/pranavjawale01/Alpaca-AI-Trading-Agents-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "pranavjawale01",
+      "id": "1350607713",
+      "title": "kalpana-Shan/NexaVigil",
+      "url": "https://github.com/kalpana-Shan/NexaVigil",
+      "description": "Cross-market compliance surveillance agent fleet — All Things Agentic Hackathon 2026",
+      "owner": "kalpana-Shan",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-29T10:01:31Z",
-      "pushed_at": "2026-08-29T10:14:18Z",
+      "created_at": "2026-08-29T13:29:27Z",
+      "pushed_at": "2026-08-30T04:34:24Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -210,15 +156,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1348613322",
-      "title": "ranjangogoi61/storefront-ops-agent",
-      "url": "https://github.com/ranjangogoi61/storefront-ops-agent",
-      "description": "Autonomous agent that audits a Shopify store's product listings, fixes safe issues (missing descriptions, SEO fields, tags) on its own, and escalates anything risky (price, inventory) to a human. Built with Gemini + Google ADK on Cloud Run for the All Things Agentic Hackathon 2026.",
-      "owner": "ranjangogoi61",
-      "language": "Python",
+      "id": "1347521265",
+      "title": "malik-saab-c/clarity-agent-hackathon",
+      "url": "https://github.com/malik-saab-c/clarity-agent-hackathon",
+      "description": "Clarity — approval-first AI agent for the Agent Harness Hackathon (TrueForge + Groq + real tools)",
+      "owner": "malik-saab-c",
+      "language": "JavaScript",
       "stars": 1,
-      "created_at": "2026-08-27T14:56:47Z",
-      "pushed_at": "2026-08-29T10:16:14Z",
+      "created_at": "2026-08-26T15:51:54Z",
+      "pushed_at": "2026-08-30T04:49:05Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -228,15 +174,69 @@
       "source_type": "github-search"
     },
     {
-      "id": "1349844799",
-      "title": "rogerdemello/theta-shepherd",
-      "url": "https://github.com/rogerdemello/theta-shepherd",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon - credit spreads + Azure OpenAI gatekeeper + hard risk gates",
-      "owner": "rogerdemello",
+      "id": "1334474087",
+      "title": "michaelnkr808/cartographer",
+      "url": "https://github.com/michaelnkr808/cartographer",
+      "description": "all-things-agentic hackathon repo",
+      "owner": "michaelnkr808",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-28T17:00:22Z",
-      "pushed_at": "2026-08-29T08:40:17Z",
+      "created_at": "2026-08-14T18:33:43Z",
+      "pushed_at": "2026-08-30T06:22:18Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1350112497",
+      "title": "owlsowo/finly-bot",
+      "url": "https://github.com/owlsowo/finly-bot",
+      "description": "Proof-carrying paper options agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "owlsowo",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-08-28T23:22:43Z",
+      "pushed_at": "2026-08-30T06:36:03Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1346875194",
+      "title": "SankrityaT/openai-mcp-hackathon",
+      "url": "https://github.com/SankrityaT/openai-mcp-hackathon",
+      "description": "your canvas beyond the prompt. a webmcp-native agent workspace: chatgpt drives the canvas through 12 in-page tools, cardea browses the real web in parallel, and nothing commits without you.",
+      "owner": "SankrityaT",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-08-26T03:52:01Z",
+      "pushed_at": "2026-08-30T02:23:40Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1340187356",
+      "title": "TheScottyB/blue-toad-fleet",
+      "url": "https://github.com/TheScottyB/blue-toad-fleet",
+      "description": "Agent fleet for absentee auction bidding — All Things Agentic Hackathon 2026",
+      "owner": "TheScottyB",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-20T02:00:06Z",
+      "pushed_at": "2026-08-30T04:50:37Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
