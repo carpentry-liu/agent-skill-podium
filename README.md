@@ -9,7 +9,7 @@
 
 `纯静态`　`零前端依赖`　`GitHub Pages`　`内置联网核验 Skill`
 
-[浏览赛果](#功能) · [使用发现台](#标签化发现) · [安装 Skill](#agent-competition-scout-skill) · [提交比赛](CONTRIBUTING.md)
+[在线访问](https://carpentry-liu.github.io/agent-skill-podium/) · [浏览赛果](#功能) · [使用发现台](#标签化发现) · [安装 Skill](#agent-competition-scout-skill) · [提交比赛](CONTRIBUTING.md)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 | 数据快照 | 已收录赛事 | 获奖记录 | 主办组织 | 最近核验 |
 | --- | ---: | ---: | ---: | --- |
-| `v1` | 8 | 32 | 7 | 2026-08-29 |
+| `v1.1` | 11 | 54 | 10 | 2026-08-31 |
 
 ## 为什么需要它
 
@@ -114,13 +114,16 @@ Skill 的入口和判定口径分别位于 [`SKILL.md`](SKILL.md) 与 [`referenc
 
 ## 当前数据
 
-截至 2026-08-29，数据集收录以下官方材料：
+截至 2026-08-31，数据集收录 11 场比赛、54 条获奖记录。下面所有获奖人、团队和作品均能回溯到主办方材料；尚未开奖的赛事不会显示虚构名单。
 
 ### 中国大陆
 
 - [魔搭 · AI PC Agent Skills 征文活动](https://modelscope.cn/events/242/AI%20PC%20Agent%20Skills%20%E5%BE%81%E6%96%87%E6%B4%BB%E5%8A%A8)：收录官方公布的全部 10 组最佳实践奖；官方注明排名不分先后，数据不写数字名次；
 - [腾讯云 · 第二届黑客松智能渗透挑战赛](https://developer.cloud.tencent.com/article/2661083)：只收录官方复盘正文明确点名的主赛场冠军与平行赛场第一名；
-- [火山引擎 / 扣子 · AI 智能体线上挑战赛](https://developer.volcengine.com/activities/7413321752799150117)：精选官方获奖表的一等奖与全部二等奖，不把同档奖项强行排序。
+- [火山引擎 / 扣子 · Vibe Coze 企业 AI 应用赛道](https://developer.volcengine.com/activities/7569894904566906907)：新增全部 12 个获奖作品及选手，包括《企业产品海报设计工具 PC 版》《销冠武器库》《企业合规风险检测助手》等；
+- [阿里云 / 魔搭 / Datawhale · Create@AI 创客松第四季](https://startup.aliyun.com/info/1083843.html)：新增 10 个 Multi-Agent 获奖作品及团队成员，包括《再忙也要陪陪小朋友》《AI创意广告制造局》《ChaosAgent 混沌工程助手》等；
+- [火山引擎 / 扣子 · AI 智能体线上挑战赛](https://developer.volcengine.com/activities/7413321752799150117)：精选官方获奖表的一等奖与全部二等奖，不把同档奖项强行排序；
+- [火山引擎 · 火山杯 Agent 创新大赛 2026](https://www.volcengine.com/activity/agent/competition/2026)：赛事进行中，全国总决赛和获奖名单尚未公布。
 
 ### 全球与其他地区
 

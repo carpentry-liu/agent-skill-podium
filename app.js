@@ -233,7 +233,7 @@
     localFilter.addEventListener("click", () => {
       elements.search.value = composedQuery(false);
       render();
-      document.getElementById("desk-title").scrollIntoView({ behavior: "smooth", block: "start" });
+      document.getElementById("catalog-title").scrollIntoView({ behavior: "smooth", block: "start" });
     });
     refreshDiscovery();
   }

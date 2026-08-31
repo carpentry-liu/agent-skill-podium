@@ -1,6 +1,6 @@
 window.PODIUM_DATA = {
   "schema_version": "1.1.0",
-  "updated_at": "2026-08-29",
+  "updated_at": "2026-08-31",
   "methodology": {
     "scope": "公开举办、主题明确涉及 AI Agent、Agent Skill、MCP 或多智能体系统的竞赛与黑客松。",
     "source_policy": "赛事名次必须由主办方官网、官方博客、官方竞赛页或主办方维护的 GitHub 证明。项目页用于补充作品细节，不能单独证明名次。",
@@ -127,6 +127,329 @@ window.PODIUM_DATA = {
     ]
   },
   "competitions": [
+    {
+      "id": "volcengine-vibe-coze-enterprise-ai-2025",
+      "title": "Vibe Coze AI 挑战赛——企业 AI 应用赛道",
+      "organizer": "Agent Developer Group / 扣子",
+      "year": 2025,
+      "region": "中国大陆",
+      "types": [
+        "agent"
+      ],
+      "tags": [
+        "Agent",
+        "企业协作",
+        "开发者工具",
+        "火山引擎",
+        "扣子 Coze",
+        "字节跳动",
+        "Agent Developer Group / 扣子",
+        "2025",
+        "中国大陆",
+        "中国",
+        "亚太"
+      ],
+      "status": "completed",
+      "result_status": "verified",
+      "dates": {
+        "start": "2025-11-12",
+        "end": "2025-12-13",
+        "announced": null
+      },
+      "official_url": "https://developer.volcengine.com/activities/7569894904566906907",
+      "verified_on": "2026-08-31",
+      "verification_note": "火山引擎开发者社区官方活动页列出企业 AI 应用赛道全部 12 个获奖作品、选手与奖项层级。一等奖、二等奖、三等奖及最佳 AI 实践奖均按官方原文保存，不换算为数字总排名。",
+      "summary": "Agent Developer Group 联合扣子举办的企业 AI 应用挑战赛，要求从企业真实需求出发，使用扣子、豆包编程模型或火山引擎工具构建可复现成品。",
+      "scale": {
+        "participants": null,
+        "submissions": null,
+        "countries": null
+      },
+      "results": [
+        {
+          "award": "一等奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "企业产品海报设计工具 PC 版",
+          "team": "魏冉",
+          "summary": "面向企业产品宣传的海报设计工具，官方列为本赛道一等奖。",
+          "project_url": "https://ai.feishu.cn/docx/M2kGdGGjToaDUZxSbXVcmsAbnDh"
+        },
+        {
+          "award": "二等奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "销冠武器库",
+          "team": "薛临风、王博书",
+          "summary": "面向企业销售工作的 AI 应用，官方列为本赛道二等奖。",
+          "project_url": "https://ai.feishu.cn/docx/QLRSdlcBboJOLmxoyUTcbSdgnhe"
+        },
+        {
+          "award": "二等奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "企业合规风险检测助手",
+          "team": "郝雨",
+          "summary": "帮助企业检测合规风险的 AI 助手，官方列为本赛道二等奖。",
+          "project_url": "https://ai.feishu.cn/wiki/XmIgwSgA8iNm5lkChbycMBd7n2c"
+        },
+        {
+          "award": "三等奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "AI-跨综服",
+          "team": "国贸云商",
+          "summary": "服务企业跨境综合服务场景的 AI 应用，官方列为本赛道三等奖。",
+          "project_url": "https://scnx21ph2zf0.feishu.cn/docx/ZfzadtIFYoNp8UxEA7EcwJ12nof"
+        },
+        {
+          "award": "三等奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "迈凯伦产品 AI 问答网站",
+          "team": "管一群",
+          "summary": "面向产品知识查询的 AI 问答网站，官方列为本赛道三等奖。",
+          "project_url": "https://ai.feishu.cn/wiki/LJ1sw8PZ3img6rkPZrocjlIfnOk"
+        },
+        {
+          "award": "三等奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "数学建模 AI 应用平台",
+          "team": "邓鹏",
+          "summary": "面向数学建模流程的 AI 应用平台，官方列为本赛道三等奖。",
+          "project_url": "https://ai.feishu.cn/wiki/BJJkwnElXiqOfGk5vYRcBPNAnLE"
+        },
+        {
+          "award": "最佳 AI 实践奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "AI知行引擎",
+          "team": "杨尚武",
+          "summary": "官方活动页列为企业 AI 应用赛道最佳 AI 实践奖。",
+          "project_url": "https://mcn03c70zkr8.feishu.cn/wiki/KrZkwljEoiudTaktkkqcfbiznyf"
+        },
+        {
+          "award": "最佳 AI 实践奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "MatrixCraft 矩造",
+          "team": "余世豪",
+          "summary": "官方活动页列为企业 AI 应用赛道最佳 AI 实践奖。",
+          "project_url": "https://wg9bz50gnw.feishu.cn/wiki/UsdZwhL2riGh8WkXbnicDeq8nhd"
+        },
+        {
+          "award": "最佳 AI 实践奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "智能打印中枢",
+          "team": "邱杰",
+          "summary": "面向企业打印流程的智能中枢，官方列为最佳 AI 实践奖。",
+          "project_url": "https://ai.feishu.cn/wiki/FiumwK8fhiQKNnkV2TxclYZLnXb"
+        },
+        {
+          "award": "最佳 AI 实践奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "PCBTool.AI：基于大模型的智能电路工程生成系统",
+          "team": "崔湛林团队（张振尧、陈紫键）",
+          "summary": "用大模型辅助电路工程生成的企业 AI 应用，官方列为最佳 AI 实践奖。",
+          "project_url": "https://pcbtool.ai"
+        },
+        {
+          "award": "最佳 AI 实践奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "企业计算机配置助手",
+          "team": "于杰",
+          "summary": "辅助企业选择计算机配置的 AI 应用，官方列为最佳 AI 实践奖。",
+          "project_url": "https://ai.feishu.cn/wiki/B4lhw1ehTit4C7koy5ockJt6nhf"
+        },
+        {
+          "award": "最佳 AI 实践奖",
+          "rank": null,
+          "track": "企业 AI 应用赛道",
+          "project": "What We Eat",
+          "team": "施胜骞（Forrest）",
+          "summary": "官方活动页列为企业 AI 应用赛道最佳 AI 实践奖。",
+          "project_url": "https://xcnmz31w0bl6.feishu.cn/wiki/MpGdws6EfiFuwKk5iRXcJHNXnjf"
+        }
+      ]
+    },
+    {
+      "id": "aliyun-modelscope-create-ai-hackathon-4-2024",
+      "title": "Create@AI 创客松第四季——Multi-Agent for X",
+      "organizer": "阿里云 / 魔搭社区 / Datawhale",
+      "year": 2024,
+      "region": "中国大陆",
+      "types": [
+        "agent",
+        "multi-agent"
+      ],
+      "tags": [
+        "Agent",
+        "multi-agent",
+        "开发者工具",
+        "游戏",
+        "教育",
+        "生活服务",
+        "阿里云",
+        "魔搭 ModelScope",
+        "阿里云 / 魔搭社区 / Datawhale",
+        "2024",
+        "中国大陆",
+        "中国",
+        "亚太"
+      ],
+      "status": "completed",
+      "result_status": "verified",
+      "dates": {
+        "start": null,
+        "end": "2024-04-13",
+        "announced": "2024-04-16"
+      },
+      "official_url": "https://startup.aliyun.com/info/1083843.html",
+      "verified_on": "2026-08-31",
+      "verification_note": "阿里云官方复盘逐项公布一等奖、二等奖、三等奖和四个专项奖，并给出团队、成员、作品名称及项目链接；同档多人获奖不设置内部数字名次。",
+      "summary": "阿里云、魔搭社区与 Datawhale 围绕 Multi-Agent for X 举办的创客松，参赛作品基于 AgentScope 探索游戏、效率工具、教育、社交与企业工作流。",
+      "scale": {
+        "participants": null,
+        "submissions": 66,
+        "countries": null
+      },
+      "results": [
+        {
+          "award": "一等奖",
+          "rank": null,
+          "track": "Multi-Agent for X",
+          "project": "再忙也要陪陪小朋友",
+          "team": "MumuLab（吕昭波）",
+          "summary": "通过多智能体构建童话角色，生成故事、形象与配音并支持亲子互动。",
+          "project_url": "https://modelscope.cn/studios/lvzhaobo/BedtimeStory/summary"
+        },
+        {
+          "award": "二等奖",
+          "rank": null,
+          "track": "Multi-Agent for X",
+          "project": "AI创意广告制造局",
+          "team": "嘉喻户晓（李嘉杰、刘晓妍）",
+          "summary": "用多个业务角色 Agent 串联需求分析、创意设计、脚本与视频制作。",
+          "project_url": "https://modelscope.cn/studios/Jacob2023/AI_Creative_Advertising_Company/summary"
+        },
+        {
+          "award": "二等奖",
+          "rank": null,
+          "track": "Multi-Agent for X",
+          "project": "生活辩论家：现实逃离之旅",
+          "team": "老板说什么都不对（苏童、刘晓倩、李明轩、盛钺清、甘展诚）",
+          "summary": "通过渐进式 AI 辩论游戏帮助用户表达情绪、练习理性思考。",
+          "project_url": "https://modelscope.cn/studios/shengyueqing/Debate_your_life/summary"
+        },
+        {
+          "award": "三等奖",
+          "rank": null,
+          "track": "Multi-Agent for X",
+          "project": "模法学院之庭审风云",
+          "team": "模法创新者（房俍、石斯瑾、成亦陈）",
+          "summary": "用多智能体模拟法庭角色、证据质证与庭审评价，服务法学情境教学。",
+          "project_url": "https://modelscope.cn/studios/fangliang911/magic_lawyer/summary"
+        },
+        {
+          "award": "三等奖",
+          "rank": null,
+          "track": "Multi-Agent for X",
+          "project": "ChaosAgent 混沌工程助手",
+          "team": "今日宜开摆（汪劲松、文俊龙）",
+          "summary": "用多个 Agent 协作完成混沌工程计划、故障注入、监控与报告。",
+          "project_url": "https://modelscope.cn/studios/flowscolors/chaos_agent/summary"
+        },
+        {
+          "award": "三等奖",
+          "rank": null,
+          "track": "Multi-Agent for X",
+          "project": "AI金牌调解员",
+          "team": "金牌调解员（房俍、石斯瑾、成亦陈）",
+          "summary": "结合语音识别、长期记忆与法律知识库辅助民间纠纷调解。",
+          "project_url": "https://modelscope.cn/studios/YukiLee/Gold-Mediator/summary"
+        },
+        {
+          "award": "最具创意奖",
+          "rank": null,
+          "track": "专项奖",
+          "project": "游戏成长（YGO版）",
+          "team": "SUN（符志成）",
+          "summary": "把目标拆成 Agent 管理的学习计划，并用积分与卡牌奖励增强执行动力。",
+          "project_url": "https://modelscope.cn/studios/kevinfu/NoGameNoGrowthYGO/summary"
+        },
+        {
+          "award": "最具技术突破奖",
+          "rank": null,
+          "track": "专项奖",
+          "project": "Landing Page 生成器",
+          "team": "赛博大叔（Daniel、Feng）",
+          "summary": "基于设计系统和多智能体协作生成更贴近既有产品体系的落地页。",
+          "project_url": "https://modelscope.cn/studios/findyourmagic/landingpage-agent/summary"
+        },
+        {
+          "award": "最具商业价值奖",
+          "rank": null,
+          "track": "专项奖",
+          "project": "数据精灵",
+          "team": "SQL BOY（韦国迎、徐炽明、朱静漪、史永刚）",
+          "summary": "用多智能体连接数据库、生成查询与图表，并完成经营归因分析。",
+          "project_url": "https://modelscope.cn/studios/turkeymz/DataEngineer/summary"
+        },
+        {
+          "award": "最具潜力奖",
+          "rank": null,
+          "track": "专项奖",
+          "project": "智恋",
+          "team": "你有高速运转的机器进入UESTC队（谢宇昊）",
+          "summary": "基于 AgentScope 构建游戏化虚拟相亲平台，以多个角色 Agent 模拟互动环节。",
+          "project_url": "https://modelscope.cn/studios/ShiGuangNuoYan/Intellectual-love/summary"
+        }
+      ]
+    },
+    {
+      "id": "volcengine-agent-innovation-cup-2026",
+      "title": "火山杯 Agent 创新大赛 2026",
+      "organizer": "火山引擎",
+      "year": 2026,
+      "region": "中国大陆",
+      "types": [
+        "agent",
+        "skill"
+      ],
+      "tags": [
+        "Agent",
+        "Skill",
+        "开发者工具",
+        "火山引擎",
+        "扣子 Coze",
+        "字节跳动",
+        "2026",
+        "中国大陆",
+        "中国",
+        "亚太"
+      ],
+      "status": "open",
+      "result_status": "pending",
+      "dates": {
+        "start": null,
+        "end": null,
+        "announced": null
+      },
+      "official_url": "https://www.volcengine.com/activity/agent/competition/2026",
+      "verified_on": "2026-08-31",
+      "verification_note": "火山引擎官方页显示企业与高校独立赛处于 2026 年 Q2–Q3 阶段，全国总决赛及颁奖安排在 Q3–Q4；截至核验日尚无全国获奖名单。",
+      "summary": "面向企业开发者和高校师生的全国 Agent 创新赛事，作品需使用 HiAgent、扣子、Trae 或 AgentKit 构建可演示方案。",
+      "scale": {
+        "participants": null,
+        "submissions": null,
+        "countries": null
+      },
+      "results": []
+    },
     {
       "id": "modelscope-ai-pc-agent-skills-2026",
       "title": "AI PC Agent Skills 征文活动",
@@ -414,8 +737,8 @@ window.PODIUM_DATA = {
         "announced": null
       },
       "official_url": "https://openai.com/webmcp-challenge/",
-      "verified_on": "2026-08-29",
-      "verification_note": "官方页面写明计划于 2026-09-23 公布 Top 10；核验时仍在征集，尚无获奖名单。",
+      "verified_on": "2026-08-31",
+      "verification_note": "2026-08-31 复核 OpenAI 官方页面：作品提交截止时间为 2026-09-03（太平洋时间），计划于 2026-09-23 公布 10 个获奖项目；当前仍未开奖。",
       "summary": "面向 Agent 原生网页体验的 WebMCP 挑战，要求参赛作品通过结构化工具让人和智能体更好地共同使用 Web 应用。",
       "scale": {
         "participants": null,
