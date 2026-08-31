@@ -29,15 +29,17 @@ Before research or maintenance, read [references/source-policy.md](references/so
 3. Use `result_status: "pending"` with an empty `results` array when an official event is active but has not announced winners. Use `partial` when the included rows are a clearly disclosed selection from a larger official result set.
 4. Set unavailable fields to `null` and explain material gaps in `verification_note`. A missing project link is not a reason to omit a confirmed winner.
 5. Set `verified_on` to the actual verification date and update the dataset-level `updated_at` when data changes.
-6. Run:
+6. Run the single maintenance entrypoint:
 
    ```text
-   python scripts/sync_data_bundle.py
-   python scripts/validate_data.py --check-bundle
-   python -m unittest discover -s tests -v
+   python scripts/maintain.py refresh
    ```
 
-   The generated `data/competitions.js` is required so the static page also works when opened directly from disk.
+   It synchronizes `data/competitions.js`, validates both formal results and the
+   unverified lead bundle, and runs the Python and frontend tests. Use
+   `python scripts/maintain.py refresh --dry-run` for a read-only preflight.
+   The generated `data/competitions.js` is required so the static page also works
+   when opened directly from disk.
 
 7. Review the diff for accidental claims, duplicated events, changed source URLs, and unsupported rankings.
 
@@ -52,3 +54,18 @@ Report:
 - validation commands and outcomes.
 
 Do not publish, open issues, change repository visibility, or push commits unless the user separately authorizes those actions.
+
+## Refresh the unverified lead feed
+
+When the user asks to search GitHub for fresh candidates, use:
+
+```text
+python scripts/maintain.py discover --dry-run
+```
+
+This performs live discovery but writes nothing. After reviewing the report, use
+`--write-leads` only when the user asks to update the lead feed. That flag may
+write only `data/discovery.json` and `data/discovery.js`; it never promotes a lead
+to `data/competitions.json`. Official placement still requires the evidence review
+above. The command uses public GitHub Search and does not put browser scraping or
+credentials into the static site.

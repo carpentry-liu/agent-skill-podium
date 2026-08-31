@@ -11,14 +11,14 @@
 5. 官方没有数字排名时，将 `rank` 设为 `null` 并保留原奖项名称。
 6. 缺少项目链接或规模数据时使用 `null`，不要猜测。
 7. 更新 `updated_at` 和该赛事的 `verified_on`。
-8. 同步并验证数据：
+8. 用统一入口同步并验证数据：
 
    ```powershell
-   python scripts/sync_data_bundle.py
-   python scripts/validate_data.py --check-bundle
-   python -m unittest discover -s tests -v
-   node tests/test_core.js
+   python scripts/maintain.py refresh
    ```
+
+   该命令会同步正式数据包、检查未核验候选数据包，并运行 Python 与前端测试。
+   只想预检时使用 `python scripts/maintain.py refresh --dry-run`。
 
 ## PR 描述应包含
 
@@ -38,6 +38,10 @@
 - `query_suffix` 应缩小来源范围，而不是添加未经证实的结论；
 - 不要在静态前端加入需要泄露密钥或绕过 CORS 的抓取逻辑；
 - 运行 Bundle 同步与全部测试。
+
+如需刷新每日 GitHub 候选，先运行 `python scripts/maintain.py discover --dry-run`
+阅读候选报告；确认后再运行 `python scripts/maintain.py discover --write-leads`。
+这个入口只更新 `data/discovery.json/js`，不会自动晋升任何候选。
 
 ## Commit 规范
 

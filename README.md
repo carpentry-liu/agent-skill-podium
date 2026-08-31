@@ -155,17 +155,26 @@ python -m http.server 8000
 
 直接打开文件时，浏览器读取生成的 `data/competitions.js`；JSON 仍是唯一维护源。
 
-## 维护数据
+## 一条命令维护
 
-编辑 `data/competitions.json` 后执行：
+所有同步、校验和测试统一从 `scripts/maintain.py` 进入，不必再记五条命令：
+
+| 目的 | 命令 | 是否写文件 |
+| --- | --- | --- |
+| 提交前完整检查 | `python scripts/maintain.py check` | 否 |
+| 编辑正式赛果后的同步与检查 | `python scripts/maintain.py refresh` | 只生成 `competitions.js` |
+| 预演同步 | `python scripts/maintain.py refresh --dry-run` | 否 |
+| 联网预览新候选 | `python scripts/maintain.py discover --dry-run` | 否 |
+| 更新每日候选池 | `python scripts/maintain.py discover --write-leads` | 只写 `discovery.json/js` |
+
+每次命令都会输出 Markdown 风格的可读报告：文件是否变化、每个步骤是否通过，以及候选仍为 `unverified` 的证据边界。需要留档时增加 `--report reports/maintenance.md`。报告只能写入仓库专用的 `reports/` 目录、必须使用新的 `.md` 文件名且不会覆盖旧报告；`data/`、脚本目录与仓库外路径会在任何发现或同步动作开始前被拒绝。
 
 ```powershell
-python scripts/sync_data_bundle.py
-python scripts/validate_data.py --check-bundle
-python scripts/discover_competitions.py --check-bundle
-python -m unittest discover -s tests -v
-node tests/test_core.js
+# 典型流程：编辑 data/competitions.json 后，一条命令完成其余工作
+python scripts/maintain.py refresh --report reports/maintenance.md
 ```
+
+自动发现只查询公开的 GitHub Search，不会在网页端抓取，不需要把密钥放进仓库，也**不会**把候选自动写进正式赛果。维护者核对到官方结果证据后，才人工编辑 `data/competitions.json`。
 
 校验器只使用 Python 标准库；正式 JSON Schema 位于 [`data/competitions.schema.json`](data/competitions.schema.json)。贡献新的赛事前，请阅读 [`CONTRIBUTING.md`](CONTRIBUTING.md) 和 [`references/data-schema.md`](references/data-schema.md)。
 

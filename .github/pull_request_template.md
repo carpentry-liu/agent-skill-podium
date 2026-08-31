@@ -12,8 +12,6 @@
 
 ## Validation
 
-- [ ] `python scripts/sync_data_bundle.py`
-- [ ] `python scripts/validate_data.py --check-bundle`
-- [ ] `python -m unittest discover -s tests -v`
-- [ ] `node tests/test_core.js`
+- [ ] `python scripts/maintain.py refresh`（修改正式数据时）
+- [ ] `python scripts/maintain.py check`
 - [ ] I did not infer ranks from page order, popularity, or participant self-claims.

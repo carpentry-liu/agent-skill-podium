@@ -19,12 +19,13 @@ Maintain a static, source-traceable index of AI Agent, Agent Skill, MCP, and mul
 After changing `data/competitions.json`, always run:
 
 ```text
-python scripts/sync_data_bundle.py
-python scripts/validate_data.py --check-bundle
-python scripts/discover_competitions.py --check-bundle
-python -m unittest discover -s tests -v
-node tests/test_core.js
+python scripts/maintain.py refresh
 ```
+
+For a read-only repository check, run `python scripts/maintain.py check`. For live
+candidate discovery, preview with `python scripts/maintain.py discover --dry-run`
+before explicitly choosing `--write-leads`; discovery can only update the
+unverified `data/discovery.json/js` pair.
 
 For skill changes, also run the `skill-creator` quick validator against the repository root.
 
