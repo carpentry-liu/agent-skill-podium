@@ -24,7 +24,7 @@
       "language": "Python",
       "stars": 12,
       "created_at": "2026-05-12T15:46:31Z",
-      "pushed_at": "2026-08-31T06:13:04Z",
+      "pushed_at": "2026-08-31T06:56:53Z",
       "topics": [
         "agents",
         "arc",
@@ -48,28 +48,10 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-05-10T03:55:35Z",
-      "pushed_at": "2026-08-31T05:18:24Z",
+      "pushed_at": "2026-08-31T06:14:39Z",
       "topics": [],
       "matched_queries": [
         "AI agent competition"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1339117928",
-      "title": "4KInc/anbu-care",
-      "url": "https://github.com/4KInc/anbu-care",
-      "description": "Anbu Care — autonomous eldercare & insurance coordination for NRIs. Multi-agent system on Gemini + Google ADK + Google Cloud. All Things Agentic Hackathon.",
-      "owner": "4KInc",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-19T05:14:08Z",
-      "pushed_at": "2026-08-31T06:05:07Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -103,15 +85,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1351849427",
-      "title": "aryan123197/soc-analyst-agent",
-      "url": "https://github.com/aryan123197/soc-analyst-agent",
-      "description": "SOC ticket/alert triage pipeline with real Google Model Armor, Gemini, and Memory Bank — built for the All Things Agentic Hackathon",
-      "owner": "aryan123197",
+      "id": "1267553770",
+      "title": "DeathKnell837/band-of-agents-hackathon",
+      "url": "https://github.com/DeathKnell837/band-of-agents-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "DeathKnell837",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-31T00:42:47Z",
-      "pushed_at": "2026-08-31T06:03:40Z",
+      "created_at": "2026-06-12T16:39:26Z",
+      "pushed_at": "2026-08-31T06:59:16Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -121,15 +103,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1267553770",
-      "title": "DeathKnell837/band-of-agents-hackathon",
-      "url": "https://github.com/DeathKnell837/band-of-agents-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "DeathKnell837",
+      "id": "1349842390",
+      "title": "desmond-sunj/alpaca-options-agent",
+      "url": "https://github.com/desmond-sunj/alpaca-options-agent",
+      "description": "Autonomous options-trading agent on Alpaca (lablab.ai AI Trading Agents Hackathon)",
+      "owner": "desmond-sunj",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-06-12T16:39:26Z",
-      "pushed_at": "2026-08-31T05:53:37Z",
+      "created_at": "2026-08-28T16:57:41Z",
+      "pushed_at": "2026-08-31T06:24:05Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -147,7 +129,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:43:04Z",
-      "pushed_at": "2026-08-31T06:03:59Z",
+      "pushed_at": "2026-08-31T07:00:11Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -157,33 +139,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1346517144",
-      "title": "lx-singw/benchpress",
-      "url": "https://github.com/lx-singw/benchpress",
-      "description": "The independent economic and trajectory intelligence platform for AI agents & model routing — benchmarking real-world Cost Per Resolution (CPR), tool reliability, trajectory bloat, and hybrid routing economics. Built for the Google All Things Agentic Hackathon.",
-      "owner": "lx-singw",
+      "id": "1351869359",
+      "title": "LightLLM/ExceptionOS",
+      "url": "https://github.com/LightLLM/ExceptionOS",
+      "description": "The Enterprise Resolution Control Plane — autonomous exception resolution for the Google All Things Agentic Hackathon",
+      "owner": "LightLLM",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-25T18:54:29Z",
-      "pushed_at": "2026-08-31T05:31:04Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1351564810",
-      "title": "MdHananSjd/AutoMend",
-      "url": "https://github.com/MdHananSjd/AutoMend",
-      "description": "PhoenixOps is an autonomous AI agent that watches live backend services on the GCP cloud, detects crashes, error spikes, memory leaks and bad deploys, diagnoses the root cause via gemini-Google ADK, and self-heals the service through rollback, config patching, or scaling with zero human intervention. Built for Google's All Things Agentic hackathon.",
-      "owner": "MdHananSjd",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-08-30T16:39:51Z",
-      "pushed_at": "2026-08-31T06:06:52Z",
+      "created_at": "2026-08-31T01:21:30Z",
+      "pushed_at": "2026-08-31T06:43:00Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -201,7 +165,25 @@
       "language": "JavaScript",
       "stars": 1,
       "created_at": "2026-08-28T23:22:43Z",
-      "pushed_at": "2026-08-31T06:10:53Z",
+      "pushed_at": "2026-08-31T06:50:05Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1352067607",
+      "title": "Phineas1500/onhand-thread",
+      "url": "https://github.com/Phineas1500/onhand-thread",
+      "description": "A browser tutor that remembers how you learn — Gemini + ADK learner-model agent + Firestore persistent memory (All Things Agentic Hackathon)",
+      "owner": "Phineas1500",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-08-31T06:18:30Z",
+      "pushed_at": "2026-08-31T06:34:31Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -219,7 +201,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-29T12:17:37Z",
-      "pushed_at": "2026-08-31T06:03:42Z",
+      "pushed_at": "2026-08-31T06:57:40Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -241,6 +223,24 @@
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1352005365",
+      "title": "Suger123-Star/bim-ifc-hazard-multiagent",
+      "url": "https://github.com/Suger123-Star/bim-ifc-hazard-multiagent",
+      "description": "基于BIM-IFC解析的危大工程多智能体风险研判系统（海之子AI智能体挑战赛）",
+      "owner": "Suger123-Star",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-08-31T04:53:07Z",
+      "pushed_at": "2026-08-31T04:53:29Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 挑战赛"
       ],
       "score": 15.301,
       "status": "unverified",
