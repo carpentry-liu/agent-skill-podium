@@ -1,8 +1,8 @@
 <div align="center">
 
-# Agent / Skill 领奖台
+# Agent 赛事档案
 
-### 公开赛果，像商品目录一样好找。
+### 让每一条赛果，都能回到它的原始来源。
 
 面向 AI Agent、Agent Skill、MCP 与多智能体比赛的公开赛果情报站<br>
 **官方来源优先 · 奖项口径不混排 · 核验日期可追溯**
@@ -13,9 +13,9 @@
 
 </div>
 
-![Agent / Skill 领奖台真实运行页面](docs/assets/agent-skill-podium-overview.png)
+![Agent 赛事档案真实运行页面](docs/assets/agent-skill-podium-overview.png)
 
-> 截图来自本仓库静态页面的本地实际运行结果（1440 × 2400），不是设计概念图。新版采用克制的比价目录式界面，页面可由 GitHub Pages 原样托管。
+> 截图来自本仓库静态页面的本地实际运行结果，不是设计概念图。新版采用赛事公报式的编辑排版，页面可由 GitHub Pages 原样托管。
 
 它不制造新的“综合排行榜”，而是把散落在主办方博客、赛事官网和官方竞赛页里的获奖信息，整理成可搜索、可筛选、可追溯的数据集。仓库同时包含可安装的 `agent-competition-scout` Skill，用来联网发现候选赛事、核验官方证据并维护数据。
 

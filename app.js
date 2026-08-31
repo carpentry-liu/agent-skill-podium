@@ -85,7 +85,7 @@
 
     row.append(rank, project, summary);
     if (result.project_url) {
-      row.appendChild(link("winner__link", "查看项目", result.project_url, `打开 ${result.project} 项目页面（新窗口）`));
+      row.appendChild(link("winner__link", "项目 ↗", result.project_url, `打开 ${result.project} 项目页面（新窗口）`));
     } else {
       row.appendChild(text("span", "winner__missing", "暂无链接"));
     }
@@ -96,7 +96,7 @@
     const fragment = elements.template.content.cloneNode(true);
     const card = fragment.querySelector(".competition-card");
     card.style.animationDelay = `${Math.min(index, 6) * 65}ms`;
-    fragment.querySelector(".competition-card__serial").textContent = `赛事\n${String(index + 1).padStart(2, "0")}`;
+    fragment.querySelector(".competition-card__serial").textContent = `FILE\n${String(index + 1).padStart(2, "0")}`;
     fragment.querySelector("h3").textContent = item.title;
     fragment.querySelector(".competition-card__dek").textContent = item.summary;
 
@@ -122,12 +122,12 @@
 
     const ticket = fragment.querySelector(".source-ticket");
     const top = document.createElement("div");
-    top.append(text("h4", "", "信息来源"), text("p", "source-ticket__seal", item.result_status === "pending" ? "官方待开奖" : "官方已核验"));
+    top.append(text("h4", "", "核验底稿"), text("p", "source-ticket__seal", item.result_status === "pending" ? "官方待开奖" : "官方已核验"));
     const detail = document.createElement("div");
     detail.append(
       text("p", "", `最近核验：${item.verified_on}`),
       text("p", "", item.verification_note),
-      link("", "查看官方结果", item.official_url, `打开 ${item.title} 官方来源（新窗口）`)
+      link("", "原始来源 ↗", item.official_url, `打开 ${item.title} 官方来源（新窗口）`)
     );
     ticket.append(top, detail);
     return fragment;

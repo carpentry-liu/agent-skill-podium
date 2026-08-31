@@ -7,6 +7,8 @@ description: 搜索、核验、去重并维护 AI Agent、Agent Skill、MCP 与�
 
 把分散在各个平台的比赛公告整理为可追溯的赛果数据。保留主办方原始奖项结构，不擅自创造跨赛事总排名。
 
+**在线档案：** [carpentry-liu.github.io/agent-skill-podium](https://carpentry-liu.github.io/agent-skill-podium/) — 不安装 Skill 也能直接浏览、搜索和筛选当前已核验赛果。
+
 ## 选择工作模式
 
 - **检索模式：** 用户只想了解有哪些比赛或获奖项目时，联网搜索并回报候选，不修改文件。
