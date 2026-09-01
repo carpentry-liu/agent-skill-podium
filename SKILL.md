@@ -1,6 +1,6 @@
 ---
 name: agent-competition-scout
-description: 搜索、核验、去重并维护 AI Agent、Agent Skill、MCP 与多智能体比赛赛果；适用于调研近期赛事、获奖项目或更新比赛领奖台数据，不把参赛者自述和二手汇总当作名次证据。
+description: 搜索、核验、去重并维护 AI Agent、Agent Skill、MCP 与多智能体比赛赛果；适用于调研近期赛事、获奖项目或更新比赛领奖台数据。在线赛果网站：https://carpentry-liu.github.io/agent-skill-podium/
 ---
 
 # Agent / Skill 比赛情报站
