@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-02T09:00:00+08:00",
+  "updated_at": "2026-09-03T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -24,7 +24,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-09-02T05:07:59Z",
+      "pushed_at": "2026-09-03T05:40:20Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -34,40 +34,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1336694733",
-      "title": "Anand135001/Autonomous-Investigator-Engine",
-      "url": "https://github.com/Anand135001/Autonomous-Investigator-Engine",
-      "description": "All Things Agentic Hackathon by Gemini- Evidence-driven multi-agent engine for autonomous technical incident investigation, experimentation, and root-cause verification.",
-      "owner": "Anand135001",
+      "id": "1346737030",
+      "title": "czech12/muthur-trading-agent",
+      "url": "https://github.com/czech12/muthur-trading-agent",
+      "description": "MU/TH/UR 8400 — an autonomous options-trading agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "czech12",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-17T05:05:31Z",
-      "pushed_at": "2026-09-02T05:48:10Z",
-      "topics": [
-        "firestore",
-        "gemini-3-6-flash",
-        "google-adk",
-        "google-cloud",
-        "rest-api",
-        "secret-manager"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1352674992",
-      "title": "hamzaahmad3006/the-underwriter",
-      "url": "https://github.com/hamzaahmad3006/the-underwriter",
-      "description": "An autonomous AI options underwriting desk. The LLM proposes; a deterministic Solvency Kernel disposes. Alpaca AI Trading Agents Hackathon 2026.",
-      "owner": "hamzaahmad3006",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-31T17:20:43Z",
-      "pushed_at": "2026-09-02T05:44:57Z",
+      "created_at": "2026-08-26T00:07:40Z",
+      "pushed_at": "2026-09-03T03:44:21Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -77,15 +52,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1354184193",
-      "title": "irishkiwi007/hackathon-alastairmcvey-alt-krakn-ai-bot",
-      "url": "https://github.com/irishkiwi007/hackathon-alastairmcvey-alt-krakn-ai-bot",
-      "description": "Standalone archived copy of https://github.com/alastairmcvey-alt/krakn-ai-bot — aussie-trading — submission: https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon/aussie-trading/kraknai",
-      "owner": "irishkiwi007",
-      "language": "JavaScript",
+      "id": "1351327613",
+      "title": "jpennin5/edgestack",
+      "url": "https://github.com/jpennin5/edgestack",
+      "description": "Evidence-gated trading agent - every rule survived an attempt to kill it. lablab.ai x Alpaca AI Trading Agents Hackathon.",
+      "owner": "jpennin5",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-02T01:20:34Z",
-      "pushed_at": "2026-09-02T05:28:09Z",
+      "created_at": "2026-08-30T11:09:13Z",
+      "pushed_at": "2026-09-03T05:28:43Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -95,15 +70,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1354170320",
-      "title": "irishkiwi007/hackathon-ibrahimjatt1313-prog-AlphaPilot",
-      "url": "https://github.com/irishkiwi007/hackathon-ibrahimjatt1313-prog-AlphaPilot",
-      "description": "Standalone archived copy of https://github.com/ibrahimjatt1313-prog/AlphaPilot — quantum-coders — submission: https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon/quantum-coders/alphapilot-ai",
-      "owner": "irishkiwi007",
+      "id": "1346645427",
+      "title": "JrWater/jralpha-sentinel",
+      "url": "https://github.com/JrWater/jralpha-sentinel",
+      "description": "An autonomous options trading agent whose LLM cannot place an order — it can only propose one. 16 deterministic gates decide. Built on Alpaca for the AI Trading Agents Hackathon.",
+      "owner": "JrWater",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-02T00:59:00Z",
-      "pushed_at": "2026-09-02T05:29:52Z",
+      "created_at": "2026-08-25T21:28:08Z",
+      "pushed_at": "2026-09-03T04:37:22Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -113,15 +88,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1354350163",
-      "title": "irishkiwi007/hackathon-Sharannya26-AntiFOMOGatekeeper",
-      "url": "https://github.com/irishkiwi007/hackathon-Sharannya26-AntiFOMOGatekeeper",
-      "description": "Standalone archived copy of https://github.com/Sharannya26/AntiFOMOGatekeeper — finance — submission: https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon/finance/solidroute-risk-managed-options-execution-agent",
-      "owner": "irishkiwi007",
+      "id": "1350703211",
+      "title": "Makeos-op/Alpaca-AI-Trading-Agents-Hackathon",
+      "url": "https://github.com/Makeos-op/Alpaca-AI-Trading-Agents-Hackathon",
+      "description": "Workaround team submit for the Alpaca AI Trading Agents Hackathon",
+      "owner": "Makeos-op",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-02T05:28:26Z",
-      "pushed_at": "2026-09-02T05:28:30Z",
+      "created_at": "2026-08-29T15:39:44Z",
+      "pushed_at": "2026-09-03T04:15:49Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -139,49 +114,16 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-20T11:59:32Z",
-      "pushed_at": "2026-09-02T05:47:54Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1354183895",
-      "title": "PegBitStudio/kink",
-      "url": "https://github.com/PegBitStudio/kink",
-      "description": "A term-structure options agent on Alpaca paper trading. Trades the shape of the volatility surface, not direction. Built for the Alpaca x lablab.ai AI Trading Agents hackathon.",
-      "owner": "PegBitStudio",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-02T01:20:08Z",
-      "pushed_at": "2026-09-02T05:44:43Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1350780310",
-      "title": "ricardogs26/hackathon-alpaca",
-      "url": "https://github.com/ricardogs26/hackathon-alpaca",
-      "description": "Autonomous defined-risk options trading agent for Alpaca — LLM proposes, code decides. Alpaca AI Trading Agents Hackathon (lablab.ai).",
-      "owner": "ricardogs26",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-29T17:26:21Z",
-      "pushed_at": "2026-09-02T04:57:33Z",
+      "pushed_at": "2026-09-03T05:31:41Z",
       "topics": [
-        "ai-agent",
+        "algorithmic-trading",
         "alpaca",
-        "hackathon",
+        "backtesting",
         "options-trading",
-        "trading-bot"
+        "python",
+        "streamlit",
+        "trading-agent",
+        "volatility"
       ],
       "matched_queries": [
         "agent hackathon"
@@ -191,15 +133,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1349844799",
-      "title": "rogerdemello/theta-shepherd",
-      "url": "https://github.com/rogerdemello/theta-shepherd",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon - credit spreads + Azure OpenAI gatekeeper + hard risk gates",
-      "owner": "rogerdemello",
+      "id": "1351570658",
+      "title": "Omkar38/MarginCalled",
+      "url": "https://github.com/Omkar38/MarginCalled",
+      "description": "lpaca AI Trading Agents Hackathon",
+      "owner": "Omkar38",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-28T17:00:22Z",
-      "pushed_at": "2026-09-02T05:10:25Z",
+      "created_at": "2026-08-30T16:47:29Z",
+      "pushed_at": "2026-09-03T03:35:38Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -209,36 +151,90 @@
       "source_type": "github-search"
     },
     {
-      "id": "1346875194",
-      "title": "SankrityaT/openai-mcp-hackathon",
-      "url": "https://github.com/SankrityaT/openai-mcp-hackathon",
-      "description": "your canvas beyond the prompt. a webmcp-native agent workspace: chatgpt drives the canvas through 12 in-page tools, cardea browses the real web in parallel, and nothing commits without you.",
-      "owner": "SankrityaT",
-      "language": "TypeScript",
+      "id": "1354017109",
+      "title": "wsungAhn/atlas-regime-router",
+      "url": "https://github.com/wsungAhn/atlas-regime-router",
+      "description": "Backtest-selected, defined-risk options + crypto regime-router agent for Alpaca (lablab.ai x Alpaca AI Trading Agents Hackathon)",
+      "owner": "wsungAhn",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-26T03:52:01Z",
-      "pushed_at": "2026-09-02T04:11:01Z",
+      "created_at": "2026-09-01T20:51:16Z",
+      "pushed_at": "2026-09-03T05:44:14Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1234341370",
-      "title": "20030419zhanghongyi/qwenpaw-ai-agent-competition",
-      "url": "https://github.com/20030419zhanghongyi/qwenpaw-ai-agent-competition",
+      "id": "1353153630",
+      "title": "Yashmko/aasha",
+      "url": "https://github.com/Yashmko/aasha",
+      "description": "AASHA (आशा) — agentic, multilingual AI voice companion for ageing parents. AssemblyAI Voice Agent Hackathon entry.",
+      "owner": "Yashmko",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-09-01T05:04:50Z",
+      "pushed_at": "2026-09-03T05:42:20Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1334724890",
+      "title": "yssssssssssss/ai-agentmesh-hackathon",
+      "url": "https://github.com/yssssssssssss/ai-agentmesh-hackathon",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "20030419zhanghongyi",
+      "owner": "yssssssssssss",
       "language": "Python",
-      "stars": 1,
-      "created_at": "2026-05-10T03:55:35Z",
-      "pushed_at": "2026-09-01T15:36:11Z",
+      "stars": 0,
+      "created_at": "2026-08-15T02:13:22Z",
+      "pushed_at": "2026-09-03T04:57:58Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1343534776",
+      "title": "arfyrafa/AI-Prisma",
+      "url": "https://github.com/arfyrafa/AI-Prisma",
+      "description": "AI Prisma for BISA.AI AI Agent Competition",
+      "owner": "arfyrafa",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-23T08:20:26Z",
+      "pushed_at": "2026-09-02T17:09:21Z",
       "topics": [],
       "matched_queries": [
         "AI agent competition"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1353945106",
+      "title": "ConnectCap890/enlightenMe_WebMCP_Hackathon",
+      "url": "https://github.com/ConnectCap890/enlightenMe_WebMCP_Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "ConnectCap890",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-01T19:19:44Z",
+      "pushed_at": "2026-09-02T22:27:24Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
