@@ -29,7 +29,7 @@
       "language": "Python",
       "stars": 13,
       "created_at": "2026-05-12T15:46:31Z",
-      "pushed_at": "2026-09-04T03:47:11Z",
+      "pushed_at": "2026-09-04T05:46:55Z",
       "topics": [
         "agents",
         "arc",
@@ -45,24 +45,6 @@
       "source_type": "github-search"
     },
     {
-      "id": "1349624710",
-      "title": "Alpaca-AI-Trading-Hackhaton-lablab-ai/alpaca-ai-trading-agents-hackathon-lablab.ai",
-      "url": "https://github.com/Alpaca-AI-Trading-Hackhaton-lablab-ai/alpaca-ai-trading-agents-hackathon-lablab.ai",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Alpaca-AI-Trading-Hackhaton-lablab-ai",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T13:19:59Z",
-      "pushed_at": "2026-09-04T03:50:41Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
       "id": "1349699908",
       "title": "alvaarocl/iv-desk",
       "url": "https://github.com/alvaarocl/iv-desk",
@@ -71,7 +53,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-09-04T03:45:51Z",
+      "pushed_at": "2026-09-04T05:45:50Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -99,6 +81,60 @@
       "source_type": "github-search"
     },
     {
+      "id": "1351664624",
+      "title": "aryangorde6/contour",
+      "url": "https://github.com/aryangorde6/contour",
+      "description": "An autonomous options agent that measures the shape of the volatility surface and lets the measurement pick the structure. Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "aryangorde6",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-30T18:47:59Z",
+      "pushed_at": "2026-09-04T05:51:09Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1356041348",
+      "title": "BROCKUGANDA/alpacaruns",
+      "url": "https://github.com/BROCKUGANDA/alpacaruns",
+      "description": "Alpaca AI Trading Agents hackathon submission — autonomous Go + ADK multi-agent ensemble with risk gates",
+      "owner": "BROCKUGANDA",
+      "language": "Go",
+      "stars": 0,
+      "created_at": "2026-09-03T13:59:55Z",
+      "pushed_at": "2026-09-04T05:14:32Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1356681701",
+      "title": "chiefsmurph/silver-lynx-quant",
+      "url": "https://github.com/chiefsmurph/silver-lynx-quant",
+      "description": "A bounded, auditable AI options-execution agent — trades private alpha through a deterministic risk gauntlet + a fail-open LLM overlay, MCP-native both ways. Alpaca AI Trading Agents hackathon.",
+      "owner": "chiefsmurph",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-09-04T04:08:27Z",
+      "pushed_at": "2026-09-04T05:42:37Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
       "id": "1353945106",
       "title": "ConnectCap890/enlightenMe_WebMCP_Hackathon",
       "url": "https://github.com/ConnectCap890/enlightenMe_WebMCP_Hackathon",
@@ -107,7 +143,7 @@
       "language": "TypeScript",
       "stars": 0,
       "created_at": "2026-09-01T19:19:44Z",
-      "pushed_at": "2026-09-04T03:52:03Z",
+      "pushed_at": "2026-09-04T05:03:53Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -117,51 +153,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1351570658",
-      "title": "Omkar38/MarginCalled",
-      "url": "https://github.com/Omkar38/MarginCalled",
-      "description": "lpaca AI Trading Agents Hackathon",
-      "owner": "Omkar38",
-      "language": "Python",
+      "id": "1356676104",
+      "title": "kele0929/kele0929.github.io",
+      "url": "https://github.com/kele0929/kele0929.github.io",
+      "description": "VenueClock live API origin for X-Agent MCP Hackathon 2026",
+      "owner": "kele0929",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-08-30T16:47:29Z",
-      "pushed_at": "2026-09-04T03:48:37Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1354183895",
-      "title": "PegBitStudio/kink",
-      "url": "https://github.com/PegBitStudio/kink",
-      "description": "A term-structure options agent on Alpaca paper trading. Trades the shape of the volatility surface, not direction. Built for the Alpaca x lablab.ai AI Trading Agents hackathon.",
-      "owner": "PegBitStudio",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-09-02T01:20:08Z",
-      "pushed_at": "2026-09-04T03:44:15Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1346875194",
-      "title": "SankrityaT/openai-mcp-hackathon",
-      "url": "https://github.com/SankrityaT/openai-mcp-hackathon",
-      "description": "your canvas beyond the prompt. a webmcp-native agent workspace: chatgpt drives the canvas through 12 in-page tools, cardea browses the real web in parallel, and nothing commits without you.",
-      "owner": "SankrityaT",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-08-26T03:52:01Z",
-      "pushed_at": "2026-09-04T02:32:57Z",
+      "created_at": "2026-09-04T03:58:03Z",
+      "pushed_at": "2026-09-04T03:58:07Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -171,15 +171,51 @@
       "source_type": "github-search"
     },
     {
-      "id": "1334724890",
-      "title": "yssssssssssss/ai-agentmesh-hackathon",
-      "url": "https://github.com/yssssssssssss/ai-agentmesh-hackathon",
+      "id": "1356678718",
+      "title": "kele0929/license-compat-api",
+      "url": "https://github.com/kele0929/license-compat-api",
+      "description": "SPDX inbound license-compatibility API for AI agents (X-Agent MCP Hackathon 2026)",
+      "owner": "kele0929",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-04T04:02:49Z",
+      "pushed_at": "2026-09-04T04:02:52Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1356675977",
+      "title": "kele0929/venueclock",
+      "url": "https://github.com/kele0929/venueclock",
+      "description": "Agent-callable market session calendar API (X-Agent MCP Hackathon 2026)",
+      "owner": "kele0929",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-04T03:57:47Z",
+      "pushed_at": "2026-09-04T03:57:51Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1356735511",
+      "title": "laucathaclac/os-agent-hackathon",
+      "url": "https://github.com/laucathaclac/os-agent-hackathon",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "yssssssssssss",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-15T02:13:22Z",
-      "pushed_at": "2026-09-04T03:38:00Z",
+      "owner": "laucathaclac",
+      "language": null,
+      "stars": 1,
+      "created_at": "2026-09-04T05:34:36Z",
+      "pushed_at": "2026-09-04T05:34:37Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -189,56 +225,20 @@
       "source_type": "github-search"
     },
     {
-      "id": "1351215064",
-      "title": "aeiou0123/pku-financial-ai-agent",
-      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
-      "description": "Claim2Value - 北大金融AI智能体大赛",
-      "owner": "aeiou0123",
+      "id": "1349844420",
+      "title": "matthewchung74/alpaca-gatekeeper",
+      "url": "https://github.com/matthewchung74/alpaca-gatekeeper",
+      "description": "Autonomous options trading agent on Alpaca: Claude proposes, 14 deterministic gates dispose. Built for the lablab.ai x Alpaca AI Trading Agents Hackathon.",
+      "owner": "matthewchung74",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-09-03T07:36:13Z",
+      "created_at": "2026-08-28T16:59:59Z",
+      "pushed_at": "2026-09-04T05:34:27Z",
       "topics": [],
       "matched_queries": [
-        "智能体 大赛"
+        "agent hackathon"
       ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1343534776",
-      "title": "arfyrafa/AI-Prisma",
-      "url": "https://github.com/arfyrafa/AI-Prisma",
-      "description": "AI Prisma for BISA.AI AI Agent Competition",
-      "owner": "arfyrafa",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-23T08:20:26Z",
-      "pushed_at": "2026-09-03T15:01:43Z",
-      "topics": [],
-      "matched_queries": [
-        "AI agent competition"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1356507280",
-      "title": "HICHAM-RK/OpenAI-WebMCP-Hackathon",
-      "url": "https://github.com/HICHAM-RK/OpenAI-WebMCP-Hackathon",
-      "description": "Website-enforced, execution-time authority for WebMCP agents.",
-      "owner": "HICHAM-RK",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-03T23:07:56Z",
-      "pushed_at": "2026-09-03T23:13:47Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     }
