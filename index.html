@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Agent 赛事档案：把散落的官方赛果整理成可检索、可核验、可追溯的获奖项目目录。">
-    <meta name="theme-color" content="#f2efe7">
-    <title>Agent 赛事档案｜The Podium Index</title>
+    <meta name="description" content="Agent 赛事观测站：把散落的官方赛果校准成可检索、可核验、可追溯的公开坐标。">
+    <meta name="theme-color" content="#071319">
+    <title>Agent 赛事观测站｜Podium Signal</title>
     <link rel="icon" href="./favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="./styles.css">
   </head>
@@ -14,63 +14,72 @@
 
     <header class="site-header">
       <div class="container site-header__inner">
-        <a class="brand" href="#top" aria-label="Agent 赛事档案首页">
-          <span class="brand__mark" aria-hidden="true">P/</span>
+        <a class="brand" href="#top" aria-label="Agent 赛事观测站首页">
+          <span class="brand__mark" aria-hidden="true">P°</span>
           <span class="brand__copy">
-            <strong>Agent 赛事档案</strong>
-            <small>THE PODIUM INDEX</small>
+            <strong>Agent 赛事观测站</strong>
+            <small>PODIUM SIGNAL / EST. 2026</small>
           </span>
         </a>
         <nav class="site-nav" aria-label="主要导航">
-          <a href="#catalog"><span>01</span> 赛果档案</a>
-          <a href="#discovery"><span>02</span> 赛事雷达</a>
-          <a href="#methodology"><span>03</span> 核验协议</a>
+          <a href="#catalog"><span>01</span> ARCHIVE</a>
+          <a href="#discovery"><span>02</span> RADAR</a>
+          <a href="#methodology"><span>03</span> METHOD</a>
         </nav>
-        <p class="trust-mark"><span aria-hidden="true">●</span> SOURCE-VERIFIED</p>
+        <p class="trust-mark"><span aria-hidden="true"></span> VERIFIED SIGNAL</p>
       </div>
     </header>
 
     <main id="top">
       <section class="intro container" aria-labelledby="hero-title">
         <div class="intro__copy">
-          <p class="eyebrow">THE PODIUM INDEX · OPEN ARCHIVE</p>
-          <h1 id="hero-title">给 Agent 赛果<br>一张可信的底稿</h1>
-          <p class="intro__lead">我们翻主办方公告、赛事官网和官方竞赛页，把散落的获奖名单整理成能搜索、能追溯、也经得起复查的公开档案。</p>
+          <p class="eyebrow"><span aria-hidden="true"></span> LIVE INDEX / OFFICIAL RESULTS ONLY</p>
+          <h1 id="hero-title">让每一条<br><em>Agent 赛果</em><br>都有坐标</h1>
+          <p class="intro__lead">我们持续扫描主办方公告、赛事官网与官方竞赛页，把散落的获奖名单校准成能搜索、能追溯、也经得起复查的公开坐标。</p>
           <div class="intro__actions">
-            <a class="button button--primary" href="#catalog">翻阅赛果档案 <span aria-hidden="true">↓</span></a>
-            <a class="button button--quiet" href="#discovery">查看今日线索 <span aria-hidden="true">↗</span></a>
+            <a class="button button--primary" href="#catalog">进入赛果坐标 <span aria-hidden="true">↓</span></a>
+            <a class="button button--quiet" href="#discovery">打开信号雷达 <span aria-hidden="true">↗</span></a>
           </div>
         </div>
         <aside class="intro__policy" aria-label="收录规则摘要">
+          <div class="signal-map" aria-hidden="true">
+            <span class="signal-map__ring signal-map__ring--outer"></span>
+            <span class="signal-map__ring signal-map__ring--inner"></span>
+            <span class="signal-map__cross signal-map__cross--x"></span>
+            <span class="signal-map__cross signal-map__cross--y"></span>
+            <span class="signal-map__beam"></span>
+            <span class="signal-map__core">✓</span>
+            <small>PROVENANCE<br>LOCKED</small>
+          </div>
           <div class="intro__policy-title">
-            <span>核验协议</span>
-            <small>PROTOCOL / 03</small>
+            <span>信号校准</span>
+            <small>METHOD / 03</small>
           </div>
           <ul>
             <li><span aria-hidden="true">01</span><p><strong>来源先于结论</strong><small>优先主办方官网、博客与竞赛页</small></p></li>
             <li><span aria-hidden="true">02</span><p><strong>奖项保持原貌</strong><small>类别奖不伪装成数字排名</small></p></li>
             <li><span aria-hidden="true">03</span><p><strong>不确定性可见</strong><small>核验日期与缺失信息全部留痕</small></p></li>
           </ul>
-          <a class="intro__policy-link" href="#methodology">阅读完整协议 <span aria-hidden="true">→</span></a>
+          <a class="intro__policy-link" href="#methodology">查看校准方法 <span aria-hidden="true">→</span></a>
         </aside>
       </section>
 
       <section class="stats container" aria-label="收录统计">
         <dl>
-          <div><dt>FILES / 赛事</dt><dd id="competition-count">—</dd><small>场已归档</small></div>
-          <div><dt>RECORDS / 赛果</dt><dd id="winner-count">—</dd><small>条可查</small></div>
-          <div><dt>ORGANIZERS / 主办方</dt><dd id="organizer-count">—</dd><small>个来源</small></div>
-          <div><dt>LAST EDIT / 最近更新</dt><dd id="updated-at">—</dd></div>
+          <div><dt>ARCHIVED / 赛事</dt><dd id="competition-count">—</dd><small>个观测对象</small></div>
+          <div><dt>SIGNALS / 赛果</dt><dd id="winner-count">—</dd><small>条有效记录</small></div>
+          <div><dt>SOURCES / 主办方</dt><dd id="organizer-count">—</dd><small>个官方信源</small></div>
+          <div><dt>CALIBRATED / 校准于</dt><dd id="updated-at">—</dd><small>北京时间</small></div>
         </dl>
       </section>
 
       <section class="catalog container" id="catalog" aria-labelledby="catalog-title">
         <div class="section-heading">
           <div>
-            <p class="eyebrow">ARCHIVE / 01</p>
-            <h2 id="catalog-title">获奖项目档案</h2>
+            <p class="eyebrow">01 / VERIFIED ARCHIVE</p>
+            <h2 id="catalog-title">已确认的赛果坐标</h2>
           </div>
-          <p>按证据查找，不按热度排序。用主办方、年份与赛果状态，快速定位你要复查的记录。</p>
+          <p>这里不做热度排行。沿着主办方、年份与核验状态，直接抵达每条记录背后的原始证据。</p>
         </div>
 
         <form class="filters" id="filters" role="search">
@@ -111,7 +120,7 @@
 
         <div class="results-toolbar">
           <p id="result-summary" aria-live="polite">正在整理赛果……</p>
-          <p class="legend"><span class="legend__dot" aria-hidden="true"></span> 已通过官方来源复查</p>
+          <p class="legend"><span class="legend__dot" aria-hidden="true"></span> 官方信源已锁定</p>
         </div>
 
         <div class="competition-list" id="results" aria-live="polite"></div>
@@ -126,8 +135,8 @@
       <section class="discovery container" id="discovery" aria-labelledby="discovery-title">
         <div class="section-heading section-heading--compact">
           <div>
-            <p class="eyebrow">RADAR / 02</p>
-            <h2 id="discovery-title">尚未归档的赛事雷达</h2>
+            <p class="eyebrow">02 / DISCOVERY RADAR</p>
+            <h2 id="discovery-title">仍在噪声里的新信号</h2>
           </div>
           <p>雷达只负责发现，不负责盖章。每一条候选都要找到官方证据，才会进入正式档案。</p>
         </div>
@@ -135,8 +144,8 @@
         <section class="daily-discovery" aria-labelledby="daily-discovery-title">
           <div class="daily-discovery__header">
             <div>
-              <p><span class="live-dot" aria-hidden="true"></span> DAILY SIGNAL</p>
-              <h3 id="daily-discovery-title">今天捕获的新线索</h3>
+              <p><span class="live-dot" aria-hidden="true"></span> DAILY SWEEP</p>
+              <h3 id="daily-discovery-title">本轮信号捕获</h3>
             </div>
             <div class="daily-discovery__meta">
               <span id="daily-discovery-updated">等待数据</span>
@@ -172,8 +181,8 @@
       <section class="methodology container" id="methodology" aria-labelledby="methodology-title">
         <div class="section-heading section-heading--compact">
           <div>
-            <p class="eyebrow">PROTOCOL / 03</p>
-            <h2 id="methodology-title">可追溯，比热度重要</h2>
+            <p class="eyebrow">03 / CALIBRATION METHOD</p>
+            <h2 id="methodology-title">先锁定来源，再谈名次</h2>
           </div>
           <p>本站是公开赛果目录，不把不同赛事的奖项强行合并成一张综合排行榜。</p>
         </div>
@@ -188,7 +197,7 @@
 
     <footer class="site-footer">
       <div class="container site-footer__inner">
-        <p><strong>Agent 赛事档案</strong><span>THE PODIUM INDEX · 社区维护的官方赛果索引</span></p>
+        <p><strong>Agent 赛事观测站</strong><span>PODIUM SIGNAL · 社区维护的官方赛果坐标</span></p>
         <p><a href="./CONTRIBUTING.md">提交新赛事</a><a href="./data/competitions.json">原始数据</a><a href="./README.md">项目说明</a></p>
       </div>
     </footer>
@@ -205,7 +214,7 @@
           <div class="competition-card__facts"></div>
         </header>
         <div class="competition-card__columns" aria-hidden="true">
-          <span>奖项 / 赛道</span><span>获奖项目与团队</span><span>项目用途</span><span>详情</span>
+          <span>奖项 / 赛道</span><span>获奖项目与团队</span><span>用途 / 能力</span><span>信号</span>
         </div>
         <div class="competition-card__body">
           <div class="podium"></div>

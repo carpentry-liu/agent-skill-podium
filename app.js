@@ -14,6 +14,11 @@
     partial: "已核验·精选",
     pending: "待开奖"
   };
+  const EVENT_STATUS_LABELS = {
+    open: "进行中",
+    completed: "已结束",
+    cancelled: "已取消"
+  };
 
   const data = window.PODIUM_DATA;
   const core = window.PodiumCore;
@@ -96,7 +101,7 @@
     const fragment = elements.template.content.cloneNode(true);
     const card = fragment.querySelector(".competition-card");
     card.style.animationDelay = `${Math.min(index, 6) * 65}ms`;
-    fragment.querySelector(".competition-card__serial").textContent = `FILE\n${String(index + 1).padStart(2, "0")}`;
+    fragment.querySelector(".competition-card__serial").textContent = `NODE\n${String(index + 1).padStart(2, "0")}`;
     fragment.querySelector("h3").textContent = item.title;
     fragment.querySelector(".competition-card__dek").textContent = item.summary;
 
@@ -108,7 +113,9 @@
     appendFact(facts, "主办方", item.organizer);
     appendFact(facts, "年份", String(item.year));
     appendFact(facts, "范围", item.region);
-    if (item.scale && item.scale.submissions) appendFact(facts, "提交数", item.scale.submissions.toLocaleString("zh-CN"));
+    let phase = EVENT_STATUS_LABELS[item.status] || item.status;
+    if (item.result_status === "pending" && item.status === "completed") phase = "评审中";
+    appendFact(facts, "阶段", phase);
 
     const podium = fragment.querySelector(".podium");
     if (item.results.length) {
@@ -122,7 +129,11 @@
 
     const ticket = fragment.querySelector(".source-ticket");
     const top = document.createElement("div");
-    top.append(text("h4", "", "核验底稿"), text("p", "source-ticket__seal", item.result_status === "pending" ? "官方待开奖" : "官方已核验"));
+    let evidenceLabel = "官方已核验";
+    if (item.result_status === "pending") {
+      evidenceLabel = item.status === "completed" ? "等待官方赛果" : "官方待开奖";
+    }
+    top.append(text("h4", "", "信源坐标"), text("p", "source-ticket__seal", evidenceLabel));
     const detail = document.createElement("div");
     detail.append(
       text("p", "", `最近核验：${item.verified_on}`),
@@ -181,7 +192,7 @@
     document.getElementById("competition-count").textContent = String(data.competitions.length);
     document.getElementById("winner-count").textContent = String(data.competitions.reduce((sum, item) => sum + item.results.length, 0));
     document.getElementById("organizer-count").textContent = String(new Set(data.competitions.map((item) => item.organizer)).size);
-    document.getElementById("updated-at").textContent = data.updated_at;
+    document.getElementById("updated-at").textContent = data.updated_at.replaceAll("-", ".");
   }
 
   function initDiscovery() {

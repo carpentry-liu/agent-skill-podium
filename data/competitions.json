@@ -1,6 +1,6 @@
 {
   "schema_version": "1.1.0",
-  "updated_at": "2026-08-31",
+  "updated_at": "2026-09-04",
   "methodology": {
     "scope": "公开举办、主题明确涉及 AI Agent、Agent Skill、MCP 或多智能体系统的竞赛与黑客松。",
     "source_policy": "赛事名次必须由主办方官网、官方博客、官方竞赛页或主办方维护的 GitHub 证明。项目页用于补充作品细节，不能单独证明名次。",
@@ -357,8 +357,8 @@
         "announced": null
       },
       "official_url": "https://www.volcengine.com/activity/agent/competition/2026",
-      "verified_on": "2026-08-31",
-      "verification_note": "火山引擎官方页显示企业与高校独立赛处于 2026 年 Q2–Q3 阶段，全国总决赛及颁奖安排在 Q3–Q4；截至核验日尚无全国获奖名单。",
+      "verified_on": "2026-09-04",
+      "verification_note": "2026-09-04 复核火山引擎官方总赛页与独立赛目录：企业与高校独立赛仍在 2026 年 Q2–Q3 推进，目录已展示 75 场独立赛；全国总决赛及颁奖安排在 Q3–Q4，截至核验日尚无全国获奖名单。",
       "summary": "面向企业开发者和高校师生的全国 Agent 创新赛事，作品需使用 HiAgent、扣子、Trae 或 AgentKit 构建可演示方案。",
       "scale": {
         "participants": null,
@@ -591,7 +591,7 @@
       "region": "全球",
       "types": ["mcp", "web-agent"],
       "tags": ["Agent", "Skill", "MCP", "开发者工具", "OpenAI", "2026", "全球"],
-      "status": "open",
+      "status": "completed",
       "result_status": "pending",
       "dates": {
         "start": "2026-08-25",
@@ -599,8 +599,8 @@
         "announced": null
       },
       "official_url": "https://openai.com/webmcp-challenge/",
-      "verified_on": "2026-08-31",
-      "verification_note": "2026-08-31 复核 OpenAI 官方页面：作品提交截止时间为 2026-09-03（太平洋时间），计划于 2026-09-23 公布 10 个获奖项目；当前仍未开奖。",
+      "verified_on": "2026-09-04",
+      "verification_note": "2026-09-04 复核 OpenAI 官方页面：作品提交已于 2026-09-03（太平洋时间）截止，赛事进入评审阶段；官方计划于 2026-09-23 公布 10 个获奖项目，当前仍未开奖。",
       "summary": "面向 Agent 原生网页体验的 WebMCP 挑战，要求参赛作品通过结构化工具让人和智能体更好地共同使用 Web 应用。",
       "scale": {
         "participants": null,

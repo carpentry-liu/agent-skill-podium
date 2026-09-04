@@ -15,6 +15,17 @@ SPEC.loader.exec_module(DISCOVERY)
 
 
 class DailyDiscoveryTests(unittest.TestCase):
+    def test_unmarked_archive_mirror_is_rejected(self):
+        repo = {
+            "name": "agent-hackathon-copy",
+            "full_name": "archive/agent-hackathon-copy",
+            "description": "Standalone archived copy of a winning agent hackathon entry",
+            "topics": ["agent", "hackathon"],
+            "fork": False,
+            "archived": False,
+        }
+        self.assertFalse(DISCOVERY.is_candidate(repo))
+
     def test_score_rewards_query_matches_and_recency(self):
         base = {
             "name": "agent-hackathon",

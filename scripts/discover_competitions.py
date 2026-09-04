@@ -31,6 +31,9 @@ QUERIES = (
 )
 SUBJECT_TERMS = ("agent", "智能体", "mcp", "skill", "技能", "multi-agent", "多智能体")
 EVENT_TERMS = ("hackathon", "challenge", "competition", "contest", "大赛", "挑战赛", "竞赛", "黑客松")
+MIRROR_TERMS = ("archived copy of", "standalone archived copy", "mirror of")
+
+
 def shanghai_day(now: dt.datetime | None = None) -> dt.date:
     current = now or dt.datetime.now(tz=dt.timezone.utc)
     return current.astimezone(ZoneInfo("Asia/Shanghai")).date()
@@ -67,6 +70,7 @@ def is_candidate(repo: dict) -> bool:
     return (
         not repo.get("fork")
         and not repo.get("archived")
+        and not any(term in text for term in MIRROR_TERMS)
         and any(term in text for term in SUBJECT_TERMS)
         and any(term in text for term in EVENT_TERMS)
     )
