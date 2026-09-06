@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-09-05T09:00:00+08:00",
+  "updated_at": "2026-09-06T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -29,162 +29,12 @@
       "language": "Python",
       "stars": 2,
       "created_at": "2026-08-26T02:10:01Z",
-      "pushed_at": "2026-09-05T04:47:50Z",
+      "pushed_at": "2026-09-06T01:18:49Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
       "score": 15.477,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1347661508",
-      "title": "Alejdro83/alpaca-options-agent",
-      "url": "https://github.com/Alejdro83/alpaca-options-agent",
-      "description": "Autonomous credit-spread options trading agent on Alpaca, via their MCP server — lablab.ai Alpaca AI Trading Agents Hackathon",
-      "owner": "Alejdro83",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-26T18:19:01Z",
-      "pushed_at": "2026-09-05T01:22:32Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1356041348",
-      "title": "BROCKUGANDA/alpacaruns",
-      "url": "https://github.com/BROCKUGANDA/alpacaruns",
-      "description": "Alpaca AI Trading Agents hackathon submission — autonomous Go + ADK multi-agent ensemble with risk gates",
-      "owner": "BROCKUGANDA",
-      "language": "Go",
-      "stars": 0,
-      "created_at": "2026-09-03T13:59:55Z",
-      "pushed_at": "2026-09-05T00:36:22Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349683633",
-      "title": "miramar-labs/alpaca-options-trading-agents",
-      "url": "https://github.com/miramar-labs/alpaca-options-trading-agents",
-      "description": "Multi-agent options-trading floor — Analyst → Dealer (LLM + Alpaca MCP contract selection) → Floor Broker, on LangGraph. Alpaca AI Trading Agents Hackathon.",
-      "owner": "miramar-labs",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T14:18:55Z",
-      "pushed_at": "2026-09-05T03:19:08Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1356715131",
-      "title": "my5757980/profitguard-alpha",
-      "url": "https://github.com/my5757980/profitguard-alpha",
-      "description": "Autonomous AI options trading agent — Alpaca AI Trading Agents Hackathon. 0DTE SPY defined-risk credit spreads on Alpaca paper. An LLM selects among code-built candidates; a deterministic 12-gate risk kernel holds sole authority to approve an order.",
-      "owner": "my5757980",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-04T05:04:05Z",
-      "pushed_at": "2026-09-05T02:42:44Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1350780310",
-      "title": "ricardogs26/hackathon-alpaca",
-      "url": "https://github.com/ricardogs26/hackathon-alpaca",
-      "description": "Autonomous defined-risk options trading agent for Alpaca — LLM proposes, code decides. Alpaca AI Trading Agents Hackathon (lablab.ai).",
-      "owner": "ricardogs26",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-29T17:26:21Z",
-      "pushed_at": "2026-09-05T01:36:12Z",
-      "topics": [
-        "ai-agent",
-        "alpaca",
-        "hackathon",
-        "options-trading",
-        "trading-bot"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1357689017",
-      "title": "srinathjha03/settlement-qa-backend",
-      "url": "https://github.com/srinathjha03/settlement-qa-backend",
-      "description": "Backend for Settlement Q&A Agent hackathon project",
-      "owner": "srinathjha03",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-05T00:02:16Z",
-      "pushed_at": "2026-09-05T01:32:32Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1354166878",
-      "title": "Tempest-Research/website",
-      "url": "https://github.com/Tempest-Research/website",
-      "description": "Website for Esscher Alpaca AI Trading Agents Hackathon ",
-      "owner": "Tempest-Research",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-02T00:53:54Z",
-      "pushed_at": "2026-09-05T00:20:56Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1351781904",
-      "title": "univer-coder/agentic-hackathon1",
-      "url": "https://github.com/univer-coder/agentic-hackathon1",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "univer-coder",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-30T22:15:31Z",
-      "pushed_at": "2026-09-05T05:44:02Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -197,7 +47,133 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-09-04T15:10:44Z",
+      "pushed_at": "2026-09-06T04:04:42Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1358761745",
+      "title": "lixianxin/creativity-ai",
+      "url": "https://github.com/lixianxin/creativity-ai",
+      "description": "2026全球智能体大赛",
+      "owner": "lixianxin",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-09-06T03:42:57Z",
+      "pushed_at": "2026-09-06T03:43:22Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1358693420",
+      "title": "muhammadbilalpak/Kisan-Dost-Agent-Hackathon",
+      "url": "https://github.com/muhammadbilalpak/Kisan-Dost-Agent-Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "muhammadbilalpak",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-06T01:33:42Z",
+      "pushed_at": "2026-09-06T01:56:36Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1334724890",
+      "title": "yssssssssssss/ai-agentmesh-hackathon",
+      "url": "https://github.com/yssssssssssss/ai-agentmesh-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "yssssssssssss",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-15T02:13:22Z",
+      "pushed_at": "2026-09-06T04:31:22Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1358299316",
+      "title": "23f2004742/Hackathon_Agent",
+      "url": "https://github.com/23f2004742/Hackathon_Agent",
+      "description": "Autonomous multi-agent Hackathon Agent OS that researches, plans, builds, validates, documents, packages, and prepares projects for submission using Claude-powered specialist agents.",
+      "owner": "23f2004742",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-05T15:00:51Z",
+      "pushed_at": "2026-09-05T23:08:51Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1287475436",
+      "title": "Awais68/support-Agent-hackathon-5-with-CRM",
+      "url": "https://github.com/Awais68/support-Agent-hackathon-5-with-CRM",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "Awais68",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-07-02T18:11:35Z",
+      "pushed_at": "2026-09-05T20:59:24Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1356681701",
+      "title": "chiefsmurph/alpaca-ai-agents-hackathon",
+      "url": "https://github.com/chiefsmurph/alpaca-ai-agents-hackathon",
+      "description": "A bounded, auditable AI options-execution agent — trades private alpha through a deterministic risk gauntlet + a fail-open LLM overlay, MCP-native both ways. Alpaca AI Trading Agents hackathon.",
+      "owner": "chiefsmurph",
+      "language": "TypeScript",
+      "stars": 1,
+      "created_at": "2026-09-04T04:08:27Z",
+      "pushed_at": "2026-09-05T21:08:37Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1358360192",
+      "title": "Etherealest/USTC_Guiding",
+      "url": "https://github.com/Etherealest/USTC_Guiding",
+      "description": "USTC科大智学导航-107杯算力与智能体大赛",
+      "owner": "Etherealest",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-05T16:21:34Z",
+      "pushed_at": "2026-09-05T16:57:42Z",
       "topics": [],
       "matched_queries": [
         "智能体 大赛"
@@ -207,45 +183,63 @@
       "source_type": "github-search"
     },
     {
-      "id": "1351251635",
-      "title": "anthonyisaa/webMCP_Hackathon",
-      "url": "https://github.com/anthonyisaa/webMCP_Hackathon",
-      "description": "Ratiflow — a WebMCP-native collaboration workspace where agents prepare, people ratify, and work moves.",
-      "owner": "anthonyisaa",
-      "language": "TypeScript",
+      "id": "1347287828",
+      "title": "himanshu2394i/Alpaca",
+      "url": "https://github.com/himanshu2394i/Alpaca",
+      "description": "Autonomous options trading agent on Alpaca: Claude judges entries, deterministic risk gates hold final veto, self-managed exits. Built for the lablab.ai x Alpaca AI Trading Agents Hackathon.",
+      "owner": "himanshu2394i",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-30T09:05:19Z",
-      "pushed_at": "2026-09-04T02:54:15Z",
-      "topics": [],
+      "created_at": "2026-08-26T12:05:40Z",
+      "pushed_at": "2026-09-05T21:11:48Z",
+      "topics": [
+        "ai-agents",
+        "algorithmic-trading",
+        "alpaca-api",
+        "anthropic",
+        "autonomous-agents",
+        "claude",
+        "fintech",
+        "hackathon"
+      ],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1319118155",
-      "title": "api-evangelist/recall",
-      "url": "https://github.com/api-evangelist/recall",
-      "description": "Recall — independent third-party profile of a public API surface, by API Evangelist. Recall is a decentralized AI-agent competition network — \"the world's most trusted AI rankings.\" Agents compete head-to-head in crowdsourced skill markets (crypto spot and perpetual-futures paper trading, coding, safety, prediction, NFL and more), with communities",
-      "owner": "api-evangelist",
-      "language": null,
+      "id": "1358620839",
+      "title": "kk-agent/lineone",
+      "url": "https://github.com/kk-agent/lineone",
+      "description": "LineOne — AssemblyAI Voice Agent Hackathon: inbound voice for a one-person shop",
+      "owner": "kk-agent",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-08-01T08:37:39Z",
-      "pushed_at": "2026-09-04T19:58:36Z",
-      "topics": [
-        "agent-competitions",
-        "ai-agents",
-        "apis-json",
-        "company",
-        "crypto-web3",
-        "leaderboards",
-        "paper-trading",
-        "reputation"
-      ],
+      "created_at": "2026-09-05T23:01:23Z",
+      "pushed_at": "2026-09-05T23:21:00Z",
+      "topics": [],
       "matched_queries": [
-        "AI agent competition"
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1339742032",
+      "title": "knightsky-cpu/col-workspace",
+      "url": "https://github.com/knightsky-cpu/col-workspace",
+      "description": "all things agentic hackathon: collaborative partner track.",
+      "owner": "knightsky-cpu",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-19T15:31:04Z",
+      "pushed_at": "2026-09-05T22:45:20Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
