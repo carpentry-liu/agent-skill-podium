@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-07T09:00:00+08:00",
+  "updated_at": "2026-09-08T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,45 +16,56 @@
   ],
   "candidates": [
     {
-      "id": "1264067820",
-      "title": "Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "url": "https://github.com/Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "description": "Run one command, follow the instructions, and get your first AI agents up and running — Claude Code or Codex. Built for the Elnora AI agent hackathon.",
-      "owner": "Elnora-AI",
-      "language": "PowerShell",
-      "stars": 22,
-      "created_at": "2026-06-09T14:27:37Z",
-      "pushed_at": "2026-09-06T22:23:38Z",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "hackathon",
-        "starter-kit",
-        "template"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 16.251,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1346268120",
-      "title": "jianyilu13-art/MindMuse_AI_agent_Hackathon2026",
-      "url": "https://github.com/jianyilu13-art/MindMuse_AI_agent_Hackathon2026",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "jianyilu13-art",
+      "id": "1351293462",
+      "title": "Arming-afk/Trading-agent-alpaca",
+      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
+      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
+      "owner": "Arming-afk",
       "language": "Python",
-      "stars": 2,
-      "created_at": "2026-08-25T14:55:51Z",
-      "pushed_at": "2026-09-07T04:49:21Z",
+      "stars": 0,
+      "created_at": "2026-08-30T10:13:42Z",
+      "pushed_at": "2026-09-07T21:56:33Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.477,
+      "score": 17.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1360738380",
+      "title": "0n3m0r3/speakship",
+      "url": "https://github.com/0n3m0r3/speakship",
+      "description": "Voice or transcript to a structured GitHub-ready engineering ticket. Built for the AssemblyAI Voice Agent Hackathon.",
+      "owner": "0n3m0r3",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-07T23:25:13Z",
+      "pushed_at": "2026-09-08T02:02:12Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1360952443",
+      "title": "3omarmekki/The-CIA-method-skill",
+      "url": "https://github.com/3omarmekki/The-CIA-method-skill",
+      "description": "Agent Skill - challenge any idea with the CIA method: Key assumptions, alternatives, competing hypothesis, what-if, red-team. For Claude, Opencode, Codex, Gemini, Cursor & 60+ agents",
+      "owner": "3omarmekki",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-09-08T05:16:45Z",
+      "pushed_at": "2026-09-08T05:54:32Z",
+      "topics": [],
+      "matched_queries": [
+        "Agent Skill challenge"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -67,12 +78,160 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-09-07T04:37:41Z",
+      "pushed_at": "2026-09-08T04:48:48Z",
       "topics": [],
       "matched_queries": [
         "智能体 大赛"
       ],
       "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1360945967",
+      "title": "BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
+      "url": "https://github.com/BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
+      "description": "Setup",
+      "owner": "BennedictQuanTon",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-09-08T05:07:14Z",
+      "pushed_at": "2026-09-08T05:07:16Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1148424332",
+      "title": "ExpertVagabond/solmail-mcp",
+      "url": "https://github.com/ExpertVagabond/solmail-mcp",
+      "description": "MCP server for sending physical mail with Solana cryptocurrency. Colosseum Agent Hackathon submission.",
+      "owner": "ExpertVagabond",
+      "language": "TypeScript",
+      "stars": 1,
+      "created_at": "2026-02-03T00:21:59Z",
+      "pushed_at": "2026-09-08T02:41:54Z",
+      "topics": [
+        "ai",
+        "blockchain",
+        "cryptocurrency",
+        "hackathon",
+        "mail",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1313837983",
+      "title": "fresh-fx59/agent-hackathon-kit",
+      "url": "https://github.com/fresh-fx59/agent-hackathon-kit",
+      "description": "Rehearsal environment + reusable primitives for PDLC-track agent hackathons: stdlib-only corporate-system mocks, MCP servers, track skills, scoring benchmarks (RU/EN)",
+      "owner": "fresh-fx59",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-07-27T12:48:44Z",
+      "pushed_at": "2026-09-08T05:21:24Z",
+      "topics": [
+        "ai-agents",
+        "benchmarks",
+        "hackathon",
+        "mcp",
+        "sdd"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1360902190",
+      "title": "Praveen-K-0503/Agentverse_hackathon",
+      "url": "https://github.com/Praveen-K-0503/Agentverse_hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "Praveen-K-0503",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-08T04:01:45Z",
+      "pushed_at": "2026-09-08T04:05:24Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1360451678",
+      "title": "rawrkey/RealityCheck",
+      "url": "https://github.com/rawrkey/RealityCheck",
+      "description": "Hakcathon v2 from  https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon",
+      "owner": "rawrkey",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-07T16:37:23Z",
+      "pushed_at": "2026-09-08T02:12:31Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1287538216",
+      "title": "TahaKhanM/AI-Agent-Hackathon",
+      "url": "https://github.com/TahaKhanM/AI-Agent-Hackathon",
+      "description": "Precedent: deterministic change gates, permission-aware incident memory, approval and rollback simulation, verifiable evidence packs and chronological incident analysis.",
+      "owner": "TahaKhanM",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-07-02T19:30:23Z",
+      "pushed_at": "2026-09-08T00:48:25Z",
+      "topics": [
+        "access-control",
+        "ai-agents",
+        "audit",
+        "hackathon",
+        "incident-management",
+        "python"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349699908",
+      "title": "alvaarocl/iv-desk",
+      "url": "https://github.com/alvaarocl/iv-desk",
+      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
+      "owner": "alvaarocl",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T14:32:47Z",
+      "pushed_at": "2026-09-07T21:31:04Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -98,150 +257,6 @@
       ],
       "matched_queries": [
         "AI agent competition"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1342355624",
-      "title": "Rafa-Innerchispa/innerops-agentic-platform",
-      "url": "https://github.com/Rafa-Innerchispa/innerops-agentic-platform",
-      "description": "InnerOps All Things Agentic hackathon platform. Private auditable workspace; Workforce baseline remains preserved separately.",
-      "owner": "Rafa-Innerchispa",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-22T01:33:55Z",
-      "pushed_at": "2026-09-07T04:21:00Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1359762616",
-      "title": "Vinishraghav/agent-hackathon",
-      "url": "https://github.com/Vinishraghav/agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Vinishraghav",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-09-07T04:44:36Z",
-      "pushed_at": "2026-09-07T04:46:59Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1354017109",
-      "title": "wsungAhn/atlas-regime-router",
-      "url": "https://github.com/wsungAhn/atlas-regime-router",
-      "description": "Backtest-selected, defined-risk options + crypto regime-router agent for Alpaca (lablab.ai x Alpaca AI Trading Agents Hackathon)",
-      "owner": "wsungAhn",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-01T20:51:16Z",
-      "pushed_at": "2026-09-07T01:55:37Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1358299316",
-      "title": "23f2004742/Hackathon_Agent",
-      "url": "https://github.com/23f2004742/Hackathon_Agent",
-      "description": "Autonomous multi-agent Hackathon Agent OS that researches, plans, builds, validates, documents, packages, and prepares projects for submission using Claude-powered specialist agents.",
-      "owner": "23f2004742",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-05T15:00:51Z",
-      "pushed_at": "2026-09-06T22:11:45Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1359377923",
-      "title": "Linardi1328/assemblyai-voice-agent-hackathon",
-      "url": "https://github.com/Linardi1328/assemblyai-voice-agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Linardi1328",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-09-06T17:37:25Z",
-      "pushed_at": "2026-09-06T17:38:08Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1358761745",
-      "title": "lixianxin/creativity-ai",
-      "url": "https://github.com/lixianxin/creativity-ai",
-      "description": "2026全球智能体大赛",
-      "owner": "lixianxin",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-09-06T03:42:57Z",
-      "pushed_at": "2026-09-06T03:43:22Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 大赛"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1356091619",
-      "title": "MaxwellBauer/Hackathon_Demo_Page",
-      "url": "https://github.com/MaxwellBauer/Hackathon_Demo_Page",
-      "description": "Static demo site for the INFINITE: The Internet of Agents hackathon (MIT Media Lab, Oct 30 – Nov 1, 2026). Blue theme with a gold v2 variant.",
-      "owner": "MaxwellBauer",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-09-03T14:46:33Z",
-      "pushed_at": "2026-09-06T16:31:56Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1357903595",
-      "title": "noelmaby/Agentic-hackathon",
-      "url": "https://github.com/noelmaby/Agentic-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "noelmaby",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-05T06:38:45Z",
-      "pushed_at": "2026-09-06T17:21:07Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
