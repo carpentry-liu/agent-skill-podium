@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-08T09:00:00+08:00",
+  "updated_at": "2026-09-09T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -24,7 +24,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-09-07T21:56:33Z",
+      "pushed_at": "2026-09-08T20:57:41Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -34,15 +34,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1360738380",
-      "title": "0n3m0r3/speakship",
-      "url": "https://github.com/0n3m0r3/speakship",
-      "description": "Voice or transcript to a structured GitHub-ready engineering ticket. Built for the AssemblyAI Voice Agent Hackathon.",
-      "owner": "0n3m0r3",
-      "language": "Python",
+      "id": "1362126529",
+      "title": "ezeleis/captei-voz",
+      "url": "https://github.com/ezeleis/captei-voz",
+      "description": "Compose desk for real-estate voice notes: speak rough, send professional. AssemblyAI Voice Agent Hackathon 2026.",
+      "owner": "ezeleis",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-09-07T23:25:13Z",
-      "pushed_at": "2026-09-08T02:02:12Z",
+      "created_at": "2026-09-09T02:49:25Z",
+      "pushed_at": "2026-09-09T03:32:14Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1361137042",
+      "title": "ropa5236/yuanyuan-voice-works",
+      "url": "https://github.com/ropa5236/yuanyuan-voice-works",
+      "description": "Voice inventory assistant for a chain cafe counter - speak, and the stock updates. Built for the AssemblyAI Voice Agent Hackathon 2026.",
+      "owner": "ropa5236",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-09-08T08:47:37Z",
+      "pushed_at": "2026-09-09T02:19:23Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -60,12 +78,66 @@
       "language": null,
       "stars": 0,
       "created_at": "2026-09-08T05:16:45Z",
-      "pushed_at": "2026-09-08T05:54:32Z",
+      "pushed_at": "2026-09-08T06:02:01Z",
       "topics": [],
       "matched_queries": [
         "Agent Skill challenge"
       ],
-      "score": 15.301,
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1355852127",
+      "title": "abhijithnair-experion/claude-coding-agent-hackathon",
+      "url": "https://github.com/abhijithnair-experion/claude-coding-agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "abhijithnair-experion",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-03T10:56:36Z",
+      "pushed_at": "2026-09-08T20:58:38Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1350957858",
+      "title": "Abrorious/orderblock-alpha",
+      "url": "https://github.com/Abrorious/orderblock-alpha",
+      "description": "An options agent that trades market structure, not indicators. Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Abrorious",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-29T22:47:14Z",
+      "pushed_at": "2026-09-08T17:41:01Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1355678393",
+      "title": "adwik1401/alpaca-ai-trading-agent",
+      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
+      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "adwik1401",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-03T07:53:55Z",
+      "pushed_at": "2026-09-08T22:01:35Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -83,137 +155,7 @@
       "matched_queries": [
         "智能体 大赛"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1360945967",
-      "title": "BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
-      "url": "https://github.com/BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
-      "description": "Setup",
-      "owner": "BennedictQuanTon",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-09-08T05:07:14Z",
-      "pushed_at": "2026-09-08T05:07:16Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1148424332",
-      "title": "ExpertVagabond/solmail-mcp",
-      "url": "https://github.com/ExpertVagabond/solmail-mcp",
-      "description": "MCP server for sending physical mail with Solana cryptocurrency. Colosseum Agent Hackathon submission.",
-      "owner": "ExpertVagabond",
-      "language": "TypeScript",
-      "stars": 1,
-      "created_at": "2026-02-03T00:21:59Z",
-      "pushed_at": "2026-09-08T02:41:54Z",
-      "topics": [
-        "ai",
-        "blockchain",
-        "cryptocurrency",
-        "hackathon",
-        "mail",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1313837983",
-      "title": "fresh-fx59/agent-hackathon-kit",
-      "url": "https://github.com/fresh-fx59/agent-hackathon-kit",
-      "description": "Rehearsal environment + reusable primitives for PDLC-track agent hackathons: stdlib-only corporate-system mocks, MCP servers, track skills, scoring benchmarks (RU/EN)",
-      "owner": "fresh-fx59",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-07-27T12:48:44Z",
-      "pushed_at": "2026-09-08T05:21:24Z",
-      "topics": [
-        "ai-agents",
-        "benchmarks",
-        "hackathon",
-        "mcp",
-        "sdd"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1360902190",
-      "title": "Praveen-K-0503/Agentverse_hackathon",
-      "url": "https://github.com/Praveen-K-0503/Agentverse_hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Praveen-K-0503",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-08T04:01:45Z",
-      "pushed_at": "2026-09-08T04:05:24Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1360451678",
-      "title": "rawrkey/RealityCheck",
-      "url": "https://github.com/rawrkey/RealityCheck",
-      "description": "Hakcathon v2 from  https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon",
-      "owner": "rawrkey",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-07T16:37:23Z",
-      "pushed_at": "2026-09-08T02:12:31Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1287538216",
-      "title": "TahaKhanM/AI-Agent-Hackathon",
-      "url": "https://github.com/TahaKhanM/AI-Agent-Hackathon",
-      "description": "Precedent: deterministic change gates, permission-aware incident memory, approval and rollback simulation, verifiable evidence packs and chronological incident analysis.",
-      "owner": "TahaKhanM",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-07-02T19:30:23Z",
-      "pushed_at": "2026-09-08T00:48:25Z",
-      "topics": [
-        "access-control",
-        "ai-agents",
-        "audit",
-        "hackathon",
-        "incident-management",
-        "python"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -226,7 +168,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-09-07T21:31:04Z",
+      "pushed_at": "2026-09-08T22:23:41Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -236,27 +178,54 @@
       "source_type": "github-search"
     },
     {
-      "id": "1319118155",
-      "title": "api-evangelist/recall",
-      "url": "https://github.com/api-evangelist/recall",
-      "description": "Recall — independent third-party profile of a public API surface, by API Evangelist. Recall is a decentralized AI-agent competition network — \"the world's most trusted AI rankings.\" Agents compete head-to-head in crowdsourced skill markets (crypto spot and perpetual-futures paper trading, coding, safety, prediction, NFL and more), with communities",
-      "owner": "api-evangelist",
-      "language": null,
+      "id": "1349683633",
+      "title": "miramar-labs/alpaca-options-trading-agents",
+      "url": "https://github.com/miramar-labs/alpaca-options-trading-agents",
+      "description": "Multi-agent options-trading floor — Analyst → Dealer (LLM + Alpaca MCP contract selection) → Floor Broker, on LangGraph. Alpaca AI Trading Agents Hackathon.",
+      "owner": "miramar-labs",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-01T08:37:39Z",
-      "pushed_at": "2026-09-07T01:43:01Z",
-      "topics": [
-        "agent-competitions",
-        "ai-agents",
-        "apis-json",
-        "company",
-        "crypto-web3",
-        "leaderboards",
-        "paper-trading",
-        "reputation"
-      ],
+      "created_at": "2026-08-28T14:18:55Z",
+      "pushed_at": "2026-09-08T23:39:21Z",
+      "topics": [],
       "matched_queries": [
-        "AI agent competition"
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1360451678",
+      "title": "rawrkey/RealityCheck",
+      "url": "https://github.com/rawrkey/RealityCheck",
+      "description": "Hakcathon v2 from  https://lablab.ai/ai-hackathons/assemblyai-voice-agent-hackathon",
+      "owner": "rawrkey",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-07T16:37:23Z",
+      "pushed_at": "2026-09-08T18:44:47Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349918779",
+      "title": "Sebastian0890/onenode-options-agent",
+      "url": "https://github.com/Sebastian0890/onenode-options-agent",
+      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Sebastian0890",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T18:26:54Z",
+      "pushed_at": "2026-09-08T22:20:44Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
