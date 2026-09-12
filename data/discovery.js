@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-09-11T09:00:00+08:00",
+  "updated_at": "2026-09-12T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,42 +21,33 @@
   ],
   "candidates": [
     {
-      "id": "1329458499",
-      "title": "alejandro-publius/blackbox-datahub",
-      "url": "https://github.com/alejandro-publius/blackbox-datahub",
-      "description": "BlackBox, Grand Prize winner of the Build with DataHub Agent Hackathon 2026. Autonomous data incident response with an evidence gate, verified repair, real PRs, and DataHub write-back.",
-      "owner": "alejandro-publius",
-      "language": "Python",
-      "stars": 2,
-      "created_at": "2026-08-10T05:32:26Z",
-      "pushed_at": "2026-09-11T04:14:47Z",
-      "topics": [
-        "ai-agents",
-        "claude",
-        "data-engineering",
-        "data-lineage",
-        "data-observability",
-        "datahub",
-        "hackathon-winner",
-        "incident-response"
-      ],
+      "id": "1362126529",
+      "title": "ezeleis/captei-voz",
+      "url": "https://github.com/ezeleis/captei-voz",
+      "description": "Compose desk for real-estate voice notes: speak rough, send professional. AssemblyAI Voice Agent Hackathon 2026.",
+      "owner": "ezeleis",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-09T02:49:25Z",
+      "pushed_at": "2026-09-12T04:32:35Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.477,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1357988383",
-      "title": "Aka4real/All-Things-Agentic-Hackathon",
-      "url": "https://github.com/Aka4real/All-Things-Agentic-Hackathon",
+      "id": "1366968780",
+      "title": "kavyakanan21-svg/browser-agent-hackathon",
+      "url": "https://github.com/kavyakanan21-svg/browser-agent-hackathon",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Aka4real",
-      "language": "JavaScript",
+      "owner": "kavyakanan21-svg",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-09-05T08:36:09Z",
-      "pushed_at": "2026-09-11T00:41:29Z",
+      "created_at": "2026-09-12T05:12:53Z",
+      "pushed_at": "2026-09-12T05:12:54Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -74,7 +65,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-09-10T07:34:45Z",
-      "pushed_at": "2026-09-11T05:27:11Z",
+      "pushed_at": "2026-09-12T02:47:51Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -89,10 +80,10 @@
       "url": "https://github.com/maddulajayanth517-ux/Agent-Hackathon-",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
       "owner": "maddulajayanth517-ux",
-      "language": null,
+      "language": "Python",
       "stars": 0,
       "created_at": "2026-09-11T05:56:04Z",
-      "pushed_at": "2026-09-11T05:56:06Z",
+      "pushed_at": "2026-09-12T04:55:57Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -102,15 +93,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1365313331",
-      "title": "mrsreeindian/AI-Agentic-Hackathon",
-      "url": "https://github.com/mrsreeindian/AI-Agentic-Hackathon",
+      "id": "1366952709",
+      "title": "pavanadi/finance-memory-agent",
+      "url": "https://github.com/pavanadi/finance-memory-agent",
+      "description": "Personal finance memory agent — hackathon project (Cognee, HydraDB, hotdata.dev, RocketRide.ai, Modiqo/Rote)",
+      "owner": "pavanadi",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-12T04:46:11Z",
+      "pushed_at": "2026-09-12T04:47:23Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1366953393",
+      "title": "Sirius-Ji/os-agent-hackathon",
+      "url": "https://github.com/Sirius-Ji/os-agent-hackathon",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "mrsreeindian",
-      "language": null,
+      "owner": "Sirius-Ji",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-09-11T04:22:07Z",
-      "pushed_at": "2026-09-11T04:22:08Z",
+      "created_at": "2026-09-12T04:47:15Z",
+      "pushed_at": "2026-09-12T04:56:09Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -120,96 +129,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1363505179",
-      "title": "my5757980/voice-order-support-agent",
-      "url": "https://github.com/my5757980/voice-order-support-agent",
-      "description": "A voice agent that remembers only what you actually heard. Built on AssemblyAI realtime STT with owned orchestration — for the AssemblyAI Voice Agent Hackathon.",
-      "owner": "my5757980",
+      "id": "1355678393",
+      "title": "adwik1401/alpaca-ai-trading-agent",
+      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
+      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "adwik1401",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-10T04:14:27Z",
-      "pushed_at": "2026-09-11T05:45:36Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1342355624",
-      "title": "Rafa-Innerchispa/innerops-agentic-platform",
-      "url": "https://github.com/Rafa-Innerchispa/innerops-agentic-platform",
-      "description": "InnerOps All Things Agentic hackathon platform. Private auditable workspace; Workforce baseline remains preserved separately.",
-      "owner": "Rafa-Innerchispa",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-22T01:33:55Z",
-      "pushed_at": "2026-09-11T02:53:33Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1361137042",
-      "title": "ropa5236/yuanyuan-voice-works",
-      "url": "https://github.com/ropa5236/yuanyuan-voice-works",
-      "description": "A voice companion that cooks with you - your hands are wet, your phone is out of reach, and cooking alone is boring. Built for the AssemblyAI Voice Agent Hackathon 2026.",
-      "owner": "ropa5236",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-09-08T08:47:37Z",
-      "pushed_at": "2026-09-11T04:21:40Z",
-      "topics": [
-        "assemblyai",
-        "audio-worklet",
-        "cloudflare-pages",
-        "cooking-assistant",
-        "hackathon",
-        "real-time",
-        "speech-to-text",
-        "vanilla-javascript"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1351215064",
-      "title": "aeiou0123/pku-financial-ai-agent",
-      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
-      "description": "Claim2Value - 北大金融AI智能体大赛",
-      "owner": "aeiou0123",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-09-10T15:18:42Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 大赛"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1365011097",
-      "title": "Emimo56/PakAngels-MultiAgent-HackathonProject",
-      "url": "https://github.com/Emimo56/PakAngels-MultiAgent-HackathonProject",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Emimo56",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-10T22:35:01Z",
-      "pushed_at": "2026-09-10T22:36:33Z",
+      "created_at": "2026-09-03T07:53:55Z",
+      "pushed_at": "2026-09-11T21:48:56Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -219,15 +147,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1333622722",
-      "title": "icohangar-ops/sovereign-mesh",
-      "url": "https://github.com/icohangar-ops/sovereign-mesh",
-      "description": "The Zero-Trust, Self-Governing Enterprise Agent Fleet with Zanzibar ReBAC, Model Armor & CHP v1.0 — All Things Agentic Hackathon",
-      "owner": "icohangar-ops",
-      "language": "TypeScript",
+      "id": "1349699908",
+      "title": "alvaarocl/iv-desk",
+      "url": "https://github.com/alvaarocl/iv-desk",
+      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
+      "owner": "alvaarocl",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-13T23:42:02Z",
-      "pushed_at": "2026-09-10T23:22:35Z",
+      "created_at": "2026-08-28T14:32:47Z",
+      "pushed_at": "2026-09-11T21:52:00Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1366488351",
+      "title": "burbanodev-lab/voicepantry",
+      "url": "https://github.com/burbanodev-lab/voicepantry",
+      "description": "VoicePantry — voice kitchen ops agent (AssemblyAI Voice Agent Hackathon / lablab.ai)",
+      "owner": "burbanodev-lab",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-11T17:19:09Z",
+      "pushed_at": "2026-09-11T23:57:31Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -245,12 +191,48 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:18:55Z",
-      "pushed_at": "2026-09-10T23:23:20Z",
+      "pushed_at": "2026-09-11T23:31:36Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
       "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349918779",
+      "title": "Sebastian0890/onenode-options-agent",
+      "url": "https://github.com/Sebastian0890/onenode-options-agent",
+      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Sebastian0890",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T18:26:54Z",
+      "pushed_at": "2026-09-11T21:50:13Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1351215064",
+      "title": "aeiou0123/pku-financial-ai-agent",
+      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
+      "description": "Claim2Value - 北大金融AI智能体大赛",
+      "owner": "aeiou0123",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-30T08:03:51Z",
+      "pushed_at": "2026-09-10T15:18:42Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
+      ],
+      "score": 15.079,
       "status": "unverified",
       "source_type": "github-search"
     }
