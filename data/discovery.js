@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-09-12T09:00:00+08:00",
+  "updated_at": "2026-09-13T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,15 +21,15 @@
   ],
   "candidates": [
     {
-      "id": "1362126529",
-      "title": "ezeleis/captei-voz",
-      "url": "https://github.com/ezeleis/captei-voz",
-      "description": "Compose desk for real-estate voice notes: speak rough, send professional. AssemblyAI Voice Agent Hackathon 2026.",
-      "owner": "ezeleis",
+      "id": "1368011520",
+      "title": "areycruzer/kwik112-assemblyai",
+      "url": "https://github.com/areycruzer/kwik112-assemblyai",
+      "description": "Kwik 112 on AssemblyAI — a live Voice Agent API call-taker for emergency intake, steered by a deterministic escalate-only safety floor. AssemblyAI Voice Agent Hackathon, Sep 2026.",
+      "owner": "areycruzer",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-09-09T02:49:25Z",
-      "pushed_at": "2026-09-12T04:32:35Z",
+      "created_at": "2026-09-13T04:41:34Z",
+      "pushed_at": "2026-09-13T05:50:01Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -39,15 +39,141 @@
       "source_type": "github-search"
     },
     {
-      "id": "1366968780",
-      "title": "kavyakanan21-svg/browser-agent-hackathon",
-      "url": "https://github.com/kavyakanan21-svg/browser-agent-hackathon",
+      "id": "1367924598",
+      "title": "ChetanCXD/multi-agent-hackathon",
+      "url": "https://github.com/ChetanCXD/multi-agent-hackathon",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "kavyakanan21-svg",
-      "language": null,
+      "owner": "ChetanCXD",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-09-12T05:12:53Z",
-      "pushed_at": "2026-09-12T05:12:54Z",
+      "created_at": "2026-09-13T02:28:01Z",
+      "pushed_at": "2026-09-13T02:35:43Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1367968145",
+      "title": "faiqhilman13/agents-hackathon",
+      "url": "https://github.com/faiqhilman13/agents-hackathon",
+      "description": "13th september hackathon repo ",
+      "owner": "faiqhilman13",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-13T03:36:02Z",
+      "pushed_at": "2026-09-13T06:08:21Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1364878292",
+      "title": "HarshdipSaha/say-less",
+      "url": "https://github.com/HarshdipSaha/say-less",
+      "description": "A voice agent that asks about the one word it missed, instead of asking you to repeat the whole sentence. Built for the AssemblyAI Voice Agent Hackathon.",
+      "owner": "HarshdipSaha",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-10T20:23:09Z",
+      "pushed_at": "2026-09-13T03:50:49Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1363505179",
+      "title": "my5757980/voice-order-support-agent",
+      "url": "https://github.com/my5757980/voice-order-support-agent",
+      "description": "A voice agent that remembers only what you actually heard. Built on AssemblyAI realtime STT with owned orchestration — for the AssemblyAI Voice Agent Hackathon.",
+      "owner": "my5757980",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-10T04:14:27Z",
+      "pushed_at": "2026-09-13T06:03:00Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1342355624",
+      "title": "Rafa-Innerchispa/innerops-agentic-platform",
+      "url": "https://github.com/Rafa-Innerchispa/innerops-agentic-platform",
+      "description": "InnerOps All Things Agentic hackathon platform. Private auditable workspace; Workforce baseline remains preserved separately.",
+      "owner": "Rafa-Innerchispa",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-22T01:33:55Z",
+      "pushed_at": "2026-09-13T06:08:41Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1346023828",
+      "title": "ramanathanmani/great-agent-hackathon-2026",
+      "url": "https://github.com/ramanathanmani/great-agent-hackathon-2026",
+      "description": "A support agent skill that reads code-mixed Indian speech (Tamil/Hindi + English in the same sentence), acts on it, replies in the caller's own mix, and writes the ticket in English.  Built for The Great Agent Hackathon 2026. Stack: Freshworks Agent Studio, ElevenLabs Scribe v2 + Multilingual v2, Gemini. ",
+      "owner": "ramanathanmani",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-08-25T11:06:07Z",
+      "pushed_at": "2026-09-13T05:43:06Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1363807952",
+      "title": "soulinpsyabstract/sipa-voice-gate",
+      "url": "https://github.com/soulinpsyabstract/sipa-voice-gate",
+      "description": "A voice agent that checks itself before it acts — speaks back the consequence chain and waits for explicit confirmation. AssemblyAI Voice Agent Hackathon (team sipaos).",
+      "owner": "soulinpsyabstract",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-10T09:14:30Z",
+      "pushed_at": "2026-09-13T03:22:31Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1366290891",
+      "title": "sunnyib4/sales-objection-practice-partner",
+      "url": "https://github.com/sunnyib4/sales-objection-practice-partner",
+      "description": "Voice-based sales objection practice partner built on AssemblyAI's Voice Agent API -- AssemblyAI Voice Agent Hackathon submission",
+      "owner": "sunnyib4",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-11T14:33:06Z",
+      "pushed_at": "2026-09-13T05:01:00Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -70,146 +196,20 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1365422338",
-      "title": "maddulajayanth517-ux/Agent-Hackathon-",
-      "url": "https://github.com/maddulajayanth517-ux/Agent-Hackathon-",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "maddulajayanth517-ux",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-11T05:56:04Z",
-      "pushed_at": "2026-09-12T04:55:57Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1366952709",
-      "title": "pavanadi/finance-memory-agent",
-      "url": "https://github.com/pavanadi/finance-memory-agent",
-      "description": "Personal finance memory agent — hackathon project (Cognee, HydraDB, hotdata.dev, RocketRide.ai, Modiqo/Rote)",
-      "owner": "pavanadi",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-12T04:46:11Z",
-      "pushed_at": "2026-09-12T04:47:23Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1366953393",
-      "title": "Sirius-Ji/os-agent-hackathon",
-      "url": "https://github.com/Sirius-Ji/os-agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Sirius-Ji",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-09-12T04:47:15Z",
-      "pushed_at": "2026-09-12T04:56:09Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-09-11T21:48:56Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
       "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
-      "language": "Python",
+      "id": "1367608097",
+      "title": "synchronic1/elastic-inference-fabric",
+      "url": "https://github.com/synchronic1/elastic-inference-fabric",
+      "description": "Ganglion — Elastic Inference Fabric for Agents (hackathon prototype)",
+      "owner": "synchronic1",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-09-11T21:52:00Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1366488351",
-      "title": "burbanodev-lab/voicepantry",
-      "url": "https://github.com/burbanodev-lab/voicepantry",
-      "description": "VoicePantry — voice kitchen ops agent (AssemblyAI Voice Agent Hackathon / lablab.ai)",
-      "owner": "burbanodev-lab",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-09-11T17:19:09Z",
-      "pushed_at": "2026-09-11T23:57:31Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349683633",
-      "title": "miramar-labs/alpaca-options-trading-agents",
-      "url": "https://github.com/miramar-labs/alpaca-options-trading-agents",
-      "description": "Multi-agent options-trading floor — Analyst → Dealer (LLM + Alpaca MCP contract selection) → Floor Broker, on LangGraph. Alpaca AI Trading Agents Hackathon.",
-      "owner": "miramar-labs",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T14:18:55Z",
-      "pushed_at": "2026-09-11T23:31:36Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349918779",
-      "title": "Sebastian0890/onenode-options-agent",
-      "url": "https://github.com/Sebastian0890/onenode-options-agent",
-      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
-      "owner": "Sebastian0890",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-09-11T21:50:13Z",
+      "created_at": "2026-09-12T19:06:04Z",
+      "pushed_at": "2026-09-12T23:08:11Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -232,7 +232,7 @@
       "matched_queries": [
         "智能体 大赛"
       ],
-      "score": 15.079,
+      "score": 14.968,
       "status": "unverified",
       "source_type": "github-search"
     }
