@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-13T09:00:00+08:00",
+  "updated_at": "2026-09-14T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,69 +16,15 @@
   ],
   "candidates": [
     {
-      "id": "1368011520",
-      "title": "areycruzer/kwik112-assemblyai",
-      "url": "https://github.com/areycruzer/kwik112-assemblyai",
-      "description": "Kwik 112 on AssemblyAI — a live Voice Agent API call-taker for emergency intake, steered by a deterministic escalate-only safety floor. AssemblyAI Voice Agent Hackathon, Sep 2026.",
-      "owner": "areycruzer",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-13T04:41:34Z",
-      "pushed_at": "2026-09-13T05:50:01Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1367924598",
-      "title": "ChetanCXD/multi-agent-hackathon",
-      "url": "https://github.com/ChetanCXD/multi-agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "ChetanCXD",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-13T02:28:01Z",
-      "pushed_at": "2026-09-13T02:35:43Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1367968145",
-      "title": "faiqhilman13/agents-hackathon",
-      "url": "https://github.com/faiqhilman13/agents-hackathon",
-      "description": "13th september hackathon repo ",
-      "owner": "faiqhilman13",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-09-13T03:36:02Z",
-      "pushed_at": "2026-09-13T06:08:21Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1364878292",
-      "title": "HarshdipSaha/say-less",
-      "url": "https://github.com/HarshdipSaha/say-less",
-      "description": "A voice agent that asks about the one word it missed, instead of asking you to repeat the whole sentence. Built for the AssemblyAI Voice Agent Hackathon.",
-      "owner": "HarshdipSaha",
+      "id": "1347661508",
+      "title": "Alejdro83/alpaca-options-agent",
+      "url": "https://github.com/Alejdro83/alpaca-options-agent",
+      "description": "Autonomous credit-spread options trading agent on Alpaca, via their MCP server — lablab.ai Alpaca AI Trading Agents Hackathon",
+      "owner": "Alejdro83",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-10T20:23:09Z",
-      "pushed_at": "2026-09-13T03:50:49Z",
+      "created_at": "2026-08-26T18:19:01Z",
+      "pushed_at": "2026-09-14T00:59:11Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -88,15 +34,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1363505179",
-      "title": "my5757980/voice-order-support-agent",
-      "url": "https://github.com/my5757980/voice-order-support-agent",
-      "description": "A voice agent that remembers only what you actually heard. Built on AssemblyAI realtime STT with owned orchestration — for the AssemblyAI Voice Agent Hackathon.",
-      "owner": "my5757980",
+      "id": "1368641551",
+      "title": "COMMAND-LABS/multi-app-ai-agent-hackathon",
+      "url": "https://github.com/COMMAND-LABS/multi-app-ai-agent-hackathon",
+      "description": "https://multiappagenthackathon.com/",
+      "owner": "COMMAND-LABS",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-10T04:14:27Z",
-      "pushed_at": "2026-09-13T06:03:00Z",
+      "created_at": "2026-09-13T17:12:26Z",
+      "pushed_at": "2026-09-14T02:22:26Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1368732431",
+      "title": "karanxa1/bloop",
+      "url": "https://github.com/karanxa1/bloop",
+      "description": "general-purpose ai agent that takes verified actions across your apps — rust workers backend, mcp integrations, hash-chained proof trace. multi-app ai agent hackathon.",
+      "owner": "karanxa1",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-13T18:27:05Z",
+      "pushed_at": "2026-09-14T00:09:32Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -114,7 +78,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-22T01:33:55Z",
-      "pushed_at": "2026-09-13T06:08:41Z",
+      "pushed_at": "2026-09-14T06:10:15Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -124,33 +88,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1346023828",
-      "title": "ramanathanmani/great-agent-hackathon-2026",
-      "url": "https://github.com/ramanathanmani/great-agent-hackathon-2026",
-      "description": "A support agent skill that reads code-mixed Indian speech (Tamil/Hindi + English in the same sentence), acts on it, replies in the caller's own mix, and writes the ticket in English.  Built for The Great Agent Hackathon 2026. Stack: Freshworks Agent Studio, ElevenLabs Scribe v2 + Multilingual v2, Gemini. ",
-      "owner": "ramanathanmani",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-08-25T11:06:07Z",
-      "pushed_at": "2026-09-13T05:43:06Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1363807952",
-      "title": "soulinpsyabstract/sipa-voice-gate",
-      "url": "https://github.com/soulinpsyabstract/sipa-voice-gate",
-      "description": "A voice agent that checks itself before it acts — speaks back the consequence chain and waits for explicit confirmation. AssemblyAI Voice Agent Hackathon (team sipaos).",
-      "owner": "soulinpsyabstract",
+      "id": "1368652084",
+      "title": "ReetaMercy/seo-agent-hackathon",
+      "url": "https://github.com/ReetaMercy/seo-agent-hackathon",
+      "description": "AI-powered SEO Competitive Opportunity Agent built with Strands SDK and Ollama.",
+      "owner": "ReetaMercy",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-10T09:14:30Z",
-      "pushed_at": "2026-09-13T03:22:31Z",
+      "created_at": "2026-09-13T17:19:12Z",
+      "pushed_at": "2026-09-14T05:25:34Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -160,20 +106,110 @@
       "source_type": "github-search"
     },
     {
-      "id": "1366290891",
-      "title": "sunnyib4/sales-objection-practice-partner",
-      "url": "https://github.com/sunnyib4/sales-objection-practice-partner",
-      "description": "Voice-based sales objection practice partner built on AssemblyAI's Voice Agent API -- AssemblyAI Voice Agent Hackathon submission",
-      "owner": "sunnyib4",
-      "language": "JavaScript",
+      "id": "1368915568",
+      "title": "sharvi-dev/multi-app-agent",
+      "url": "https://github.com/sharvi-dev/multi-app-agent",
+      "description": "A continuous diagnostic agent for private-equity portfolio companies. Joins QuickBooks, Salesforce and payroll into one entity graph, investigates when a monitored metric drifts, and acts through Slack and Gmail behind a human approval gate. Submission for the Multi-App AI Agent Hackathon, hosted by Lemma and Comma Capital.",
+      "owner": "sharvi-dev",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-11T14:33:06Z",
-      "pushed_at": "2026-09-13T05:01:00Z",
+      "created_at": "2026-09-13T21:26:46Z",
+      "pushed_at": "2026-09-14T00:04:20Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
       "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1243419997",
+      "title": "yujmatsu/citify",
+      "url": "https://github.com/yujmatsu/citify",
+      "description": "自治体情報の For You フィード — Findy DevOps × AI Agent Hackathon 2026",
+      "owner": "yujmatsu",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-05-19T10:22:01Z",
+      "pushed_at": "2026-09-14T01:58:35Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1234341370",
+      "title": "20030419zhanghongyi/qwenpaw-ai-agent-competition",
+      "url": "https://github.com/20030419zhanghongyi/qwenpaw-ai-agent-competition",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "20030419zhanghongyi",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-05-10T03:55:35Z",
+      "pushed_at": "2026-09-13T06:18:40Z",
+      "topics": [],
+      "matched_queries": [
+        "AI agent competition"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1368620065",
+      "title": "janmenjayap/multi-app_ai-agent_hackathon",
+      "url": "https://github.com/janmenjayap/multi-app_ai-agent_hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "janmenjayap",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-13T16:51:42Z",
+      "pushed_at": "2026-09-13T23:54:54Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1368778940",
+      "title": "ShaanGS/keel",
+      "url": "https://github.com/ShaanGS/keel",
+      "description": "Autonomous revenue-retention agent. Investigates churn risk across Stripe, Linear and usage telemetry, then runs a policy-gated, idempotent, read-back-verified recovery play across Linear, Notion, Resend and Slack. Multi-App AI Agent Hackathon 2026.",
+      "owner": "ShaanGS",
+      "language": "TypeScript",
+      "stars": 1,
+      "created_at": "2026-09-13T19:14:26Z",
+      "pushed_at": "2026-09-13T23:58:44Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1368598419",
+      "title": "ssgali/Oven-Bot",
+      "url": "https://github.com/ssgali/Oven-Bot",
+      "description": "Multi App Agent Hackathon",
+      "owner": "ssgali",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-13T16:32:39Z",
+      "pushed_at": "2026-09-13T23:28:15Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -191,43 +227,7 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1367608097",
-      "title": "synchronic1/elastic-inference-fabric",
-      "url": "https://github.com/synchronic1/elastic-inference-fabric",
-      "description": "Ganglion — Elastic Inference Fabric for Agents (hackathon prototype)",
-      "owner": "synchronic1",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-12T19:06:04Z",
-      "pushed_at": "2026-09-12T23:08:11Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1351215064",
-      "title": "aeiou0123/pku-financial-ai-agent",
-      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
-      "description": "Claim2Value - 北大金融AI智能体大赛",
-      "owner": "aeiou0123",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-09-10T15:18:42Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 大赛"
-      ],
-      "score": 14.968,
+      "score": 15.079,
       "status": "unverified",
       "source_type": "github-search"
     }
