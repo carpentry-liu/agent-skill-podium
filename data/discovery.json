@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-19T09:00:00+08:00",
+  "updated_at": "2026-09-20T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,33 +16,33 @@
   ],
   "candidates": [
     {
-      "id": "1234341370",
-      "title": "20030419zhanghongyi/qwenpaw-ai-agent-competition",
-      "url": "https://github.com/20030419zhanghongyi/qwenpaw-ai-agent-competition",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "20030419zhanghongyi",
+      "id": "1364878292",
+      "title": "HarshdipSaha/say-less",
+      "url": "https://github.com/HarshdipSaha/say-less",
+      "description": "A voice agent that asks about the one word it missed, instead of asking you to repeat the whole sentence. Built for the AssemblyAI Voice Agent Hackathon.",
+      "owner": "HarshdipSaha",
       "language": "Python",
-      "stars": 1,
-      "created_at": "2026-05-10T03:55:35Z",
-      "pushed_at": "2026-09-19T02:30:06Z",
+      "stars": 2,
+      "created_at": "2026-09-10T20:23:09Z",
+      "pushed_at": "2026-09-20T05:32:28Z",
       "topics": [],
       "matched_queries": [
-        "AI agent competition"
+        "agent hackathon"
       ],
-      "score": 15.301,
+      "score": 15.477,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1372578229",
-      "title": "Ananth864/nus-iss-show-me-your-agents",
-      "url": "https://github.com/Ananth864/nus-iss-show-me-your-agents",
-      "description": "NUS-ISS Show Me Your Agents Hackathon proposal report",
-      "owner": "Ananth864",
-      "language": "HTML",
+      "id": "1377120957",
+      "title": "Ashi305/Agentic-Hackathon-",
+      "url": "https://github.com/Ashi305/Agentic-Hackathon-",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "Ashi305",
+      "language": "Jupyter Notebook",
       "stars": 0,
-      "created_at": "2026-09-16T05:46:16Z",
-      "pushed_at": "2026-09-19T05:36:59Z",
+      "created_at": "2026-09-19T12:19:46Z",
+      "pushed_at": "2026-09-20T06:13:37Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -52,18 +52,18 @@
       "source_type": "github-search"
     },
     {
-      "id": "1362699802",
-      "title": "cloudydreamland/health-ripple-agent",
-      "url": "https://github.com/cloudydreamland/health-ripple-agent",
-      "description": "健康事件涟漪守护智能体 — 2026 iCAN AI无代码智能体挑战赛 · DuMate赛题 | 健康事件涟漪推演 · 医疗时间学引擎(Timing Card) · 反事实护栏+哈希链+FHIR存证 · 五Agent MDT会诊",
-      "owner": "cloudydreamland",
-      "language": "Java",
-      "stars": 1,
-      "created_at": "2026-09-09T13:12:50Z",
-      "pushed_at": "2026-09-19T01:25:49Z",
+      "id": "1373186906",
+      "title": "caoban123/HCMUS-Smart-Campus",
+      "url": "https://github.com/caoban123/HCMUS-Smart-Campus",
+      "description": "HCMUS Smart Campus is a student-built AI Agent Space prototype developed for the 2026 Global AI Agent Competition – Track A: Agent Building Competition on the Wesome AI platform.",
+      "owner": "caoban123",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-16T14:47:15Z",
+      "pushed_at": "2026-09-20T03:13:01Z",
       "topics": [],
       "matched_queries": [
-        "智能体 挑战赛"
+        "AI agent competition"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -78,7 +78,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-16T03:29:42Z",
-      "pushed_at": "2026-09-19T05:13:35Z",
+      "pushed_at": "2026-09-20T03:57:18Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -88,15 +88,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1376667373",
-      "title": "Gadgetguycj/runpod-intro-deck",
-      "url": "https://github.com/Gadgetguycj/runpod-intro-deck",
-      "description": "GalaxyGate and RunPod intro slides for the Coffee and Code AI Agent Hackathon",
-      "owner": "Gadgetguycj",
-      "language": "Dockerfile",
-      "stars": 0,
-      "created_at": "2026-09-19T03:12:16Z",
-      "pushed_at": "2026-09-19T03:12:40Z",
+      "id": "1334780530",
+      "title": "jgyy/agents42",
+      "url": "https://github.com/jgyy/agents42",
+      "description": "The NUS-ISS Show Me Your Agents Hackathon is an open innovation competition that brings together students, professionals, startups, tech enthusiasts, and Small Medium Enterprises (SMEs) to solve real business problems using agentic AI. ",
+      "owner": "jgyy",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-15T04:10:52Z",
+      "pushed_at": "2026-09-20T06:07:05Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -106,20 +106,92 @@
       "source_type": "github-search"
     },
     {
-      "id": "1374810587",
-      "title": "Gadgetguycj/runpod-signup",
-      "url": "https://github.com/Gadgetguycj/runpod-signup",
-      "description": "Signup and raffle page for the Coffee and Code AI Agent Hackathon RunPod track",
-      "owner": "Gadgetguycj",
+      "id": "1358761745",
+      "title": "lixianxin/creativity-ai",
+      "url": "https://github.com/lixianxin/creativity-ai",
+      "description": "2026全球智能体大赛",
+      "owner": "lixianxin",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-17T17:31:49Z",
-      "pushed_at": "2026-09-19T01:30:11Z",
+      "created_at": "2026-09-06T03:42:57Z",
+      "pushed_at": "2026-09-20T03:42:05Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1367196355",
+      "title": "LucasChen1108/Report-Mate",
+      "url": "https://github.com/LucasChen1108/Report-Mate",
+      "description": "Mobile-first field service reports, drafted by an AI agent and reviewed by the technician. NUS-ISS \"Show Me Your Agents\" hackathon project.",
+      "owner": "LucasChen1108",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-12T10:35:34Z",
+      "pushed_at": "2026-09-20T05:35:36Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
       "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1234341370",
+      "title": "20030419zhanghongyi/qwenpaw-ai-agent-competition",
+      "url": "https://github.com/20030419zhanghongyi/qwenpaw-ai-agent-competition",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "20030419zhanghongyi",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-05-10T03:55:35Z",
+      "pushed_at": "2026-09-19T02:30:06Z",
+      "topics": [],
+      "matched_queries": [
+        "AI agent competition"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1362699802",
+      "title": "cloudydreamland/health-ripple-agent",
+      "url": "https://github.com/cloudydreamland/health-ripple-agent",
+      "description": "健康事件涟漪守护智能体 — 2026 iCAN AI无代码智能体挑战赛 · DuMate赛题 | 健康事件涟漪推演 · 医疗时间学引擎(Timing Card) · 反事实护栏+哈希链+FHIR存证 · 五Agent MDT会诊",
+      "owner": "cloudydreamland",
+      "language": "Java",
+      "stars": 1,
+      "created_at": "2026-09-09T13:12:50Z",
+      "pushed_at": "2026-09-19T17:22:01Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 挑战赛"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1373339490",
+      "title": "emmaGH1/roux",
+      "url": "https://github.com/emmaGH1/roux",
+      "description": "helps friends pick a fair location to hang out. built for runtime agent hackathon",
+      "owner": "emmaGH1",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-16T16:32:45Z",
+      "pushed_at": "2026-09-19T23:55:26Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -132,102 +204,30 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-18T10:58:54Z",
-      "pushed_at": "2026-09-19T00:10:48Z",
+      "pushed_at": "2026-09-19T20:57:44Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1243406909",
-      "title": "KaelynWenHKU/GOOGLEHACKS",
-      "url": "https://github.com/KaelynWenHKU/GOOGLEHACKS",
-      "description": "The repository for google agent hackathon",
-      "owner": "KaelynWenHKU",
+      "id": "1350468850",
+      "title": "Hoodk123/Alpaca-trade",
+      "url": "https://github.com/Hoodk123/Alpaca-trade",
+      "description": "TradOX - a simple AI paper-trading agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "Hoodk123",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-05-19T10:06:39Z",
-      "pushed_at": "2026-09-19T04:18:38Z",
+      "created_at": "2026-08-29T09:56:20Z",
+      "pushed_at": "2026-09-19T21:27:45Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1363685591",
-      "title": "kestarsheng/code-review-agent",
-      "url": "https://github.com/kestarsheng/code-review-agent",
-      "description": "AI Code Review Agent - MCP hackathon 2026 submission. Code quality review as a service.",
-      "owner": "kestarsheng",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-09-10T07:34:45Z",
-      "pushed_at": "2026-09-19T02:44:04Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1376598035",
-      "title": "Pastor-James/livepeer-hackathon",
-      "url": "https://github.com/Pastor-James/livepeer-hackathon",
-      "description": "Livepeer Agent Hackathon 2026 Project",
-      "owner": "Pastor-James",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-09-19T01:23:17Z",
-      "pushed_at": "2026-09-19T01:23:18Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1376683758",
-      "title": "Quantumwoof/voice-remit-ng",
-      "url": "https://github.com/Quantumwoof/voice-remit-ng",
-      "description": "AssemblyAI voice agent for Nigeria remittance help — lablab Voice Agent Hackathon (hackathon 2026)",
-      "owner": "Quantumwoof",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-19T03:35:53Z",
-      "pushed_at": "2026-09-19T03:40:55Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1342355624",
-      "title": "Rafa-Innerchispa/innerops-agentic-platform",
-      "url": "https://github.com/Rafa-Innerchispa/innerops-agentic-platform",
-      "description": "InnerOps All Things Agentic hackathon platform. Private auditable workspace; Workforce baseline remains preserved separately.",
-      "owner": "Rafa-Innerchispa",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-22T01:33:55Z",
-      "pushed_at": "2026-09-19T01:24:56Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
