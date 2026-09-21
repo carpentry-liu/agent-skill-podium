@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-09-20T09:00:00+08:00",
+  "updated_at": "2026-09-21T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,36 +21,151 @@
   ],
   "candidates": [
     {
-      "id": "1364878292",
-      "title": "HarshdipSaha/say-less",
-      "url": "https://github.com/HarshdipSaha/say-less",
-      "description": "A voice agent that asks about the one word it missed, instead of asking you to repeat the whole sentence. Built for the AssemblyAI Voice Agent Hackathon.",
-      "owner": "HarshdipSaha",
+      "id": "1360945967",
+      "title": "BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
+      "url": "https://github.com/BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
+      "description": "Da Nang Tourism — True Real-Time Full-Duplex Voice Agent",
+      "owner": "BennedictQuanTon",
       "language": "Python",
       "stars": 2,
-      "created_at": "2026-09-10T20:23:09Z",
-      "pushed_at": "2026-09-20T05:32:28Z",
+      "created_at": "2026-09-08T05:07:14Z",
+      "pushed_at": "2026-09-20T15:49:17Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.477,
+      "score": 15.366,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1377120957",
-      "title": "Ashi305/Agentic-Hackathon-",
-      "url": "https://github.com/Ashi305/Agentic-Hackathon-",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Ashi305",
-      "language": "Jupyter Notebook",
+      "id": "1336694733",
+      "title": "Anand135001/Autonomous-Investigator-Engine",
+      "url": "https://github.com/Anand135001/Autonomous-Investigator-Engine",
+      "description": "All Things Agentic Hackathon by Gemini- Evidence-driven multi-agent engine for autonomous technical incident investigation, experimentation, and root-cause verification.",
+      "owner": "Anand135001",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-19T12:19:46Z",
-      "pushed_at": "2026-09-20T06:13:37Z",
+      "created_at": "2026-08-17T05:05:31Z",
+      "pushed_at": "2026-09-21T05:46:05Z",
+      "topics": [
+        "firestore",
+        "gemini-3-6-flash",
+        "google-adk",
+        "google-cloud",
+        "rest-api",
+        "secret-manager"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349593207",
+      "title": "Cubiczan/newsflow-trader",
+      "url": "https://github.com/Cubiczan/newsflow-trader",
+      "description": "Autonomous LLM-driven news trading agent on Alpaca Trading API. Built for the Alpaca AI Trading Agents Hackathon (Aug 28 - Sep 4, 2026).",
+      "owner": "Cubiczan",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-08-28T12:46:46Z",
+      "pushed_at": "2026-09-21T00:44:14Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1333622405",
+      "title": "Cubiczan/sovereign-mesh",
+      "url": "https://github.com/Cubiczan/sovereign-mesh",
+      "description": "The Zero-Trust, Self-Governing Enterprise Agent Fleet with Zanzibar ReBAC, Model Armor & CHP v1.0 — All Things Agentic Hackathon",
+      "owner": "Cubiczan",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-08-13T23:41:18Z",
+      "pushed_at": "2026-09-21T00:44:38Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1378873733",
+      "title": "jaimecuesta92/G10_Nuevamente_Equipo48",
+      "url": "https://github.com/jaimecuesta92/G10_Nuevamente_Equipo48",
+      "description": "Sistema inteligente de adaptación y generación de contenido educativo mediante RAG y Agentes (Hackathon ONE G10).",
+      "owner": "jaimecuesta92",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-09-20T23:47:50Z",
+      "pushed_at": "2026-09-21T00:26:28Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1351339980",
+      "title": "JFKELLY89/alpha-council",
+      "url": "https://github.com/JFKELLY89/alpha-council",
+      "description": "Autonomous adversarial AI options trading agent built for the Alpaca AI Trading Agents Hackathon",
+      "owner": "JFKELLY89",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-30T11:29:01Z",
+      "pushed_at": "2026-09-21T02:00:43Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1243406909",
+      "title": "KaelynWenHKU/GOOGLEHACKS",
+      "url": "https://github.com/KaelynWenHKU/GOOGLEHACKS",
+      "description": "The repository for google agent hackathon",
+      "owner": "KaelynWenHKU",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-05-19T10:06:39Z",
+      "pushed_at": "2026-09-21T01:02:46Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1358761745",
+      "title": "lixianxin/creativity-ai",
+      "url": "https://github.com/lixianxin/creativity-ai",
+      "description": "2026全球智能体大赛",
+      "owner": "lixianxin",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-06T03:42:57Z",
+      "pushed_at": "2026-09-21T03:49:31Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -70,96 +185,6 @@
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1372465650",
-      "title": "Gadgetguycj/philly-hackathon",
-      "url": "https://github.com/Gadgetguycj/philly-hackathon",
-      "description": "GalaxyGate + RunPod track at the Coffee & Code Philadelphia AI Agent Hackathon: guide, agent instructions, and demo apps.",
-      "owner": "Gadgetguycj",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-16T03:29:42Z",
-      "pushed_at": "2026-09-20T03:57:18Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1334780530",
-      "title": "jgyy/agents42",
-      "url": "https://github.com/jgyy/agents42",
-      "description": "The NUS-ISS Show Me Your Agents Hackathon is an open innovation competition that brings together students, professionals, startups, tech enthusiasts, and Small Medium Enterprises (SMEs) to solve real business problems using agentic AI. ",
-      "owner": "jgyy",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-15T04:10:52Z",
-      "pushed_at": "2026-09-20T06:07:05Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1358761745",
-      "title": "lixianxin/creativity-ai",
-      "url": "https://github.com/lixianxin/creativity-ai",
-      "description": "2026全球智能体大赛",
-      "owner": "lixianxin",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-06T03:42:57Z",
-      "pushed_at": "2026-09-20T03:42:05Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 大赛"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1367196355",
-      "title": "LucasChen1108/Report-Mate",
-      "url": "https://github.com/LucasChen1108/Report-Mate",
-      "description": "Mobile-first field service reports, drafted by an AI agent and reviewed by the technician. NUS-ISS \"Show Me Your Agents\" hackathon project.",
-      "owner": "LucasChen1108",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-12T10:35:34Z",
-      "pushed_at": "2026-09-20T05:35:36Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1234341370",
-      "title": "20030419zhanghongyi/qwenpaw-ai-agent-competition",
-      "url": "https://github.com/20030419zhanghongyi/qwenpaw-ai-agent-competition",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "20030419zhanghongyi",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-05-10T03:55:35Z",
-      "pushed_at": "2026-09-19T02:30:06Z",
-      "topics": [],
-      "matched_queries": [
-        "AI agent competition"
-      ],
       "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
@@ -173,28 +198,10 @@
       "language": "Java",
       "stars": 1,
       "created_at": "2026-09-09T13:12:50Z",
-      "pushed_at": "2026-09-19T17:22:01Z",
+      "pushed_at": "2026-09-20T18:11:26Z",
       "topics": [],
       "matched_queries": [
         "智能体 挑战赛"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1373339490",
-      "title": "emmaGH1/roux",
-      "url": "https://github.com/emmaGH1/roux",
-      "description": "helps friends pick a fair location to hang out. built for runtime agent hackathon",
-      "owner": "emmaGH1",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-16T16:32:45Z",
-      "pushed_at": "2026-09-19T23:55:26Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
@@ -209,7 +216,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-18T10:58:54Z",
-      "pushed_at": "2026-09-19T20:57:44Z",
+      "pushed_at": "2026-09-20T15:14:02Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -219,15 +226,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1350468850",
-      "title": "Hoodk123/Alpaca-trade",
-      "url": "https://github.com/Hoodk123/Alpaca-trade",
-      "description": "TradOX - a simple AI paper-trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "Hoodk123",
-      "language": "Python",
+      "id": "1349593151",
+      "title": "icohangar-ops/newsflow-trader",
+      "url": "https://github.com/icohangar-ops/newsflow-trader",
+      "description": "Autonomous LLM-driven news trading agent on Alpaca Trading API. Built for the Alpaca AI Trading Agents Hackathon (Aug 28 - Sep 4, 2026).",
+      "owner": "icohangar-ops",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-08-29T09:56:20Z",
-      "pushed_at": "2026-09-19T21:27:45Z",
+      "created_at": "2026-08-28T12:46:43Z",
+      "pushed_at": "2026-09-20T21:32:43Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
