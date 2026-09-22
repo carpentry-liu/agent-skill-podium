@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-09-21T09:00:00+08:00",
+  "updated_at": "2026-09-22T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,95 +16,22 @@
   ],
   "candidates": [
     {
-      "id": "1360945967",
-      "title": "BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
-      "url": "https://github.com/BennedictQuanTon/Team-Develarper---AssemblyAI---Voice-Agent-Hackathon",
-      "description": "Da Nang Tourism — True Real-Time Full-Duplex Voice Agent",
-      "owner": "BennedictQuanTon",
-      "language": "Python",
-      "stars": 2,
-      "created_at": "2026-09-08T05:07:14Z",
-      "pushed_at": "2026-09-20T15:49:17Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.366,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1336694733",
-      "title": "Anand135001/Autonomous-Investigator-Engine",
-      "url": "https://github.com/Anand135001/Autonomous-Investigator-Engine",
-      "description": "All Things Agentic Hackathon by Gemini- Evidence-driven multi-agent engine for autonomous technical incident investigation, experimentation, and root-cause verification.",
-      "owner": "Anand135001",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-17T05:05:31Z",
-      "pushed_at": "2026-09-21T05:46:05Z",
-      "topics": [
-        "firestore",
-        "gemini-3-6-flash",
-        "google-adk",
-        "google-cloud",
-        "rest-api",
-        "secret-manager"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349593207",
-      "title": "Cubiczan/newsflow-trader",
-      "url": "https://github.com/Cubiczan/newsflow-trader",
-      "description": "Autonomous LLM-driven news trading agent on Alpaca Trading API. Built for the Alpaca AI Trading Agents Hackathon (Aug 28 - Sep 4, 2026).",
-      "owner": "Cubiczan",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-08-28T12:46:46Z",
-      "pushed_at": "2026-09-21T00:44:14Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1333622405",
-      "title": "Cubiczan/sovereign-mesh",
-      "url": "https://github.com/Cubiczan/sovereign-mesh",
-      "description": "The Zero-Trust, Self-Governing Enterprise Agent Fleet with Zanzibar ReBAC, Model Armor & CHP v1.0 — All Things Agentic Hackathon",
-      "owner": "Cubiczan",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-08-13T23:41:18Z",
-      "pushed_at": "2026-09-21T00:44:38Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1378873733",
-      "title": "jaimecuesta92/G10_Nuevamente_Equipo48",
-      "url": "https://github.com/jaimecuesta92/G10_Nuevamente_Equipo48",
-      "description": "Sistema inteligente de adaptación y generación de contenido educativo mediante RAG y Agentes (Hackathon ONE G10).",
-      "owner": "jaimecuesta92",
+      "id": "1380935522",
+      "title": "HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-secret-builders",
+      "url": "https://github.com/HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-secret-builders",
+      "description": "Hackathon team repository for Secret Builders - [hackindia-team:hackindia-ai-agents-hackathon-agentverse-2026:secret-builders]",
+      "owner": "HackIndiaXYZ",
       "language": null,
       "stars": 0,
-      "created_at": "2026-09-20T23:47:50Z",
-      "pushed_at": "2026-09-21T00:26:28Z",
-      "topics": [],
+      "created_at": "2026-09-22T05:44:08Z",
+      "pushed_at": "2026-09-22T05:44:10Z",
+      "topics": [
+        "ai",
+        "ai-agents-automation",
+        "chatbots",
+        "genai",
+        "open-innovation"
+      ],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -113,15 +40,39 @@
       "source_type": "github-search"
     },
     {
-      "id": "1351339980",
-      "title": "JFKELLY89/alpha-council",
-      "url": "https://github.com/JFKELLY89/alpha-council",
-      "description": "Autonomous adversarial AI options trading agent built for the Alpaca AI Trading Agents Hackathon",
-      "owner": "JFKELLY89",
-      "language": "Python",
+      "id": "1380954732",
+      "title": "HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-team-rachana",
+      "url": "https://github.com/HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-team-rachana",
+      "description": "Hackathon team repository for TEAM RACHANA - [hackindia-team:hackindia-ai-agents-hackathon-agentverse-2026:team-rachana]",
+      "owner": "HackIndiaXYZ",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-08-30T11:29:01Z",
-      "pushed_at": "2026-09-21T02:00:43Z",
+      "created_at": "2026-09-22T06:04:29Z",
+      "pushed_at": "2026-09-22T06:04:30Z",
+      "topics": [
+        "ai",
+        "ai-agents-automation",
+        "chatbots",
+        "genai",
+        "open-innovation"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1334780530",
+      "title": "jgyy/agents42",
+      "url": "https://github.com/jgyy/agents42",
+      "description": "The NUS-ISS Show Me Your Agents Hackathon is an open innovation competition that brings together students, professionals, startups, tech enthusiasts, and Small Medium Enterprises (SMEs) to solve real business problems using agentic AI. ",
+      "owner": "jgyy",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-15T04:10:52Z",
+      "pushed_at": "2026-09-22T04:04:09Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -139,7 +90,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-05-19T10:06:39Z",
-      "pushed_at": "2026-09-21T01:02:46Z",
+      "pushed_at": "2026-09-22T01:04:32Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -149,56 +100,117 @@
       "source_type": "github-search"
     },
     {
-      "id": "1358761745",
-      "title": "lixianxin/creativity-ai",
-      "url": "https://github.com/lixianxin/creativity-ai",
-      "description": "2026全球智能体大赛",
-      "owner": "lixianxin",
-      "language": "Python",
+      "id": "1184100479",
+      "title": "leary-poken/AI_Agents_Hackathon",
+      "url": "https://github.com/leary-poken/AI_Agents_Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "leary-poken",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-09-06T03:42:57Z",
-      "pushed_at": "2026-09-21T03:49:31Z",
+      "created_at": "2026-03-17T08:53:39Z",
+      "pushed_at": "2026-09-22T05:16:07Z",
       "topics": [],
       "matched_queries": [
-        "智能体 大赛"
+        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1373186906",
-      "title": "caoban123/HCMUS-Smart-Campus",
-      "url": "https://github.com/caoban123/HCMUS-Smart-Campus",
-      "description": "HCMUS Smart Campus is a student-built AI Agent Space prototype developed for the 2026 Global AI Agent Competition – Track A: Agent Building Competition on the Wesome AI platform.",
-      "owner": "caoban123",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-16T14:47:15Z",
-      "pushed_at": "2026-09-20T03:13:01Z",
+      "id": "1356091619",
+      "title": "MaxwellBauer/Hackathon_Demo_Page",
+      "url": "https://github.com/MaxwellBauer/Hackathon_Demo_Page",
+      "description": "Static demo site for the INFINITE: The Internet of Agents hackathon (MIT Media Lab, Oct 30 – Nov 1, 2026). Blue theme with a gold v2 variant.",
+      "owner": "MaxwellBauer",
+      "language": "HTML",
+      "stars": 1,
+      "created_at": "2026-09-03T14:46:33Z",
+      "pushed_at": "2026-09-22T04:18:29Z",
       "topics": [],
       "matched_queries": [
-        "AI agent competition"
+        "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1362699802",
-      "title": "cloudydreamland/health-ripple-agent",
-      "url": "https://github.com/cloudydreamland/health-ripple-agent",
-      "description": "健康事件涟漪守护智能体 — 2026 iCAN AI无代码智能体挑战赛 · DuMate赛题 | 健康事件涟漪推演 · 医疗时间学引擎(Timing Card) · 反事实护栏+哈希链+FHIR存证 · 五Agent MDT会诊",
-      "owner": "cloudydreamland",
-      "language": "Java",
+      "id": "1364221232",
+      "title": "Muhammad-Anas59/Voice-Customer-Support-Agent",
+      "url": "https://github.com/Muhammad-Anas59/Voice-Customer-Support-Agent",
+      "description": "Voice-enabled AI customer support agent — real-time speech-to-text, RAG-powered answers, and spoken responses. Built for the AssemblyAI Voice Agent Hackathon.",
+      "owner": "Muhammad-Anas59",
+      "language": "Python",
       "stars": 1,
-      "created_at": "2026-09-09T13:12:50Z",
-      "pushed_at": "2026-09-20T18:11:26Z",
+      "created_at": "2026-09-10T13:30:21Z",
+      "pushed_at": "2026-09-22T05:36:21Z",
+      "topics": [
+        "elevenlabs",
+        "flask-socketio",
+        "gemini",
+        "gemini-api",
+        "rag",
+        "voice-ai"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1311797427",
+      "title": "poi2507/solply",
+      "url": "https://github.com/poi2507/solply",
+      "description": "프랜차이즈 식자재 대금(물대)을 AI 에이전트가 청구·검수·협상·온체인 정산까지 — GCP × Solana AI Agentic Hackathon 2026",
+      "owner": "poi2507",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-07-25T08:03:50Z",
+      "pushed_at": "2026-09-22T05:05:34Z",
       "topics": [],
       "matched_queries": [
-        "智能体 挑战赛"
+        "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1253016825",
+      "title": "prakash023-hub/amrshield-agent",
+      "url": "https://github.com/prakash023-hub/amrshield-agent",
+      "description": "AI-powered Antibiotic Stewardship with Self-Auditing Agent — Google Cloud Rapid Agent Hackathon",
+      "owner": "prakash023-hub",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-05-29T04:47:18Z",
+      "pushed_at": "2026-09-22T04:49:15Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1342355624",
+      "title": "Rafa-Innerchispa/innerops-agentic-platform",
+      "url": "https://github.com/Rafa-Innerchispa/innerops-agentic-platform",
+      "description": "InnerOps All Things Agentic hackathon platform. Private auditable workspace; Workforce baseline remains preserved separately.",
+      "owner": "Rafa-Innerchispa",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-22T01:33:55Z",
+      "pushed_at": "2026-09-22T05:15:04Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -211,7 +223,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-18T10:58:54Z",
-      "pushed_at": "2026-09-20T15:14:02Z",
+      "pushed_at": "2026-09-21T10:30:52Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -221,18 +233,18 @@
       "source_type": "github-search"
     },
     {
-      "id": "1349593151",
-      "title": "icohangar-ops/newsflow-trader",
-      "url": "https://github.com/icohangar-ops/newsflow-trader",
-      "description": "Autonomous LLM-driven news trading agent on Alpaca Trading API. Built for the Alpaca AI Trading Agents Hackathon (Aug 28 - Sep 4, 2026).",
-      "owner": "icohangar-ops",
-      "language": "TypeScript",
+      "id": "1358761745",
+      "title": "lixianxin/creativity-ai",
+      "url": "https://github.com/lixianxin/creativity-ai",
+      "description": "2026全球智能体大赛",
+      "owner": "lixianxin",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-28T12:46:43Z",
-      "pushed_at": "2026-09-20T21:32:43Z",
+      "created_at": "2026-09-06T03:42:57Z",
+      "pushed_at": "2026-09-21T13:22:49Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "智能体 大赛"
       ],
       "score": 15.19,
       "status": "unverified",
