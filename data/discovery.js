@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-09-25T09:00:00+08:00",
+  "updated_at": "2026-09-26T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,58 +21,123 @@
   ],
   "candidates": [
     {
-      "id": "1264067820",
-      "title": "Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "url": "https://github.com/Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "description": "Run one command, follow the instructions, and get your first AI agents up and running — Claude Code or Codex. Built for the Elnora AI agent hackathon.",
-      "owner": "Elnora-AI",
-      "language": "PowerShell",
-      "stars": 22,
-      "created_at": "2026-06-09T14:27:37Z",
-      "pushed_at": "2026-09-24T22:02:31Z",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "hackathon",
-        "starter-kit",
-        "template"
-      ],
+      "id": "1360945967",
+      "title": "BennedictQuanTon/The-Lantern-AssemblyAI-Voice-Agent-Hackathon",
+      "url": "https://github.com/BennedictQuanTon/The-Lantern-AssemblyAI-Voice-Agent-Hackathon",
+      "description": "The Lantern is a multilingual AI maître d' that takes a full table's order by voice, remembers every word, never invents a dish, and keeps the kitchen in perfect sync. Powered by AssemblyAI, running on local AI.",
+      "owner": "BennedictQuanTon",
+      "language": "Python",
+      "stars": 6,
+      "created_at": "2026-09-08T05:07:14Z",
+      "pushed_at": "2026-09-26T05:43:31Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 16.251,
+      "score": 15.845,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1386804564",
-      "title": "ASAYAMedia/amazon-alexa-mcp-hackathon",
-      "url": "https://github.com/ASAYAMedia/amazon-alexa-mcp-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "ASAYAMedia",
-      "language": "Python",
+      "id": "1388039070",
+      "title": "arushivashist/horizon-hack",
+      "url": "https://github.com/arushivashist/horizon-hack",
+      "description": "Build plan for an on-call agent memory benchmark at the Long Horizon Agents Hackathon",
+      "owner": "arushivashist",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-09-25T05:13:06Z",
-      "pushed_at": "2026-09-25T05:27:22Z",
+      "created_at": "2026-09-25T18:30:43Z",
+      "pushed_at": "2026-09-26T01:56:34Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1384422016",
-      "title": "Emmanuelzyronis/voice-triage",
-      "url": "https://github.com/Emmanuelzyronis/voice-triage",
-      "description": "AssemblyAI Voice Agent Hackathon 2026 — Voice-supervised 8-stage agentic pipeline with structured output and human approval gate",
-      "owner": "Emmanuelzyronis",
-      "language": "TypeScript",
+      "id": "1388123708",
+      "title": "axmatea/compass-horizon",
+      "url": "https://github.com/axmatea/compass-horizon",
+      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
+      "owner": "axmatea",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-09-24T01:32:07Z",
-      "pushed_at": "2026-09-25T02:42:05Z",
+      "created_at": "2026-09-25T19:50:28Z",
+      "pushed_at": "2026-09-26T01:52:51Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1266435726",
+      "title": "BernardUriza/activist-os",
+      "url": "https://github.com/BernardUriza/activist-os",
+      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
+      "owner": "BernardUriza",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-06-11T16:03:14Z",
+      "pushed_at": "2026-09-26T04:08:33Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1373186906",
+      "title": "caoban123/HCMUS-Smart-Campus",
+      "url": "https://github.com/caoban123/HCMUS-Smart-Campus",
+      "description": "HCMUS Smart Campus is a student-built AI Agent Space prototype developed for the 2026 Global AI Agent Competition – Track A: Agent Building Competition on the Wesome AI platform.",
+      "owner": "caoban123",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-16T14:47:15Z",
+      "pushed_at": "2026-09-26T02:57:59Z",
+      "topics": [],
+      "matched_queries": [
+        "AI agent competition"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1362699802",
+      "title": "cloudydreamland/health-ripple-agent",
+      "url": "https://github.com/cloudydreamland/health-ripple-agent",
+      "description": "健康事件涟漪守护智能体 — 2026 iCAN AI无代码智能体挑战赛 · DuMate赛题 | 健康事件涟漪推演 · 医疗时间学引擎(Timing Card) · 反事实护栏+哈希链+FHIR存证 · 五Agent MDT会诊",
+      "owner": "cloudydreamland",
+      "language": "Java",
+      "stars": 1,
+      "created_at": "2026-09-09T13:12:50Z",
+      "pushed_at": "2026-09-26T06:01:36Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 挑战赛"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1367995071",
+      "title": "Datwebguy/hangON",
+      "url": "https://github.com/Datwebguy/hangON",
+      "description": "HangON — voice front desk for solo contractors. Answers the call, confirms the job, books the visit. Built for the AssemblyAI Voice Agent Hackathon.",
+      "owner": "Datwebguy",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-13T04:14:40Z",
+      "pushed_at": "2026-09-26T05:42:12Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -90,7 +155,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-07-27T12:48:44Z",
-      "pushed_at": "2026-09-25T06:02:02Z",
+      "pushed_at": "2026-09-26T05:08:45Z",
       "topics": [
         "ai-agents",
         "benchmarks",
@@ -106,39 +171,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1386707551",
-      "title": "HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-code-mask",
-      "url": "https://github.com/HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-code-mask",
-      "description": "Hackathon team repository for Code mask - [hackindia-team:hackindia-ai-agents-hackathon-agentverse-2026:code-mask]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-09-25T03:51:25Z",
-      "pushed_at": "2026-09-25T03:51:27Z",
-      "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1334780530",
-      "title": "jgyy/agents42",
-      "url": "https://github.com/jgyy/agents42",
-      "description": "The NUS-ISS Show Me Your Agents Hackathon is an open innovation competition that brings together students, professionals, startups, tech enthusiasts, and Small Medium Enterprises (SMEs) to solve real business problems using agentic AI. ",
-      "owner": "jgyy",
+      "id": "1243406909",
+      "title": "KaelynWenHKU/GOOGLEHACKS",
+      "url": "https://github.com/KaelynWenHKU/GOOGLEHACKS",
+      "description": "The repository for google agent hackathon",
+      "owner": "KaelynWenHKU",
       "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-15T04:10:52Z",
-      "pushed_at": "2026-09-25T02:36:29Z",
+      "stars": 0,
+      "created_at": "2026-05-19T10:06:39Z",
+      "pushed_at": "2026-09-26T02:52:31Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -148,125 +189,63 @@
       "source_type": "github-search"
     },
     {
-      "id": "1384765517",
-      "title": "ntoledo319/frontdesk-voice-agent",
-      "url": "https://github.com/ntoledo319/frontdesk-voice-agent",
-      "description": "Voice intake agent for small service businesses — AssemblyAI Universal-Streaming STT -> intake brain -> TTS, bookings to CSV/Google Sheets. Built for the AssemblyAI Voice Agent Hackathon.",
-      "owner": "ntoledo319",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-24T05:39:06Z",
-      "pushed_at": "2026-09-25T03:07:30Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1382041108",
-      "title": "Sachin0496/crisiscrew",
-      "url": "https://github.com/Sachin0496/crisiscrew",
-      "description": "Customer complaints as incident telemetry: correlate tickets, find the bad deploy, recover customers, hand risky decisions to a human. Stage 2 entry, The Great Agent Hackathon (Freshworks).",
-      "owner": "Sachin0496",
+      "id": "1367196355",
+      "title": "LucasChen1108/Report-Mate",
+      "url": "https://github.com/LucasChen1108/Report-Mate",
+      "description": "Mobile-first field service reports, drafted by an AI agent and reviewed by the technician. NUS-ISS \"Show Me Your Agents\" hackathon project.",
+      "owner": "LucasChen1108",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-09-22T17:29:44Z",
-      "pushed_at": "2026-09-25T04:47:04Z",
+      "created_at": "2026-09-12T10:35:34Z",
+      "pushed_at": "2026-09-26T02:56:34Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1346790400",
+      "title": "RHUDHRESH/contextrail",
+      "url": "https://github.com/RHUDHRESH/contextrail",
+      "description": "ContextRail — evidence contract between enterprise agents. Built for The Great Agent Hackathon (TGPF 2026, Freshworks).",
+      "owner": "RHUDHRESH",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-26T01:38:44Z",
+      "pushed_at": "2026-09-26T06:01:16Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1169381845",
+      "title": "SEED-TO-TREE/agentdeadlines",
+      "url": "https://github.com/SEED-TO-TREE/agentdeadlines",
+      "description": "AI Agent hackathon & competition deadline tracker",
+      "owner": "SEED-TO-TREE",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-02-28T15:52:34Z",
+      "pushed_at": "2026-09-26T05:04:58Z",
       "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "incident-response",
-        "mcp",
+        "ai-agent",
+        "competition",
+        "deadline-tracker",
+        "hackathon",
+        "nextjs",
         "typescript"
       ],
       "matched_queries": [
         "agent hackathon"
       ],
       "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1361808207",
-      "title": "yipkaio/Ledgerly",
-      "url": "https://github.com/yipkaio/Ledgerly",
-      "description": "A bookkeeping assistant that helps a bookkeeper extract receipt details, classify expenses and compare bank transactions, while keeping a human in the loop for uncertain decisions. NUS-ISS Show Me Your Agents Hackathon",
-      "owner": "yipkaio",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-09-08T19:15:04Z",
-      "pushed_at": "2026-09-25T01:55:27Z",
-      "topics": [
-        "aws-lightsail",
-        "bookkeeping",
-        "expense-management",
-        "fastapi",
-        "firebase",
-        "human-in-the-loop",
-        "openclaw",
-        "paddle-ocr"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1373186906",
-      "title": "caoban123/HCMUS-Smart-Campus",
-      "url": "https://github.com/caoban123/HCMUS-Smart-Campus",
-      "description": "HCMUS Smart Campus is a student-built AI Agent Space prototype developed for the 2026 Global AI Agent Competition – Track A: Agent Building Competition on the Wesome AI platform.",
-      "owner": "caoban123",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-16T14:47:15Z",
-      "pushed_at": "2026-09-24T15:52:07Z",
-      "topics": [],
-      "matched_queries": [
-        "AI agent competition"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1386417483",
-      "title": "lsbeltran-lang/traveler-agent-hackathon",
-      "url": "https://github.com/lsbeltran-lang/traveler-agent-hackathon",
-      "description": "An AI travel concierge built with Google ADK and Gemini 2.5 Flash that dynamically queries BigQuery to recommend Michelin-starred restaurants based on authentic local Google Maps reviews.",
-      "owner": "lsbeltran-lang",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-09-24T22:03:48Z",
-      "pushed_at": "2026-09-24T22:03:49Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349683633",
-      "title": "miramar-labs/alpaca-options-trading-agents",
-      "url": "https://github.com/miramar-labs/alpaca-options-trading-agents",
-      "description": "Multi-agent options-trading floor — Analyst → Dealer (LLM + Alpaca MCP contract selection) → Floor Broker, on LangGraph. Alpaca AI Trading Agents Hackathon.",
-      "owner": "miramar-labs",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T14:18:55Z",
-      "pushed_at": "2026-09-24T23:59:43Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
