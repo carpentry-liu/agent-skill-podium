@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-09-29T09:00:00+08:00",
+  "updated_at": "2026-09-30T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,33 +21,39 @@
   ],
   "candidates": [
     {
-      "id": "1393580618",
-      "title": "0x-pankaj/sendsure",
-      "url": "https://github.com/0x-pankaj/sendsure",
-      "description": "Payables agent for teams paying contractors in stablecoins: pays only payees who proved their own address, only for signed claims, only inside an Arc contract budget. Tameion Agents Hackathon, Sep 27 – Oct 10 2026.",
-      "owner": "0x-pankaj",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-28T18:29:22Z",
-      "pushed_at": "2026-09-29T06:21:52Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
+      "id": "1236816811",
+      "title": "aprin-labs/archimedes",
+      "url": "https://github.com/aprin-labs/archimedes",
+      "description": "AI trading strategies that fuse user intent with market data, academic research, and statistical rigor to help you win more than you lose.  🏆 Selected as a Standout Project in the Agora Agents Hackathon!",
+      "owner": "aprin-labs",
       "language": "Python",
+      "stars": 18,
+      "created_at": "2026-05-12T15:46:31Z",
+      "pushed_at": "2026-09-29T23:27:34Z",
+      "topics": [
+        "agents",
+        "arc",
+        "circle",
+        "crypto",
+        "trading"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 16.168,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1396995076",
+      "title": "Charithajeendru/Bharat-Agentic-Hackathon",
+      "url": "https://github.com/Charithajeendru/Bharat-Agentic-Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "Charithajeendru",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-09-29T00:03:28Z",
+      "created_at": "2026-09-30T04:45:27Z",
+      "pushed_at": "2026-09-30T04:45:29Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -57,33 +63,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-09-29T00:19:45Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1394265398",
-      "title": "icychew/suara-voice-hackathon",
-      "url": "https://github.com/icychew/suara-voice-hackathon",
-      "description": "Suara family-memory voice interview prototype for the AssemblyAI Voice Agent Hackathon. Sanitized MIT-licensed source.",
-      "owner": "icychew",
+      "id": "1371838136",
+      "title": "el-informatico/field-service-voice-logger",
+      "url": "https://github.com/el-informatico/field-service-voice-logger",
+      "description": "Real-time voice agent that fills field-service work orders with spoken read-back confirmation and published extraction-accuracy metrics — AssemblyAI Voice Agent Hackathon 2026",
+      "owner": "el-informatico",
       "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-09-29T04:14:19Z",
-      "pushed_at": "2026-09-29T04:16:59Z",
+      "created_at": "2026-09-15T17:07:39Z",
+      "pushed_at": "2026-09-30T05:03:06Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -93,15 +81,51 @@
       "source_type": "github-search"
     },
     {
-      "id": "1387259592",
-      "title": "JohnboscoE/horos",
-      "url": "https://github.com/JohnboscoE/horos",
-      "description": "Know which clients pay late before you start the work. Shared onchain payment record + AI terms & collections agent on Arc (Tameion Agents Hackathon).",
-      "owner": "JohnboscoE",
-      "language": "TypeScript",
+      "id": "1380713543",
+      "title": "fresfrida/jagaos",
+      "url": "https://github.com/fresfrida/jagaos",
+      "description": "JagaOS, a company memory for Singapore SMEs. Show Me Your Agents hackathon (Team AdHoc, E270203Z).",
+      "owner": "fresfrida",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-25T10:19:25Z",
-      "pushed_at": "2026-09-29T06:13:22Z",
+      "created_at": "2026-09-22T01:19:41Z",
+      "pushed_at": "2026-09-30T03:44:39Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1371731582",
+      "title": "gajanand27-05/throughline",
+      "url": "https://github.com/gajanand27-05/throughline",
+      "description": "An AI that remembers what was agreed, detects when the conversation drifts, and intervenes before mistakes become decisions. AssemblyAI Voice Agent Hackathon.",
+      "owner": "gajanand27-05",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-15T15:47:11Z",
+      "pushed_at": "2026-09-30T01:29:43Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1243406909",
+      "title": "KaelynWenHKU/GOOGLEHACKS",
+      "url": "https://github.com/KaelynWenHKU/GOOGLEHACKS",
+      "description": "The repository for google agent hackathon",
+      "owner": "KaelynWenHKU",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-05-19T10:06:39Z",
+      "pushed_at": "2026-09-30T01:12:50Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -119,7 +143,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:18:55Z",
-      "pushed_at": "2026-09-29T01:15:06Z",
+      "pushed_at": "2026-09-30T00:45:51Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -129,42 +153,16 @@
       "source_type": "github-search"
     },
     {
-      "id": "1394091219",
-      "title": "Ninetailedcatfox/assemblyai-voice-agent",
-      "url": "https://github.com/Ninetailedcatfox/assemblyai-voice-agent",
-      "description": "Voice-first quotation agent for cross-border trade — AssemblyAI Voice Agent Hackathon 2026",
-      "owner": "Ninetailedcatfox",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-09-29T02:19:55Z",
-      "pushed_at": "2026-09-29T05:09:03Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349913502",
-      "title": "nizarhazaymeh/tradingbot",
-      "url": "https://github.com/nizarhazaymeh/tradingbot",
-      "description": "Autonomous options-trading agent that trades only when the premium is worth the risk — Alpaca AI Trading Agents Hackathon",
-      "owner": "nizarhazaymeh",
+      "id": "1396481192",
+      "title": "mukeshkbj/granny-firewall",
+      "url": "https://github.com/mukeshkbj/granny-firewall",
+      "description": "AI scam-call firewall for your grandparents — intercepts unknown callers, detects scam signatures in real time, stalls scammers, and files a threat report. Built on AssemblyAI (Voice Agent API, Universal-Streaming, Speech Understanding). Lablab Voice Agent Hackathon 2026.",
+      "owner": "mukeshkbj",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-28T18:20:29Z",
-      "pushed_at": "2026-09-29T06:42:56Z",
-      "topics": [
-        "algorithmic-trading",
-        "alpaca",
-        "autonomous-agents",
-        "llm",
-        "mcp",
-        "options-trading",
-        "python"
-      ],
+      "created_at": "2026-09-29T19:38:59Z",
+      "pushed_at": "2026-09-30T05:47:23Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -173,15 +171,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1349918779",
-      "title": "Sebastian0890/onenode-options-agent",
-      "url": "https://github.com/Sebastian0890/onenode-options-agent",
-      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
-      "owner": "Sebastian0890",
+      "id": "1311797427",
+      "title": "poi2507/solply",
+      "url": "https://github.com/poi2507/solply",
+      "description": "프랜차이즈 식자재 대금(물대)을 AI 에이전트가 청구·검수·협상·온체인 정산까지 — GCP × Solana AI Agentic Hackathon 2026",
+      "owner": "poi2507",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-09-29T00:17:39Z",
+      "created_at": "2026-07-25T08:03:50Z",
+      "pushed_at": "2026-09-30T01:54:41Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -191,54 +189,63 @@
       "source_type": "github-search"
     },
     {
-      "id": "1376253681",
-      "title": "tdportdev-alt/tdnavigator-assemblyai-hackathon",
-      "url": "https://github.com/tdportdev-alt/tdnavigator-assemblyai-hackathon",
-      "description": "LabLab AssemblyAI Voice Agent Hackathon 2026 entry — MIT-licensed TDNavigator contest slice (voice under motion lock). Not the full AGPL product.",
-      "owner": "tdportdev-alt",
-      "language": "TypeScript",
+      "id": "1299189565",
+      "title": "kaiser-data/meet2invoice",
+      "url": "https://github.com/kaiser-data/meet2invoice",
+      "description": "Meeting transcript → proven Qonto invoice. Claude Code skill for the Qonto x Anthropic MCP Hackathon.",
+      "owner": "kaiser-data",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-09-18T18:04:57Z",
-      "pushed_at": "2026-09-29T01:46:51Z",
+      "created_at": "2026-07-13T11:03:53Z",
+      "pushed_at": "2026-09-29T15:18:18Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1362699802",
-      "title": "cloudydreamland/health-ripple-agent",
-      "url": "https://github.com/cloudydreamland/health-ripple-agent",
-      "description": "健康事件涟漪守护智能体 — 2026 iCAN AI无代码智能体挑战赛 · DuMate赛题 | 健康事件涟漪推演 · 医疗时间学引擎(Timing Card) · 反事实护栏+哈希链+FHIR存证 · 五Agent MDT会诊",
-      "owner": "cloudydreamland",
-      "language": "Java",
-      "stars": 1,
-      "created_at": "2026-09-09T13:12:50Z",
-      "pushed_at": "2026-09-28T06:54:34Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 挑战赛"
+        "MCP hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1358761745",
-      "title": "lixianxin/creativity-ai",
-      "url": "https://github.com/lixianxin/creativity-ai",
-      "description": "2026全球智能体大赛",
-      "owner": "lixianxin",
-      "language": "Python",
+      "id": "1396668568",
+      "title": "laurenthalbrun/tamias",
+      "url": "https://github.com/laurenthalbrun/tamias",
+      "description": "An AI treasurer for a business that AI agents pay: three-way matching from the chain, payer screening, and policy-bound USDC payments on Arc (Tameion Agents Hackathon)",
+      "owner": "laurenthalbrun",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-09-06T03:42:57Z",
-      "pushed_at": "2026-09-28T03:08:09Z",
+      "created_at": "2026-09-29T22:37:46Z",
+      "pushed_at": "2026-09-29T23:32:23Z",
+      "topics": [
+        "accounting",
+        "ai-agents",
+        "arc",
+        "base",
+        "cctp",
+        "circle",
+        "treasury",
+        "usdc"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1396110699",
+      "title": "Nurexen-Labs/safegate-xagent-commerce-outcome-public",
+      "url": "https://github.com/Nurexen-Labs/safegate-xagent-commerce-outcome-public",
+      "description": "Public-safe X-Agent MCP Hackathon verifier mirror for SafeGate Commerce Outcome.",
+      "owner": "Nurexen-Labs",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-29T17:11:39Z",
+      "pushed_at": "2026-09-29T17:11:46Z",
       "topics": [],
       "matched_queries": [
-        "智能体 大赛"
+        "MCP hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
