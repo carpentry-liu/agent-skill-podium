@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-10-01T09:00:00+08:00",
+  "updated_at": "2026-10-02T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -29,7 +29,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-09-30T22:57:28Z",
+      "pushed_at": "2026-10-01T23:22:40Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -39,15 +39,75 @@
       "source_type": "github-search"
     },
     {
-      "id": "1266435726",
-      "title": "BernardUriza/activist-os",
-      "url": "https://github.com/BernardUriza/activist-os",
-      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
-      "owner": "BernardUriza",
+      "id": "1236816811",
+      "title": "aprin-labs/archimedes",
+      "url": "https://github.com/aprin-labs/archimedes",
+      "description": "AI trading strategies that fuse user intent with market data, academic research, and statistical rigor to help you win more than you lose.  🏆 Selected as a Standout Project in the Agora Agents Hackathon!",
+      "owner": "aprin-labs",
       "language": "Python",
+      "stars": 18,
+      "created_at": "2026-05-12T15:46:31Z",
+      "pushed_at": "2026-10-02T04:52:01Z",
+      "topics": [
+        "agents",
+        "arc",
+        "circle",
+        "crypto",
+        "trading"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 16.279,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1342067209",
+      "title": "GSA-TTS/mcp-hackathon-template",
+      "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
+      "description": "Template repository for teams participating in GSA's MCP Server and AI Agent Hackathon",
+      "owner": "GSA-TTS",
+      "language": "Shell",
+      "stars": 4,
+      "created_at": "2026-08-21T17:32:23Z",
+      "pushed_at": "2026-10-02T01:43:52Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.699,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1351215064",
+      "title": "aeiou0123/pku-financial-ai-agent",
+      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
+      "description": "Claim2Value - 北大金融AI智能体大赛",
+      "owner": "aeiou0123",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-30T08:03:51Z",
+      "pushed_at": "2026-10-02T06:56:10Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1387259592",
+      "title": "JohnboscoE/horos",
+      "url": "https://github.com/JohnboscoE/horos",
+      "description": "Know which clients pay late before you start the work. Shared onchain payment record + AI terms & collections agent on Arc (Tameion Agents Hackathon).",
+      "owner": "JohnboscoE",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-06-11T16:03:14Z",
-      "pushed_at": "2026-10-01T04:59:18Z",
+      "created_at": "2026-09-25T10:19:25Z",
+      "pushed_at": "2026-10-02T03:00:06Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -57,21 +117,24 @@
       "source_type": "github-search"
     },
     {
-      "id": "1399277832",
-      "title": "HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-tech-squad",
-      "url": "https://github.com/HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-tech-squad",
-      "description": "Hackathon team repository for Tech squad - [hackindia-team:hackindia-ai-agents-hackathon-agentverse-2026:tech-squad]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-01T06:13:14Z",
-      "pushed_at": "2026-10-01T06:13:15Z",
+      "id": "1400217898",
+      "title": "kaiseramoghpatil-del/Karbhari.-AI-Agent-for-Indian-MSME-s",
+      "url": "https://github.com/kaiseramoghpatil-del/Karbhari.-AI-Agent-for-Indian-MSME-s",
+      "description": "KARBHARI: agentic Working Capital Guardian for Indian MSMEs. Built for the Bharat Agentic Hackathon 2026. Reads bank-facility evidence, rebuilds Drawing Power with deterministic, tested code, and reports graded, evidence-cited findings.",
+      "owner": "kaiseramoghpatil-del",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-10-01T15:10:26Z",
+      "pushed_at": "2026-10-02T04:35:42Z",
       "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
+        "agentic-ai",
+        "ai-agent",
+        "aikart",
+        "bharat-agentic",
+        "bharat-agentic-2026",
+        "bharat-agentic-hackathon",
+        "bharatagentic",
+        "fastapi"
       ],
       "matched_queries": [
         "agent hackathon"
@@ -81,15 +144,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1243406909",
-      "title": "KaelynWenHKU/GOOGLEHACKS",
-      "url": "https://github.com/KaelynWenHKU/GOOGLEHACKS",
-      "description": "The repository for google agent hackathon",
-      "owner": "KaelynWenHKU",
+      "id": "1400656957",
+      "title": "knowaguy4u-cell/tasteloop",
+      "url": "https://github.com/knowaguy4u-cell/tasteloop",
+      "description": "TasteLoop Agent — Qloo Agentic Hackathon entry. Agentic week-planner grounded in Qloo Taste AI cultural data. MIT.",
+      "owner": "knowaguy4u-cell",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-05-19T10:06:39Z",
-      "pushed_at": "2026-10-01T01:03:23Z",
+      "created_at": "2026-10-01T20:00:44Z",
+      "pushed_at": "2026-10-02T00:38:11Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -107,7 +170,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:18:55Z",
-      "pushed_at": "2026-10-01T00:49:43Z",
+      "pushed_at": "2026-10-02T01:04:35Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -117,87 +180,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1266317101",
-      "title": "OpsAgentsAI/rapid-site-builder",
-      "url": "https://github.com/OpsAgentsAI/rapid-site-builder",
-      "description": "Describe your business in one line — an AI agent team designs, writes, and ships your website live. Built for the Google Cloud Rapid Agent Hackathon.",
-      "owner": "OpsAgentsAI",
-      "language": "JavaScript",
+      "id": "1355678393",
+      "title": "adwik1401/alpaca-ai-trading-agent",
+      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
+      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "adwik1401",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-06-11T14:03:49Z",
-      "pushed_at": "2026-10-01T06:50:31Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1386925150",
-      "title": "Sehyeogkim/Long_Horizon_Agents_Hackathon_0926",
-      "url": "https://github.com/Sehyeogkim/Long_Horizon_Agents_Hackathon_0926",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Sehyeogkim",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-09-25T06:43:26Z",
-      "pushed_at": "2026-10-01T01:40:28Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1399333616",
-      "title": "suhanivaidya02/Savage.exe",
-      "url": "https://github.com/suhanivaidya02/Savage.exe",
-      "description": "AI Agentic competition comit",
-      "owner": "suhanivaidya02",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-01T06:44:45Z",
-      "pushed_at": "2026-10-01T06:44:46Z",
-      "topics": [],
-      "matched_queries": [
-        "AI agent competition"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1399366936",
-      "title": "vidhibhise37-cmd/AI-Agent-hackthon",
-      "url": "https://github.com/vidhibhise37-cmd/AI-Agent-hackthon",
-      "description": "AI-Agent-hackathon",
-      "owner": "vidhibhise37-cmd",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-01T07:04:03Z",
-      "pushed_at": "2026-10-01T07:04:05Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1388123708",
-      "title": "axmatea/compass-horizon",
-      "url": "https://github.com/axmatea/compass-horizon",
-      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
-      "owner": "axmatea",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-09-30T23:55:56Z",
+      "created_at": "2026-09-03T07:53:55Z",
+      "pushed_at": "2026-10-01T22:54:37Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -207,15 +198,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1371838136",
-      "title": "el-informatico/field-service-voice-logger",
-      "url": "https://github.com/el-informatico/field-service-voice-logger",
-      "description": "Real-time voice agent that fills field-service work orders with spoken read-back confirmation and published extraction-accuracy metrics — AssemblyAI Voice Agent Hackathon 2026",
-      "owner": "el-informatico",
-      "language": "JavaScript",
+      "id": "1349699908",
+      "title": "alvaarocl/iv-desk",
+      "url": "https://github.com/alvaarocl/iv-desk",
+      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
+      "owner": "alvaarocl",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-15T17:07:39Z",
-      "pushed_at": "2026-09-30T23:16:37Z",
+      "created_at": "2026-08-28T14:32:47Z",
+      "pushed_at": "2026-10-01T22:55:34Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -225,18 +216,36 @@
       "source_type": "github-search"
     },
     {
-      "id": "1397244554",
-      "title": "scha54/Sanity-MCP-Hackathon",
-      "url": "https://github.com/scha54/Sanity-MCP-Hackathon",
-      "description": "Submission for the Sanity x Dev.to Challenge",
-      "owner": "scha54",
-      "language": "TypeScript",
+      "id": "1400720055",
+      "title": "nobelchowdary/afterhours-qloo",
+      "url": "https://github.com/nobelchowdary/afterhours-qloo",
+      "description": "AfterHours: a taste-aware agent that plans and repairs small-group social outings. Built for the Qloo Agentic Hackathon.",
+      "owner": "nobelchowdary",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-09-30T07:06:08Z",
-      "pushed_at": "2026-09-30T07:07:05Z",
+      "created_at": "2026-10-01T21:06:04Z",
+      "pushed_at": "2026-10-01T21:06:05Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349918779",
+      "title": "Sebastian0890/onenode-options-agent",
+      "url": "https://github.com/Sebastian0890/onenode-options-agent",
+      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Sebastian0890",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T18:26:54Z",
+      "pushed_at": "2026-10-01T22:55:08Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
