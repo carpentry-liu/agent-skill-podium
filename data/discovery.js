@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-10-02T09:00:00+08:00",
+  "updated_at": "2026-10-03T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -29,36 +29,12 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-10-01T23:22:40Z",
+      "pushed_at": "2026-10-02T23:11:09Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
       "score": 17.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1236816811",
-      "title": "aprin-labs/archimedes",
-      "url": "https://github.com/aprin-labs/archimedes",
-      "description": "AI trading strategies that fuse user intent with market data, academic research, and statistical rigor to help you win more than you lose.  🏆 Selected as a Standout Project in the Agora Agents Hackathon!",
-      "owner": "aprin-labs",
-      "language": "Python",
-      "stars": 18,
-      "created_at": "2026-05-12T15:46:31Z",
-      "pushed_at": "2026-10-02T04:52:01Z",
-      "topics": [
-        "agents",
-        "arc",
-        "circle",
-        "crypto",
-        "trading"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 16.279,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -76,7 +52,25 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.699,
+      "score": 15.588,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1393580618",
+      "title": "0x-pankaj/sendsure",
+      "url": "https://github.com/0x-pankaj/sendsure",
+      "description": "Payables agent for teams paying contractors in stablecoins: pays only payees who proved their own address, only for signed claims, only inside an Arc contract budget. Tameion Agents Hackathon, Sep 27 – Oct 10 2026.",
+      "owner": "0x-pankaj",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-28T18:29:22Z",
+      "pushed_at": "2026-10-03T05:59:59Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -89,7 +83,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-10-02T06:56:10Z",
+      "pushed_at": "2026-10-03T03:33:38Z",
       "topics": [],
       "matched_queries": [
         "智能体 大赛"
@@ -99,15 +93,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1387259592",
-      "title": "JohnboscoE/horos",
-      "url": "https://github.com/JohnboscoE/horos",
-      "description": "Know which clients pay late before you start the work. Shared onchain payment record + AI terms & collections agent on Arc (Tameion Agents Hackathon).",
-      "owner": "JohnboscoE",
-      "language": "TypeScript",
+      "id": "1402474193",
+      "title": "AtmanSculptor/common-ground",
+      "url": "https://github.com/AtmanSculptor/common-ground",
+      "description": "Common Ground: an agent that finds what two groups both love, using Qloo taste data. Qloo Agentic Hackathon 2026.",
+      "owner": "AtmanSculptor",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-25T10:19:25Z",
-      "pushed_at": "2026-10-02T03:00:06Z",
+      "created_at": "2026-10-03T00:05:41Z",
+      "pushed_at": "2026-10-03T00:50:39Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -117,43 +111,42 @@
       "source_type": "github-search"
     },
     {
-      "id": "1400217898",
-      "title": "kaiseramoghpatil-del/Karbhari.-AI-Agent-for-Indian-MSME-s",
-      "url": "https://github.com/kaiseramoghpatil-del/Karbhari.-AI-Agent-for-Indian-MSME-s",
-      "description": "KARBHARI: agentic Working Capital Guardian for Indian MSMEs. Built for the Bharat Agentic Hackathon 2026. Reads bank-facility evidence, rebuilds Drawing Power with deterministic, tested code, and reports graded, evidence-cited findings.",
-      "owner": "kaiseramoghpatil-del",
+      "id": "1402490350",
+      "title": "FaisalMT3/hayy",
+      "url": "https://github.com/FaisalMT3/hayy",
+      "description": "Hayy — a taste-grounded marketing agent for small cafés and restaurants, built on Qloo's taste graph (Qloo Agentic Hackathon)",
+      "owner": "FaisalMT3",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-03T00:35:00Z",
+      "pushed_at": "2026-10-03T05:33:50Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1402451768",
+      "title": "me7ko-dev/rihla",
+      "url": "https://github.com/me7ko-dev/rihla",
+      "description": "Rihla — a travel agent that knows your taste and respects your faith. Qloo taste graph + halal food + prayer times. Qloo Agentic Hackathon.",
+      "owner": "me7ko-dev",
       "language": "Python",
-      "stars": 1,
-      "created_at": "2026-10-01T15:10:26Z",
-      "pushed_at": "2026-10-02T04:35:42Z",
+      "stars": 0,
+      "created_at": "2026-10-02T23:25:19Z",
+      "pushed_at": "2026-10-03T01:16:58Z",
       "topics": [
-        "agentic-ai",
         "ai-agent",
-        "aikart",
-        "bharat-agentic",
-        "bharat-agentic-2026",
-        "bharat-agentic-hackathon",
-        "bharatagentic",
-        "fastapi"
+        "fastapi",
+        "hackathon",
+        "halal",
+        "nvidia-nemotron",
+        "qloo",
+        "travel"
       ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1400656957",
-      "title": "knowaguy4u-cell/tasteloop",
-      "url": "https://github.com/knowaguy4u-cell/tasteloop",
-      "description": "TasteLoop Agent — Qloo Agentic Hackathon entry. Agentic week-planner grounded in Qloo Taste AI cultural data. MIT.",
-      "owner": "knowaguy4u-cell",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-01T20:00:44Z",
-      "pushed_at": "2026-10-02T00:38:11Z",
-      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -170,7 +163,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T14:18:55Z",
-      "pushed_at": "2026-10-02T01:04:35Z",
+      "pushed_at": "2026-10-03T00:43:38Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -180,69 +173,77 @@
       "source_type": "github-search"
     },
     {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
+      "id": "1349913502",
+      "title": "nizarhazaymeh/tradingbot",
+      "url": "https://github.com/nizarhazaymeh/tradingbot",
+      "description": "Autonomous options-trading agent that trades only when the premium is worth the risk — Alpaca AI Trading Agents Hackathon",
+      "owner": "nizarhazaymeh",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-10-01T22:54:37Z",
-      "topics": [],
+      "created_at": "2026-08-28T18:20:29Z",
+      "pushed_at": "2026-10-03T06:05:13Z",
+      "topics": [
+        "algorithmic-trading",
+        "alpaca",
+        "autonomous-agents",
+        "llm",
+        "mcp",
+        "options-trading",
+        "python"
+      ],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
+      "id": "1402533292",
+      "title": "SuWanKim-code/document-agent-hackathon-starter-code",
+      "url": "https://github.com/SuWanKim-code/document-agent-hackathon-starter-code",
+      "description": "고려대 세종캠 Document Agent 해커톤 스타터 코드 (Upstage Studio 에이전트 + Streamlit)",
+      "owner": "SuWanKim-code",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-10-01T22:55:34Z",
+      "created_at": "2026-10-03T01:51:26Z",
+      "pushed_at": "2026-10-03T02:25:14Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1400720055",
-      "title": "nobelchowdary/afterhours-qloo",
-      "url": "https://github.com/nobelchowdary/afterhours-qloo",
-      "description": "AfterHours: a taste-aware agent that plans and repairs small-group social outings. Built for the Qloo Agentic Hackathon.",
-      "owner": "nobelchowdary",
+      "id": "1353623006",
+      "title": "VarshaS-37/Boltzmann_Hackathon",
+      "url": "https://github.com/VarshaS-37/Boltzmann_Hackathon",
+      "description": "AI Research Agent Hackathon 👾",
+      "owner": "VarshaS-37",
       "language": null,
       "stars": 0,
-      "created_at": "2026-10-01T21:06:04Z",
-      "pushed_at": "2026-10-01T21:06:05Z",
+      "created_at": "2026-09-01T13:45:45Z",
+      "pushed_at": "2026-10-03T03:23:13Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1349918779",
-      "title": "Sebastian0890/onenode-options-agent",
-      "url": "https://github.com/Sebastian0890/onenode-options-agent",
-      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
-      "owner": "Sebastian0890",
-      "language": "Python",
+      "id": "1402410082",
+      "title": "icohangar-ops/tasteship",
+      "url": "https://github.com/icohangar-ops/tasteship",
+      "description": "Paste a feature ask → same-day ship pack grounded in Qloo Taste AI (Agentic Hackathon)",
+      "owner": "icohangar-ops",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-10-01T22:55:08Z",
+      "created_at": "2026-10-02T22:17:42Z",
+      "pushed_at": "2026-10-02T22:18:28Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
