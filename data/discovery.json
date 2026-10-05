@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-04T09:00:00+08:00",
+  "updated_at": "2026-10-05T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -29,7 +29,104 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.477,
+      "score": 15.366,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1390267454",
+      "title": "aryanpatel142006/swarm-control",
+      "url": "https://github.com/aryanpatel142006/swarm-control",
+      "description": "Multi-agent hackathon harness: Notion board + git worktrees + headless coding CLIs (Claude Code, Codex, Antigravity, Grok)",
+      "owner": "aryanpatel142006",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-27T06:16:00Z",
+      "pushed_at": "2026-10-05T03:57:25Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1401415112",
+      "title": "JahnaviSrilekha/payment-app-by-autonomous-agents-hackathon",
+      "url": "https://github.com/JahnaviSrilekha/payment-app-by-autonomous-agents-hackathon",
+      "description": "Build payment app using autonomous agents",
+      "owner": "JahnaviSrilekha",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-02T08:56:57Z",
+      "pushed_at": "2026-10-05T00:28:07Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1243406909",
+      "title": "KaelynWenHKU/GOOGLEHACKS",
+      "url": "https://github.com/KaelynWenHKU/GOOGLEHACKS",
+      "description": "The repository for google agent hackathon",
+      "owner": "KaelynWenHKU",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-05-19T10:06:39Z",
+      "pushed_at": "2026-10-05T06:12:18Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1403763297",
+      "title": "SebAustin/memory-lane",
+      "url": "https://github.com/SebAustin/memory-lane",
+      "description": "Reminiscence Sessions for people living with dementia, grounded in Qloo's cultural taste graph. Qloo Agentic Hackathon.",
+      "owner": "SebAustin",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-04T01:13:04Z",
+      "pushed_at": "2026-10-05T00:50:31Z",
+      "topics": [
+        "ai-agent",
+        "dementia-care",
+        "hackathon",
+        "nextjs",
+        "qloo",
+        "reminiscence-therapy"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1404915072",
+      "title": "AVGVSTVS96/personal-agent-cloud-computer",
+      "url": "https://github.com/AVGVSTVS96/personal-agent-cloud-computer",
+      "description": "Build Personal Agents hackathon demo: a personal assistant with its own cloud computer",
+      "owner": "AVGVSTVS96",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-10-04T23:28:39Z",
+      "pushed_at": "2026-10-04T23:28:55Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -47,43 +144,61 @@
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1243406909",
-      "title": "KaelynWenHKU/GOOGLEHACKS",
-      "url": "https://github.com/KaelynWenHKU/GOOGLEHACKS",
-      "description": "The repository for google agent hackathon",
-      "owner": "KaelynWenHKU",
-      "language": "Python",
+      "id": "1404659573",
+      "title": "mjkang-estrella/personal-agent-hackathon",
+      "url": "https://github.com/mjkang-estrella/personal-agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "mjkang-estrella",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-05-19T10:06:39Z",
-      "pushed_at": "2026-10-04T01:06:51Z",
+      "created_at": "2026-10-04T17:13:18Z",
+      "pushed_at": "2026-10-04T23:13:48Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1403782894",
-      "title": "nicolasesanchez50/cold-open",
-      "url": "https://github.com/nicolasesanchez50/cold-open",
-      "description": "Cold-Open - taste-matched partnership lead generation powered by Qloo (Qloo Agentic Hackathon entry)",
-      "owner": "nicolasesanchez50",
-      "language": "JavaScript",
+      "id": "1404702639",
+      "title": "philippvb/neon-personal-agent-hackathon",
+      "url": "https://github.com/philippvb/neon-personal-agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "philippvb",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-10-04T01:53:41Z",
-      "pushed_at": "2026-10-04T02:09:15Z",
+      "created_at": "2026-10-04T18:04:18Z",
+      "pushed_at": "2026-10-04T18:04:20Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1402782540",
+      "title": "riecodes/devcon-hermes-hackathon",
+      "url": "https://github.com/riecodes/devcon-hermes-hackathon",
+      "description": "Suki Pulse: Camp Run Hermes Agent hackathon (DEVCON x Avtica x Amihan, Oct 2 2026)",
+      "owner": "riecodes",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-10-03T06:51:30Z",
+      "pushed_at": "2026-10-04T18:05:20Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -101,32 +216,7 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1403763297",
-      "title": "SebAustin/memory-lane",
-      "url": "https://github.com/SebAustin/memory-lane",
-      "description": "Reminiscence Sessions for people living with dementia, grounded in Qloo's cultural taste graph. Qloo Agentic Hackathon.",
-      "owner": "SebAustin",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-04T01:13:04Z",
-      "pushed_at": "2026-10-04T01:15:30Z",
-      "topics": [
-        "ai-agent",
-        "dementia-care",
-        "hackathon",
-        "nextjs",
-        "qloo",
-        "reminiscence-therapy"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -139,97 +229,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-04T02:18:15Z",
-      "pushed_at": "2026-10-04T06:49:37Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1403668231",
-      "title": "TomasArancibia1/soft-landing",
-      "url": "https://github.com/TomasArancibia1/soft-landing",
-      "description": "Soft Landing: an agent that translates your taste to a new city using Qloo's Taste AI (Qloo Agentic Hackathon).",
-      "owner": "TomasArancibia1",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-10-03T22:00:00Z",
-      "pushed_at": "2026-10-04T04:35:03Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1403777992",
-      "title": "WLONEGI/AI_Agent_Hackathon_with_Google_Cloud_5th",
-      "url": "https://github.com/WLONEGI/AI_Agent_Hackathon_with_Google_Cloud_5th",
-      "description": "AI_Agent_Hackathon_with_Google_Cloud_5th",
-      "owner": "WLONEGI",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-04T01:43:35Z",
-      "pushed_at": "2026-10-04T01:44:25Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1238816710",
-      "title": "WLONEGI/DevOps-AI-Agent-Hackathon-",
-      "url": "https://github.com/WLONEGI/DevOps-AI-Agent-Hackathon-",
-      "description": "DevOps × AI Agent Hackathon２",
-      "owner": "WLONEGI",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-05-14T13:35:16Z",
-      "pushed_at": "2026-10-04T01:33:48Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1351215064",
-      "title": "aeiou0123/pku-financial-ai-agent",
-      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
-      "description": "Claim2Value - 北大金融AI智能体大赛",
-      "owner": "aeiou0123",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-10-03T11:47:36Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 大赛"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1402360743",
-      "title": "AkshayJohn03/Quorum",
-      "url": "https://github.com/AkshayJohn03/Quorum",
-      "description": "A focus group in a box - grounded in 250M measured tastes. Describe an idea, pick an audience, and a synthetic panel reacts through real Qloo affinity fingerprints with receipts. Qloo Agentic Hackathon entry.",
-      "owner": "AkshayJohn03",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-02T21:11:44Z",
-      "pushed_at": "2026-10-03T22:39:04Z",
+      "pushed_at": "2026-10-04T18:07:14Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
