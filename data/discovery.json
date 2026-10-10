@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-09T09:00:00+08:00",
+  "updated_at": "2026-10-10T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,6 +16,24 @@
   ],
   "candidates": [
     {
+      "id": "1351293462",
+      "title": "Arming-afk/Trading-agent-alpaca",
+      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
+      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
+      "owner": "Arming-afk",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-30T10:13:42Z",
+      "pushed_at": "2026-10-09T23:25:58Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 17.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
       "id": "1342067209",
       "title": "GSA-TTS/mcp-hackathon-template",
       "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
@@ -29,20 +47,38 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.477,
+      "score": 15.366,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1266435726",
-      "title": "BernardUriza/activist-os",
-      "url": "https://github.com/BernardUriza/activist-os",
-      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
-      "owner": "BernardUriza",
+      "id": "1351215064",
+      "title": "aeiou0123/pku-financial-ai-agent",
+      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
+      "description": "Claim2Value - 北大金融AI智能体大赛",
+      "owner": "aeiou0123",
       "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-30T08:03:51Z",
+      "pushed_at": "2026-10-10T05:17:03Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1403036851",
+      "title": "AhmedMSaed/flash-sale-ai-agent-hackathon",
+      "url": "https://github.com/AhmedMSaed/flash-sale-ai-agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "AhmedMSaed",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-06-11T16:03:14Z",
-      "pushed_at": "2026-10-09T01:17:40Z",
+      "created_at": "2026-10-03T11:05:15Z",
+      "pushed_at": "2026-10-10T07:04:35Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -52,21 +88,37 @@
       "source_type": "github-search"
     },
     {
-      "id": "1411338005",
-      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-sunny-ai-innovators",
-      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-sunny-ai-innovators",
-      "description": "Hackathon team repository for Sunny AI Innovators - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:sunny-ai-innovators]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
+      "id": "1390267454",
+      "title": "aryanpatel142006/swarm-control",
+      "url": "https://github.com/aryanpatel142006/swarm-control",
+      "description": "Multi-agent hackathon harness: Notion board + git worktrees + headless coding CLIs (Claude Code, Codex, Antigravity, Grok)",
+      "owner": "aryanpatel142006",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-09T05:30:23Z",
-      "pushed_at": "2026-10-09T05:30:25Z",
+      "created_at": "2026-09-27T06:16:00Z",
+      "pushed_at": "2026-10-10T04:50:08Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1411617243",
+      "title": "crusheR-058/collab-scout",
+      "url": "https://github.com/crusheR-058/collab-scout",
+      "description": "Partnership-scouting agent grounded in Qloo taste data. Built for the Qloo Agentic Hackathon.",
+      "owner": "crusheR-058",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-09T09:43:05Z",
+      "pushed_at": "2026-10-10T06:28:50Z",
       "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
+        "ai-agent",
+        "hackathon",
+        "qloo"
       ],
       "matched_queries": [
         "agent hackathon"
@@ -76,39 +128,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1411311441",
-      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-udiennx",
-      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-udiennx",
-      "description": "Hackathon team repository for UDIENNX - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:udiennx]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-09T05:02:37Z",
-      "pushed_at": "2026-10-09T05:02:39Z",
-      "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1411447949",
-      "title": "Noah-zipit/fauxpas",
-      "url": "https://github.com/Noah-zipit/fauxpas",
-      "description": "fauxpas — cultural-fit intelligence: will a new market love your brand or cancel it? (Qloo Agentic Hackathon)",
-      "owner": "Noah-zipit",
+      "id": "1403352976",
+      "title": "devilking7x/squadvibe",
+      "url": "https://github.com/devilking7x/squadvibe",
+      "description": "SquadVibe — end group-plan fights. AI finds the movie, dinner & music your whole squad will love, grounded in Qloo taste intelligence. Built for the Qloo Agent Hackathon 2026.",
+      "owner": "devilking7x",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-09T07:22:22Z",
-      "pushed_at": "2026-10-09T07:23:01Z",
+      "created_at": "2026-10-03T15:36:24Z",
+      "pushed_at": "2026-10-10T06:16:14Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -118,33 +146,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1404646638",
-      "title": "seypherWork/affinityqa",
-      "url": "https://github.com/seypherWork/affinityqa",
-      "description": "Profile-integrity diagnostics, supported repairs and evidence-backed recorded replay for personalized AI agents. Built for the Qloo Agentic Hackathon.",
-      "owner": "seypherWork",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-04T16:58:12Z",
-      "pushed_at": "2026-10-09T00:57:03Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1406816774",
-      "title": "sjsh23/KitaBisa-AI-Agentic-hackathon",
-      "url": "https://github.com/sjsh23/KitaBisa-AI-Agentic-hackathon",
+      "id": "1412830695",
+      "title": "hectorgallardohdez/Vi-tico-Agentic-Hackathon",
+      "url": "https://github.com/hectorgallardohdez/Vi-tico-Agentic-Hackathon",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "sjsh23",
-      "language": "Python",
+      "owner": "hectorgallardohdez",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-06T06:32:17Z",
-      "pushed_at": "2026-10-09T06:28:16Z",
+      "created_at": "2026-10-10T06:09:30Z",
+      "pushed_at": "2026-10-10T06:15:34Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -154,16 +164,22 @@
       "source_type": "github-search"
     },
     {
-      "id": "1390336306",
-      "title": "vincent-lxc/pulse-operator",
-      "url": "https://github.com/vincent-lxc/pulse-operator",
-      "description": "Pulse Operator: on-chain USDC policy vault + agent operator on Arc (Tameion Agents Hackathon, Canteen x Circle)",
-      "owner": "vincent-lxc",
-      "language": "Solidity",
+      "id": "1412478812",
+      "title": "ttimesai-star/opener",
+      "url": "https://github.com/ttimesai-star/opener",
+      "description": "Opener: who should open for your headliner in this city, with the Qloo taste evidence behind every pick. Qloo Agentic Hackathon.",
+      "owner": "ttimesai-star",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-09-27T07:00:00Z",
-      "pushed_at": "2026-10-09T06:05:22Z",
-      "topics": [],
+      "created_at": "2026-10-09T21:42:41Z",
+      "pushed_at": "2026-10-10T00:11:56Z",
+      "topics": [
+        "ai-agent",
+        "hackathon",
+        "mcp",
+        "music",
+        "qloo"
+      ],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -180,7 +196,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-10-08T23:44:37Z",
+      "pushed_at": "2026-10-09T22:54:21Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -198,7 +214,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-10-08T23:44:35Z",
+      "pushed_at": "2026-10-09T22:54:22Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -208,45 +224,20 @@
       "source_type": "github-search"
     },
     {
-      "id": "1403668231",
-      "title": "TomasArancibia1/soft-landing",
-      "url": "https://github.com/TomasArancibia1/soft-landing",
-      "description": "Soft Landing: an agent that translates your taste to a new city using Qloo's Taste AI (Qloo Agentic Hackathon).",
-      "owner": "TomasArancibia1",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-10-03T22:00:00Z",
-      "pushed_at": "2026-10-08T23:53:08Z",
-      "topics": [
-        "ai-agents",
-        "hackathon",
-        "nodejs",
-        "qloo",
-        "recommendation-engine",
-        "taste"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1358761745",
-      "title": "lixianxin/creativity-ai",
-      "url": "https://github.com/lixianxin/creativity-ai",
-      "description": "2026全球智能体大赛",
-      "owner": "lixianxin",
+      "id": "1411493437",
+      "title": "KaushalWalker/alexa-mcp-hackathon",
+      "url": "https://github.com/KaushalWalker/alexa-mcp-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "KaushalWalker",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-09-06T03:42:57Z",
-      "pushed_at": "2026-10-07T09:51:20Z",
+      "created_at": "2026-10-09T08:03:46Z",
+      "pushed_at": "2026-10-09T08:07:37Z",
       "topics": [],
       "matched_queries": [
-        "智能体 大赛"
+        "MCP hackathon"
       ],
-      "score": 15.079,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
