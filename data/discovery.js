@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-10-10T09:00:00+08:00",
+  "updated_at": "2026-10-11T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,20 +21,197 @@
   ],
   "candidates": [
     {
-      "id": "1351293462",
-      "title": "Arming-afk/Trading-agent-alpaca",
-      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
-      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
-      "owner": "Arming-afk",
+      "id": "1351215064",
+      "title": "aeiou0123/pku-financial-ai-agent",
+      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
+      "description": "Claim2Value - 北大金融AI智能体大赛",
+      "owner": "aeiou0123",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-30T08:03:51Z",
+      "pushed_at": "2026-10-11T06:56:34Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1390267454",
+      "title": "aryanpatel142006/swarm-control",
+      "url": "https://github.com/aryanpatel142006/swarm-control",
+      "description": "Multi-agent hackathon harness: Notion board + git worktrees + headless coding CLIs (Claude Code, Codex, Antigravity, Grok)",
+      "owner": "aryanpatel142006",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-10-09T23:25:58Z",
+      "created_at": "2026-09-27T06:16:00Z",
+      "pushed_at": "2026-10-11T03:26:18Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 17.19,
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1414042350",
+      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-harsha",
+      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-harsha",
+      "description": "Hackathon team repository for Harsha - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:harsha]",
+      "owner": "HackIndiaXYZ",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-10-11T07:06:21Z",
+      "pushed_at": "2026-10-11T07:06:23Z",
+      "topics": [
+        "ai",
+        "ai-agents-automation",
+        "chatbots",
+        "genai",
+        "open-innovation"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1400729545",
+      "title": "jenzylove/tifo",
+      "url": "https://github.com/jenzylove/tifo",
+      "description": "Tifo: an AI sales manager with a budget it has to earn back. Match day drops paid in USDC on Arc. Tameion Agents Hackathon (Canteen x Circle).",
+      "owner": "jenzylove",
+      "language": "Solidity",
+      "stars": 0,
+      "created_at": "2026-10-01T21:17:05Z",
+      "pushed_at": "2026-10-11T06:36:57Z",
+      "topics": [
+        "arc",
+        "circle",
+        "tameion",
+        "usdc"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1413921625",
+      "title": "jiarong0423/understood-not-seen",
+      "url": "https://github.com/jiarong0423/understood-not-seen",
+      "description": "Understood, not seen: your bookmarks become weekend plans on your device. Privacy gate, consent preview, Qloo place lookups. Qloo Agentic Hackathon.",
+      "owner": "jiarong0423",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-11T04:28:00Z",
+      "pushed_at": "2026-10-11T05:06:12Z",
+      "topics": [
+        "agent",
+        "hackathon",
+        "on-device",
+        "privacy",
+        "pwa",
+        "qloo"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1413841203",
+      "title": "mohammadHarrisBin/makan-agent",
+      "url": "https://github.com/mohammadHarrisBin/makan-agent",
+      "description": "Chat your craving, get SG dining picks grounded in Qloo Taste AI. Qloo Agentic Hackathon entry.",
+      "owner": "mohammadHarrisBin",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-11T02:06:11Z",
+      "pushed_at": "2026-10-11T02:08:02Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349913502",
+      "title": "nizarhazaymeh/tradingbot",
+      "url": "https://github.com/nizarhazaymeh/tradingbot",
+      "description": "Autonomous options-trading agent that trades only when the premium is worth the risk — Alpaca AI Trading Agents Hackathon",
+      "owner": "nizarhazaymeh",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T18:20:29Z",
+      "pushed_at": "2026-10-11T06:58:34Z",
+      "topics": [
+        "algorithmic-trading",
+        "alpaca",
+        "autonomous-agents",
+        "llm",
+        "mcp",
+        "options-trading",
+        "python"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1414014848",
+      "title": "rachelselbrede/next-town",
+      "url": "https://github.com/rachelselbrede/next-town",
+      "description": "Find the towns that already love you. A tour-routing agent for independent acts, built on the Qloo taste graph and Claude. Qloo Agentic Hackathon 2026.",
+      "owner": "rachelselbrede",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-11T06:35:26Z",
+      "pushed_at": "2026-10-11T06:35:32Z",
+      "topics": [
+        "claude",
+        "cloudflare-workers",
+        "hackathon",
+        "music",
+        "qloo",
+        "touring"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1413374993",
+      "title": "RyanDev1st/sponsorfit",
+      "url": "https://github.com/RyanDev1st/sponsorfit",
+      "description": "SponsorFit — agent that matches creator audiences with sponsor brands using Qloo's taste graph (Qloo Agentic Hackathon)",
+      "owner": "RyanDev1st",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-10T15:50:32Z",
+      "pushed_at": "2026-10-11T01:25:26Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -52,156 +229,20 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.366,
+      "score": 15.255,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1351215064",
-      "title": "aeiou0123/pku-financial-ai-agent",
-      "url": "https://github.com/aeiou0123/pku-financial-ai-agent",
-      "description": "Claim2Value - 北大金融AI智能体大赛",
-      "owner": "aeiou0123",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-30T08:03:51Z",
-      "pushed_at": "2026-10-10T05:17:03Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 大赛"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1403036851",
-      "title": "AhmedMSaed/flash-sale-ai-agent-hackathon",
-      "url": "https://github.com/AhmedMSaed/flash-sale-ai-agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "AhmedMSaed",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-10-03T11:05:15Z",
-      "pushed_at": "2026-10-10T07:04:35Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1390267454",
-      "title": "aryanpatel142006/swarm-control",
-      "url": "https://github.com/aryanpatel142006/swarm-control",
-      "description": "Multi-agent hackathon harness: Notion board + git worktrees + headless coding CLIs (Claude Code, Codex, Antigravity, Grok)",
-      "owner": "aryanpatel142006",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-27T06:16:00Z",
-      "pushed_at": "2026-10-10T04:50:08Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1411617243",
-      "title": "crusheR-058/collab-scout",
-      "url": "https://github.com/crusheR-058/collab-scout",
-      "description": "Partnership-scouting agent grounded in Qloo taste data. Built for the Qloo Agentic Hackathon.",
-      "owner": "crusheR-058",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-10-09T09:43:05Z",
-      "pushed_at": "2026-10-10T06:28:50Z",
-      "topics": [
-        "ai-agent",
-        "hackathon",
-        "qloo"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1403352976",
-      "title": "devilking7x/squadvibe",
-      "url": "https://github.com/devilking7x/squadvibe",
-      "description": "SquadVibe — end group-plan fights. AI finds the movie, dinner & music your whole squad will love, grounded in Qloo taste intelligence. Built for the Qloo Agent Hackathon 2026.",
-      "owner": "devilking7x",
+      "id": "1393580618",
+      "title": "0x-pankaj/sendsure",
+      "url": "https://github.com/0x-pankaj/sendsure",
+      "description": "Payables agent for teams paying contractors in stablecoins: pays only payees who proved their own address, only for signed claims, only inside an Arc contract budget. Tameion Agents Hackathon, Sep 27 – Oct 10 2026.",
+      "owner": "0x-pankaj",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-03T15:36:24Z",
-      "pushed_at": "2026-10-10T06:16:14Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1412830695",
-      "title": "hectorgallardohdez/Vi-tico-Agentic-Hackathon",
-      "url": "https://github.com/hectorgallardohdez/Vi-tico-Agentic-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "hectorgallardohdez",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-10T06:09:30Z",
-      "pushed_at": "2026-10-10T06:15:34Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1412478812",
-      "title": "ttimesai-star/opener",
-      "url": "https://github.com/ttimesai-star/opener",
-      "description": "Opener: who should open for your headliner in this city, with the Qloo taste evidence behind every pick. Qloo Agentic Hackathon.",
-      "owner": "ttimesai-star",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-09T21:42:41Z",
-      "pushed_at": "2026-10-10T00:11:56Z",
-      "topics": [
-        "ai-agent",
-        "hackathon",
-        "mcp",
-        "music",
-        "qloo"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-10-09T22:54:21Z",
+      "created_at": "2026-09-28T18:29:22Z",
+      "pushed_at": "2026-10-10T22:50:08Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -211,36 +252,18 @@
       "source_type": "github-search"
     },
     {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-10-09T22:54:22Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1411493437",
-      "title": "KaushalWalker/alexa-mcp-hackathon",
-      "url": "https://github.com/KaushalWalker/alexa-mcp-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "KaushalWalker",
-      "language": "Python",
+      "id": "1413280806",
+      "title": "DTung1291/agent-arena",
+      "url": "https://github.com/DTung1291/agent-arena",
+      "description": "AGENT ARENA — AI agent competition platform with USDC bounties on Arc Testnet. Built with Solidity escrow contracts, wagmi v2, React, and TypeScript.",
+      "owner": "DTung1291",
+      "language": "Solidity",
       "stars": 0,
-      "created_at": "2026-10-09T08:03:46Z",
-      "pushed_at": "2026-10-09T08:07:37Z",
+      "created_at": "2026-10-10T14:22:27Z",
+      "pushed_at": "2026-10-10T14:24:02Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "AI agent competition"
       ],
       "score": 15.19,
       "status": "unverified",
