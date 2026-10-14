@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T09:00:00+08:00",
+  "updated_at": "2026-10-14T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -17,14 +17,14 @@
   "candidates": [
     {
       "id": "1416536485",
-      "title": "4KInc/qloo-probe",
-      "url": "https://github.com/4KInc/qloo-probe",
+      "title": "4KInc/travels-well",
+      "url": "https://github.com/4KInc/travels-well",
       "description": "Qloo Agentic Hackathon: verification harness, pre-registered thresholds, and the Travels Well engine. Private working repo.",
       "owner": "4KInc",
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-13T05:58:35Z",
-      "pushed_at": "2026-10-13T06:12:53Z",
+      "pushed_at": "2026-10-14T06:02:25Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -34,136 +34,66 @@
       "source_type": "github-search"
     },
     {
-      "id": "1416557339",
-      "title": "brainupgrade-in/fanfit",
-      "url": "https://github.com/brainupgrade-in/fanfit",
-      "description": "Sponsorship partners whose fans already love your brand: an agent that ranks artists, podcasts, shows and creators by Qloo taste affinity, with evidence. Qloo Agentic Hackathon 2026.",
-      "owner": "brainupgrade-in",
+      "id": "1418349838",
+      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-astrax",
+      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-astrax",
+      "description": "Hackathon team repository for ASTRAX - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:astrax]",
+      "owner": "HackIndiaXYZ",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-10-14T04:16:29Z",
+      "pushed_at": "2026-10-14T04:16:31Z",
+      "topics": [
+        "ai",
+        "ai-agents-automation",
+        "chatbots",
+        "genai",
+        "open-innovation"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1418358393",
+      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-vidyuts",
+      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-vidyuts",
+      "description": "Hackathon team repository for Vidyuts - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:vidyuts]",
+      "owner": "HackIndiaXYZ",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-10-14T04:26:06Z",
+      "pushed_at": "2026-10-14T04:26:08Z",
+      "topics": [
+        "ai",
+        "ai-agents-automation",
+        "chatbots",
+        "genai",
+        "open-innovation"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1418392563",
+      "title": "ilovecodingma/seoul-taste-agent",
+      "url": "https://github.com/ilovecodingma/seoul-taste-agent",
+      "description": "Qloo Agentic Hackathon: taste-grounded Seoul trip agent",
+      "owner": "ilovecodingma",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-13T06:19:00Z",
-      "pushed_at": "2026-10-13T07:10:44Z",
+      "created_at": "2026-10-14T05:05:56Z",
+      "pushed_at": "2026-10-14T05:44:02Z",
       "topics": [
-        "ai-agents",
-        "fastapi",
         "hackathon",
-        "nemotron",
-        "qloo",
-        "sponsorship"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1416567026",
-      "title": "Gosplex/route-scout",
-      "url": "https://github.com/Gosplex/route-scout",
-      "description": "AI tour-planning agent for independent artists. Finds the US cities where your future fans live (Qloo Taste AI), checks which aren't crowded with similar shows (Ticketmaster), and plans the tour. Built for the Qloo Agentic Hackathon 2026.",
-      "owner": "Gosplex",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-13T06:28:13Z",
-      "pushed_at": "2026-10-13T06:30:07Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1416426306",
-      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-autonomous",
-      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-autonomous",
-      "description": "Hackathon team repository for Autonomous - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:autonomous]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-13T03:59:17Z",
-      "pushed_at": "2026-10-13T03:59:18Z",
-      "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1416531971",
-      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-perseverance",
-      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-perseverance",
-      "description": "Hackathon team repository for Perseverance - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:perseverance]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-13T05:53:43Z",
-      "pushed_at": "2026-10-13T05:53:44Z",
-      "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1416508481",
-      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-team-astra",
-      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-team-astra",
-      "description": "Hackathon team repository for Team Astra - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:team-astra]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-13T05:27:14Z",
-      "pushed_at": "2026-10-13T05:27:16Z",
-      "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1416517846",
-      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-tech-hacks",
-      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-tech-hacks",
-      "description": "Hackathon team repository for Tech Hacks - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:tech-hacks]",
-      "owner": "HackIndiaXYZ",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-13T05:38:02Z",
-      "pushed_at": "2026-10-13T05:38:04Z",
-      "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
+        "qloo"
       ],
       "matched_queries": [
         "agent hackathon"
@@ -181,7 +111,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-10-04T17:50:36Z",
-      "pushed_at": "2026-10-13T06:56:56Z",
+      "pushed_at": "2026-10-14T06:08:16Z",
       "topics": [
         "ai-agents",
         "caregivers",
@@ -189,6 +119,107 @@
         "python",
         "recommendation"
       ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1400729545",
+      "title": "jenzylove/tifo",
+      "url": "https://github.com/jenzylove/tifo",
+      "description": "Tifo: an AI sales manager with a budget it has to earn back. Match day drops paid in USDC on Arc. Tameion Agents Hackathon (Canteen x Circle).",
+      "owner": "jenzylove",
+      "language": "Solidity",
+      "stars": 0,
+      "created_at": "2026-10-01T21:17:05Z",
+      "pushed_at": "2026-10-14T02:43:51Z",
+      "topics": [
+        "arc",
+        "circle",
+        "tameion",
+        "usdc"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1184100479",
+      "title": "leary-poken/AI_Agents_Hackathon",
+      "url": "https://github.com/leary-poken/AI_Agents_Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "leary-poken",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-03-17T08:53:39Z",
+      "pushed_at": "2026-10-14T03:04:39Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1406059758",
+      "title": "pintu544/tasteroute",
+      "url": "https://github.com/pintu544/tasteroute",
+      "description": "TasteRoute — agentic outing planner powered by Qloo taste intelligence (Qloo Agentic Hackathon)",
+      "owner": "pintu544",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-05T16:21:01Z",
+      "pushed_at": "2026-10-14T03:16:48Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1412478812",
+      "title": "ttimesai-star/opener",
+      "url": "https://github.com/ttimesai-star/opener",
+      "description": "Opener: who should open for your headliner in this city, with the Qloo taste evidence behind every pick. Qloo Agentic Hackathon.",
+      "owner": "ttimesai-star",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-09T21:42:41Z",
+      "pushed_at": "2026-10-14T04:46:44Z",
+      "topics": [
+        "ai-agent",
+        "hackathon",
+        "mcp",
+        "music",
+        "qloo"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1413334506",
+      "title": "vigohan95/tour-router",
+      "url": "https://github.com/vigohan95/tour-router",
+      "description": "Tour Router: an agent that plans a tour city by city with Qloo Taste AI (Qloo Agentic Hackathon)",
+      "owner": "vigohan95",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-10T15:12:40Z",
+      "pushed_at": "2026-10-14T03:52:50Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -205,48 +236,12 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-09T08:03:46Z",
-      "pushed_at": "2026-10-13T05:16:57Z",
+      "pushed_at": "2026-10-13T19:01:59Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1378873733",
-      "title": "No-Country-simulation/G10_Nuevamente_Equipo48",
-      "url": "https://github.com/No-Country-simulation/G10_Nuevamente_Equipo48",
-      "description": "Sistema inteligente de adaptación y generación de contenido educativo mediante RAG y Agentes (Hackathon ONE G10).",
-      "owner": "No-Country-simulation",
-      "language": "HTML",
-      "stars": 1,
-      "created_at": "2026-09-20T23:47:50Z",
-      "pushed_at": "2026-10-13T06:07:51Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1408121264",
-      "title": "partboost-coder/sidequest",
-      "url": "https://github.com/partboost-coder/sidequest",
-      "description": "The road trip built around your taste. Agentic, Qloo-powered road-trip companion (Qloo Agentic Hackathon).",
-      "owner": "partboost-coder",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-07T02:00:46Z",
-      "pushed_at": "2026-10-13T06:25:46Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -264,7 +259,7 @@
       "matched_queries": [
         "智能体 大赛"
       ],
-      "score": 15.19,
+      "score": 15.079,
       "status": "unverified",
       "source_type": "github-search"
     }
