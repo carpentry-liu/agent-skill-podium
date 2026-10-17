@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T09:00:00+08:00",
+  "updated_at": "2026-10-17T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,51 +16,96 @@
   ],
   "candidates": [
     {
-      "id": "1271573627",
-      "title": "Risingtell/driplet",
-      "url": "https://github.com/Risingtell/driplet",
-      "description": "Driplet — get paid by the second. Pay-per-second live-stream monetization in USDC nanopayments on Arc, with an autonomous stream treasury that splits earnings and pays its own AI agent. Built for the Lepton Agents Hackathon.",
-      "owner": "Risingtell",
-      "language": "TypeScript",
-      "stars": 2,
-      "created_at": "2026-06-16T19:55:11Z",
-      "pushed_at": "2026-10-16T04:49:27Z",
-      "topics": [
-        "ai-agents",
-        "arc",
-        "circle",
-        "creator-economy",
-        "hackathon",
-        "lepton",
-        "live-streaming",
-        "micropayments"
-      ],
+      "id": "1422951857",
+      "title": "jahanzeb-niazi/Agentika-Hackathon",
+      "url": "https://github.com/jahanzeb-niazi/Agentika-Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "jahanzeb-niazi",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-10-17T04:42:47Z",
+      "pushed_at": "2026-10-17T04:42:49Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.477,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1415704602",
-      "title": "designerajitrawat-ux/memory-lane",
-      "url": "https://github.com/designerajitrawat-ux/memory-lane",
-      "description": "Memory Lane: personalised reminiscence sessions for people living with memory loss, grounded in Qloo's taste graph. Qloo Agentic Hackathon 2026.",
-      "owner": "designerajitrawat-ux",
+      "id": "1422944811",
+      "title": "juanmaagd/wildfire-sentinel",
+      "url": "https://github.com/juanmaagd/wildfire-sentinel",
+      "description": "Wildfire triage, spread prediction and response planning for Japan — Jev, ai& and Neo4j (Tokyo Agent Hackathon 2026)",
+      "owner": "juanmaagd",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-12T14:19:43Z",
-      "pushed_at": "2026-10-16T05:10:35Z",
+      "created_at": "2026-10-17T04:31:10Z",
+      "pushed_at": "2026-10-17T05:26:03Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422454243",
+      "title": "kilworl/cacho-map",
+      "url": "https://github.com/kilworl/cacho-map",
+      "description": "Cartagena taste-incompatibility map for couples, powered by Qloo (Qloo Agentic Hackathon)",
+      "owner": "kilworl",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-16T17:15:25Z",
+      "pushed_at": "2026-10-17T05:32:32Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422883351",
+      "title": "Muifrend/2026-10-17-Tokyo-Agent-Hackathon",
+      "url": "https://github.com/Muifrend/2026-10-17-Tokyo-Agent-Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "Muifrend",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-17T02:52:31Z",
+      "pushed_at": "2026-10-17T05:33:29Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422958554",
+      "title": "ptlnextdoor/ouroboros",
+      "url": "https://github.com/ptlnextdoor/ouroboros",
+      "description": "An agent team that trains its own next brain. Self-improving LoRA generations gated by a held-out jury. Recursive Agents Hackathon 2026.",
+      "owner": "ptlnextdoor",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-10-17T04:53:36Z",
+      "pushed_at": "2026-10-17T04:55:12Z",
       "topics": [
-        "ai-agent",
-        "dementia-care",
-        "fastify",
+        "crusoe",
+        "expert-iteration",
         "hackathon",
-        "mcp",
-        "nextjs",
-        "qloo",
-        "reminiscence"
+        "llm",
+        "lora",
+        "nemotron",
+        "self-improving-agents",
+        "vllm"
       ],
       "matched_queries": [
         "agent hackathon"
@@ -70,22 +115,16 @@
       "source_type": "github-search"
     },
     {
-      "id": "1420103171",
-      "title": "HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-null",
-      "url": "https://github.com/HackIndiaXYZ/ai-agents-hackathon-agentverse-2026-supported-by-openai-null",
-      "description": "Hackathon team repository for NULL - [hackindia-team:ai-agents-hackathon-agentverse-2026-supported-by-openai:null]",
-      "owner": "HackIndiaXYZ",
+      "id": "1406041290",
+      "title": "riyannode/metronarc",
+      "url": "https://github.com/riyannode/metronarc",
+      "description": "METRON plugin-first implementation for Tameion Agents Hackathon",
+      "owner": "riyannode",
       "language": "Python",
-      "stars": 1,
-      "created_at": "2026-10-15T03:06:34Z",
-      "pushed_at": "2026-10-16T03:41:32Z",
-      "topics": [
-        "ai",
-        "ai-agents-automation",
-        "chatbots",
-        "genai",
-        "open-innovation"
-      ],
+      "stars": 0,
+      "created_at": "2026-10-05T16:07:16Z",
+      "pushed_at": "2026-10-17T05:18:30Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -94,25 +133,70 @@
       "source_type": "github-search"
     },
     {
-      "id": "1400729545",
-      "title": "jenzylove/tifo",
-      "url": "https://github.com/jenzylove/tifo",
-      "description": "Tifo: your matchday sales, run by an agent. Shops put stock on a big match, buyers get money back if their team wins, and an agent runs the money in USDC on Arc. Built for the Tameion Agents Hackathon.",
-      "owner": "jenzylove",
-      "language": "Solidity",
+      "id": "1422080824",
+      "title": "scallsen/nutrifacts-jp",
+      "url": "https://github.com/scallsen/nutrifacts-jp",
+      "description": "Parse Japanese nutrition labels (栄養成分表示) into a simplified, honest view. Tokyo Agent Hackathon Oct 17 2026.",
+      "owner": "scallsen",
+      "language": "Swift",
       "stars": 0,
-      "created_at": "2026-10-01T21:17:05Z",
-      "pushed_at": "2026-10-16T00:01:52Z",
-      "topics": [
-        "account-abstraction",
-        "agents",
-        "ai-agents",
-        "arc",
-        "circle",
-        "football",
-        "nextjs",
-        "passkeys"
+      "created_at": "2026-10-16T11:38:22Z",
+      "pushed_at": "2026-10-17T05:29:20Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422852421",
+      "title": "thehephaistos/underwatch",
+      "url": "https://github.com/thehephaistos/underwatch",
+      "description": "Kernel Witness: independently observe AI coding agents, compare what they did with what they reported, and turn verified incidents into tested safeguards (Tokyo Agent Hackathon 2026, Neo4j + ai&)",
+      "owner": "thehephaistos",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-17T01:58:00Z",
+      "pushed_at": "2026-10-17T05:17:27Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422598759",
+      "title": "tokyo-agent-hackathon-20261017-ankha/lost-and-noted",
+      "url": "https://github.com/tokyo-agent-hackathon-20261017-ankha/lost-and-noted",
+      "description": "For Tokyo Agent Hackathon 20261017. Batch classification and recording of lost items from hotel rooms.",
+      "owner": "tokyo-agent-hackathon-20261017-ankha",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-10-16T19:36:39Z",
+      "pushed_at": "2026-10-17T05:08:55Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422983802",
+      "title": "zuheylt/agentic-hackathon",
+      "url": "https://github.com/zuheylt/agentic-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "zuheylt",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-10-17T05:33:02Z",
+      "pushed_at": "2026-10-17T05:33:08Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -129,136 +213,10 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-09T08:03:46Z",
-      "pushed_at": "2026-10-16T05:27:06Z",
+      "pushed_at": "2026-10-16T13:56:48Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1406043403",
-      "title": "louji2308/Zorq",
-      "url": "https://github.com/louji2308/Zorq",
-      "description": "Zorq — cultural composition intelligence for physical places. Qloo Agentic Hackathon 2026 entry.",
-      "owner": "louji2308",
-      "language": "TypeScript",
-      "stars": 1,
-      "created_at": "2026-10-05T16:08:53Z",
-      "pushed_at": "2026-10-16T03:59:19Z",
-      "topics": [
-        "agent",
-        "cultural-intelligence",
-        "hackathon",
-        "qloo",
-        "react",
-        "typescript"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1409120768",
-      "title": "master-ai-designer/TastePilot-AI",
-      "url": "https://github.com/master-ai-designer/TastePilot-AI",
-      "description": "AI-powered personalized discovery agent built for the Qloo Agentic Hackathon.",
-      "owner": "master-ai-designer",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-10-07T17:07:29Z",
-      "pushed_at": "2026-10-16T02:26:43Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1411630719",
-      "title": "Noah-zipit/gavel",
-      "url": "https://github.com/Noah-zipit/gavel",
-      "description": "The Disagreement Engine: adversarial AI agents settle group decisions with taste-graph evidence. Qloo Agentic Hackathon entry.",
-      "owner": "Noah-zipit",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-09T09:55:06Z",
-      "pushed_at": "2026-10-16T04:10:45Z",
-      "topics": [
-        "ai-agents",
-        "hackathon",
-        "nextjs",
-        "qloo"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1416993511",
-      "title": "pamu512/tuck",
-      "url": "https://github.com/pamu512/tuck",
-      "description": "Guided Memory Lane: invite-first shared listening/looking with caregiver preview and Qloo cultural suggestions (Qloo Agentic Hackathon)",
-      "owner": "pamu512",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-13T12:22:29Z",
-      "pushed_at": "2026-10-16T00:32:10Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1421699383",
-      "title": "swanky/tastecast",
-      "url": "https://github.com/swanky/tastecast",
-      "description": "Qloo-powered casting agent for disclosed AI characters: brand brief in, ranked characters out, every claim cited to Qloo evidence. Web app + remote MCP server. Qloo Agentic Hackathon.",
-      "owner": "swanky",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-16T05:39:22Z",
-      "pushed_at": "2026-10-16T05:39:32Z",
-      "topics": [
-        "ai-agents",
-        "cloudflare-workers",
-        "hackathon",
-        "mcp",
-        "qloo"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-10-15T23:18:31Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
@@ -278,7 +236,7 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.19,
+      "score": 15.079,
       "status": "unverified",
       "source_type": "github-search"
     }
