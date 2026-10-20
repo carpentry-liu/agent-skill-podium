@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T09:00:00+08:00",
+  "updated_at": "2026-10-20T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,15 +16,193 @@
   ],
   "candidates": [
     {
-      "id": "1402474193",
-      "title": "AtmanSculptor/common-ground",
-      "url": "https://github.com/AtmanSculptor/common-ground",
-      "description": "Common Ground: an agent that finds what two groups both love, using Qloo taste data. Qloo Agentic Hackathon 2026.",
-      "owner": "AtmanSculptor",
+      "id": "1424047972",
+      "title": "Feynman724/huawei-pc-marketing-agent-hackathon",
+      "url": "https://github.com/Feynman724/huawei-pc-marketing-agent-hackathon",
+      "description": "AI+华为PC营销软文智能体｜黑客松项目",
+      "owner": "Feynman724",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-03T00:05:41Z",
-      "pushed_at": "2026-10-19T01:28:54Z",
+      "created_at": "2026-10-18T06:06:46Z",
+      "pushed_at": "2026-10-20T05:18:06Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1424393471",
+      "title": "kdjkdj1234567890-bit/common-ground",
+      "url": "https://github.com/kdjkdj1234567890-bit/common-ground",
+      "description": "Common Ground - a group-decision agent powered by the Qloo taste graph. Ends the \"what should we do?\" deadlock with cross-domain affinities, maximin compromise scoring, and per-person rationale (Qloo Agentic Hackathon).",
+      "owner": "kdjkdj1234567890-bit",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-18T13:15:59Z",
+      "pushed_at": "2026-10-20T05:19:34Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1426419889",
+      "title": "longtt-marketing/taste-brief",
+      "url": "https://github.com/longtt-marketing/taste-brief",
+      "description": "Campaign briefs where every audience claim is traceable to Qloo taste data (Qloo Agentic Hackathon)",
+      "owner": "longtt-marketing",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-20T02:44:31Z",
+      "pushed_at": "2026-10-20T05:04:59Z",
+      "topics": [
+        "ai-agent",
+        "claude",
+        "cloudflare-workers",
+        "hackathon",
+        "marketing",
+        "qloo"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1425122194",
+      "title": "low108/garden-qloo",
+      "url": "https://github.com/low108/garden-qloo",
+      "description": "The Garden, with taste: AI dating twins grounded in Qloo's cultural taste graph (Qloo Agentic Hackathon)",
+      "owner": "low108",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-19T04:48:47Z",
+      "pushed_at": "2026-10-20T05:57:55Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1409120768",
+      "title": "master-ai-designer/TastePilot-AI",
+      "url": "https://github.com/master-ai-designer/TastePilot-AI",
+      "description": "AI-powered personalized discovery agent built for the Qloo Agentic Hackathon.",
+      "owner": "master-ai-designer",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-10-07T17:07:29Z",
+      "pushed_at": "2026-10-20T04:03:06Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1409702410",
+      "title": "Noah-zipit/fauxscan",
+      "url": "https://github.com/Noah-zipit/fauxscan",
+      "description": "FauxPas — agentic cultural risk scanner for brands entering new markets. Qloo Agentic Hackathon entry.",
+      "owner": "Noah-zipit",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-08T04:06:01Z",
+      "pushed_at": "2026-10-20T04:13:33Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1221780602",
+      "title": "openbuildxyz/hackagent",
+      "url": "https://github.com/openbuildxyz/hackagent",
+      "description": "Open-source platform for AI agent hackathons and skill distribution.",
+      "owner": "openbuildxyz",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-04-26T17:11:48Z",
+      "pushed_at": "2026-10-20T05:08:58Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422472742",
+      "title": "Sourendas/common-ground-qloo",
+      "url": "https://github.com/Sourendas/common-ground-qloo",
+      "description": "Common Ground: Qloo-powered agent that finds the venue a whole group will love (Qloo Agentic Hackathon)",
+      "owner": "Sourendas",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-16T17:33:06Z",
+      "pushed_at": "2026-10-20T03:38:18Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1426487078",
+      "title": "usv240/anchor",
+      "url": "https://github.com/usv240/anchor",
+      "description": "Find the barbershops of every community: plans free blood pressure checks at the places people already trust, using CDC need data and Qloo taste data. Qloo Agentic Hackathon 2026.",
+      "owner": "usv240",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-20T04:17:43Z",
+      "pushed_at": "2026-10-20T04:55:55Z",
+      "topics": [
+        "ai-agent",
+        "blood-pressure",
+        "claude",
+        "hackathon",
+        "mcp",
+        "nextjs",
+        "public-health",
+        "qloo"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1416478236",
+      "title": "WellGr8/tastedraft",
+      "url": "https://github.com/WellGr8/tastedraft",
+      "description": "TasteDraft - AI Audience Simulator (Qloo Agentic Hackathon 2026)",
+      "owner": "WellGr8",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-13T04:53:08Z",
+      "pushed_at": "2026-10-20T05:10:20Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -47,196 +225,25 @@
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1405858959",
-      "title": "khw04/TouchBack",
-      "url": "https://github.com/khw04/TouchBack",
-      "description": "TouchBack induction accessibility AI Agent: hackathon implementation and documentation",
-      "owner": "khw04",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-05T13:59:17Z",
-      "pushed_at": "2026-10-19T06:09:19Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1425122194",
-      "title": "low108/garden-qloo",
-      "url": "https://github.com/low108/garden-qloo",
-      "description": "The Garden, with taste: AI dating twins grounded in Qloo's cultural taste graph (Qloo Agentic Hackathon)",
-      "owner": "low108",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-19T04:48:47Z",
-      "pushed_at": "2026-10-19T04:48:53Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1409120768",
-      "title": "master-ai-designer/TastePilot-AI",
-      "url": "https://github.com/master-ai-designer/TastePilot-AI",
-      "description": "AI-powered personalized discovery agent built for the Qloo Agentic Hackathon.",
-      "owner": "master-ai-designer",
+      "id": "1425675864",
+      "title": "nmkhan076/fda_mcp_hackathon",
+      "url": "https://github.com/nmkhan076/fda_mcp_hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "nmkhan076",
       "language": "HTML",
       "stars": 0,
-      "created_at": "2026-10-07T17:07:29Z",
-      "pushed_at": "2026-10-19T05:26:26Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1413374993",
-      "title": "RyanDev1st/sponsorfit",
-      "url": "https://github.com/RyanDev1st/sponsorfit",
-      "description": "SponsorFit — agent that matches creator audiences with sponsor brands using Qloo's taste graph (Qloo Agentic Hackathon)",
-      "owner": "RyanDev1st",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-10-10T15:50:32Z",
-      "pushed_at": "2026-10-19T04:02:26Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1422632526",
-      "title": "saphan-ai/proven",
-      "url": "https://github.com/saphan-ai/proven",
-      "description": "A pull-request reviewer that has to prove what it says: every finding comes with a failing test or a citation, or it is dropped. Built 22–27 Oct 2026 for the Open Agent Hackathon by a fleet of AI agents. One person decides and merges, and writes no code. Orders, reviews and decisions are published with the code.",
-      "owner": "saphan-ai",
-      "language": null,
-      "stars": 1,
-      "created_at": "2026-10-16T20:16:42Z",
-      "pushed_at": "2026-10-19T04:59:26Z",
-      "topics": [
-        "ai-agents",
-        "code-review",
-        "hackathon",
-        "llm",
-        "pull-request",
-        "pull-request-review"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1423922000",
-      "title": "seairtracking/tastebridge",
-      "url": "https://github.com/seairtracking/tastebridge",
-      "description": "A Qloo-powered group discovery agent that finds fair places and films for two people with different tastes. Built for the Qloo Agentic Hackathon.",
-      "owner": "seairtracking",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-10-18T02:27:21Z",
-      "pushed_at": "2026-10-19T01:14:16Z",
-      "topics": [
-        "qloo"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1424904740",
-      "title": "Tushar-94/logiq-ai-agent-hackathon",
-      "url": "https://github.com/Tushar-94/logiq-ai-agent-hackathon",
-      "description": "Role-aware AI agent for analyzing 4.9M+ system logs using SereneDB, SQL tools, and evidence-based insights. Built for National AI Hackathon 2026.",
-      "owner": "Tushar-94",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-18T23:16:52Z",
-      "pushed_at": "2026-10-19T00:11:27Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1424819350",
-      "title": "joakimeriksson/RISE-Agentic-Hackathon",
-      "url": "https://github.com/joakimeriksson/RISE-Agentic-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "joakimeriksson",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-10-18T21:02:14Z",
-      "pushed_at": "2026-10-18T22:44:23Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1422454243",
-      "title": "kilworl/cacho-map",
-      "url": "https://github.com/kilworl/cacho-map",
-      "description": "Cartagena taste-incompatibility map for couples, powered by Qloo (Qloo Agentic Hackathon)",
-      "owner": "kilworl",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-16T17:15:25Z",
-      "pushed_at": "2026-10-18T23:42:54Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1411493437",
-      "title": "KaushalWalker/alexa-mcp-hackathon",
-      "url": "https://github.com/KaushalWalker/alexa-mcp-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "KaushalWalker",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-09T08:03:46Z",
-      "pushed_at": "2026-10-16T13:56:48Z",
+      "created_at": "2026-10-19T13:41:39Z",
+      "pushed_at": "2026-10-19T18:23:30Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 14.968,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
