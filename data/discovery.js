@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-10-25T09:00:00+08:00",
+  "updated_at": "2026-10-26T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,6 +21,33 @@
   ],
   "candidates": [
     {
+      "id": "1422632526",
+      "title": "saphan-ai/proven",
+      "url": "https://github.com/saphan-ai/proven",
+      "description": "A code reviewer that reports only what it can prove: a test that shows the bug, or the data that confirms the risk. Open source, built by a fleet of AI agents with Saphan Studio for the Open Agent Hackathon 2026.",
+      "owner": "saphan-ai",
+      "language": "Go",
+      "stars": 8,
+      "created_at": "2026-10-16T20:16:42Z",
+      "pushed_at": "2026-10-26T05:00:40Z",
+      "topics": [
+        "ai-agents",
+        "code-review",
+        "golang",
+        "hackathon",
+        "llm",
+        "nvidia",
+        "open-source",
+        "pull-request"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.954,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
       "id": "1342067209",
       "title": "GSA-TTS/mcp-hackathon-template",
       "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
@@ -34,38 +61,20 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.556,
+      "score": 15.444,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1427835113",
-      "title": "awkwardapples/Arbiter",
-      "url": "https://github.com/awkwardapples/Arbiter",
-      "description": "Open agent hackathon track 3",
-      "owner": "awkwardapples",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-21T03:33:58Z",
-      "pushed_at": "2026-10-25T05:53:59Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1429138962",
-      "title": "doctarock/Open-Agent-Hackathon-2026",
-      "url": "https://github.com/doctarock/Open-Agent-Hackathon-2026",
+      "id": "1427754333",
+      "title": "bjh-developer/-OhMyFally-Open-Agent-Hackathon-26",
+      "url": "https://github.com/bjh-developer/-OhMyFally-Open-Agent-Hackathon-26",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "doctarock",
+      "owner": "bjh-developer",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-22T02:12:07Z",
-      "pushed_at": "2026-10-25T05:22:29Z",
+      "created_at": "2026-10-21T01:43:25Z",
+      "pushed_at": "2026-10-26T06:07:33Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -75,21 +84,39 @@
       "source_type": "github-search"
     },
     {
-      "id": "1431135966",
-      "title": "GitHubMoreLikeGitGud/clearshelf",
-      "url": "https://github.com/GitHubMoreLikeGitGud/clearshelf",
-      "description": "Allergen clearance and recall watch for online grocers: every decision cited, every release signed. Open Agent Hackathon 2026, Track 3.",
-      "owner": "GitHubMoreLikeGitGud",
-      "language": "TypeScript",
+      "id": "1422801082",
+      "title": "CDVolvik/zemi-aku-public",
+      "url": "https://github.com/CDVolvik/zemi-aku-public",
+      "description": "Zemi-Aku: Qloo Agentic Hackathon entry. A 3D map of Puerto Rico's 78 towns that answers from Qloo taste data, with Census and Overture evidence. Live at zemi.r21digital.com",
+      "owner": "CDVolvik",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-10-23T14:14:21Z",
-      "pushed_at": "2026-10-25T05:00:10Z",
+      "created_at": "2026-10-17T00:21:14Z",
+      "pushed_at": "2026-10-26T05:00:24Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1387580991",
+      "title": "HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-finpilot",
+      "url": "https://github.com/HackIndiaXYZ/hackindia-ai-agents-hackathon-agentverse-2026-finpilot",
+      "description": "Hackathon team repository for FinPilot - [hackindia-team:hackindia-ai-agents-hackathon-agentverse-2026:finpilot]",
+      "owner": "HackIndiaXYZ",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-25T13:44:04Z",
+      "pushed_at": "2026-10-26T05:31:27Z",
       "topics": [
-        "allergens",
-        "food-safety",
-        "meterless",
-        "nemotron",
-        "zetaris"
+        "ai",
+        "ai-agents-automation",
+        "chatbots",
+        "genai",
+        "open-innovation"
       ],
       "matched_queries": [
         "agent hackathon"
@@ -99,15 +126,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1432463570",
-      "title": "GitHubMoreLikeGitGud/weather-or-not",
-      "url": "https://github.com/GitHubMoreLikeGitGud/weather-or-not",
-      "description": "An agent that explains why a US electric utility's revenue changed: weather, industry-wide and company-specific parts, with every number cited to the Lightning SQL that produced it. Open Agent Hackathon 2026, Track 2.",
-      "owner": "GitHubMoreLikeGitGud",
-      "language": "TypeScript",
+      "id": "1430746360",
+      "title": "JinYi123456/shelfwatch",
+      "url": "https://github.com/JinYi123456/shelfwatch",
+      "description": "Shelfwatch — The Night Shift: an overnight recall-triage agent for food-bank duty officers. Open Agent Hackathon 2026, Team Loopwright.",
+      "owner": "JinYi123456",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-10-24T18:12:31Z",
-      "pushed_at": "2026-10-25T05:34:23Z",
+      "created_at": "2026-10-23T07:54:45Z",
+      "pushed_at": "2026-10-26T05:10:41Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -117,15 +144,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1431969941",
-      "title": "hisham-droid/open-agent-hackathon-2026",
-      "url": "https://github.com/hisham-droid/open-agent-hackathon-2026",
-      "description": "Open Agent Hackathon 2026: an agent that investigate why things happened and shows its evidence.",
-      "owner": "hisham-droid",
-      "language": "Python",
+      "id": "1424393471",
+      "title": "kdjkdj1234567890-bit/common-ground",
+      "url": "https://github.com/kdjkdj1234567890-bit/common-ground",
+      "description": "Common Ground - a group-decision agent powered by the Qloo taste graph. Built to help with the \"what should we do?\" deadlock: cross-domain affinities, picks ranked by the least-excited member's affinity estimate (maximin), per-person rationale. (Qloo Agentic Hackathon).",
+      "owner": "kdjkdj1234567890-bit",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-10-24T08:22:02Z",
-      "pushed_at": "2026-10-25T05:53:22Z",
+      "created_at": "2026-10-18T13:15:59Z",
+      "pushed_at": "2026-10-26T05:34:50Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1433937342",
+      "title": "lengphan/worth-it",
+      "url": "https://github.com/lengphan/worth-it",
+      "description": "Is this bounty worth it? Two AI agents investigate, argue, and cite evidence for every claim. Open Agent Hackathon 2026, Track 02.",
+      "owner": "lengphan",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-10-26T05:20:49Z",
+      "pushed_at": "2026-10-26T05:20:54Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -143,7 +188,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-22T08:48:23Z",
-      "pushed_at": "2026-10-25T05:34:55Z",
+      "pushed_at": "2026-10-26T06:03:03Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -153,52 +198,25 @@
       "source_type": "github-search"
     },
     {
-      "id": "1431882302",
-      "title": "PurushottamSahni/GenAI_recallradar",
-      "url": "https://github.com/PurushottamSahni/GenAI_recallradar",
-      "description": "Hunter→Skeptic→H-MEM recall-matching pipeline. GenAI Works Open Agent Hackathon 2026, Wildcard [Tinkerer] track.",
-      "owner": "PurushottamSahni",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-24T06:22:08Z",
-      "pushed_at": "2026-10-25T04:12:02Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1424073506",
-      "title": "silmyfrds/Open-Agent-Hackathon-2026",
-      "url": "https://github.com/silmyfrds/Open-Agent-Hackathon-2026",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "silmyfrds",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-10-18T06:45:56Z",
-      "pushed_at": "2026-10-25T05:53:36Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1432695705",
-      "title": "tanDivina/lengua-fina",
-      "url": "https://github.com/tanDivina/lengua-fina",
-      "description": "Transcreation agent: rewrites product copy per market using Qloo taste data, with every reference traceable. Qloo Agentic Hackathon 2026.",
-      "owner": "tanDivina",
+      "id": "1430608469",
+      "title": "Pratiikpy/agent-spend-desk",
+      "url": "https://github.com/Pratiikpy/agent-spend-desk",
+      "description": "desk.: every dollar your AI coding agents spend, tied to work that landed. A local desk with a daily canary, held-out policy replay and signed, offline-verifiable dossiers. Open Agent Hackathon 2026, Track 3.",
+      "owner": "Pratiikpy",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-25T00:04:54Z",
-      "pushed_at": "2026-10-25T05:36:19Z",
-      "topics": [],
+      "created_at": "2026-10-23T05:18:33Z",
+      "pushed_at": "2026-10-26T06:12:01Z",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "cost-observability",
+        "hackathon",
+        "llm-cost",
+        "nemotron",
+        "open-agent-hackathon",
+        "typescript"
+      ],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -207,33 +225,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1422552971",
-      "title": "TheRealNajim/haqi",
-      "url": "https://github.com/TheRealNajim/haqi",
-      "description": "haqi - Healthy Air Quality Intelligence | Open Agent Hackathon 2026, Track 02",
-      "owner": "TheRealNajim",
-      "language": "TypeScript",
-      "stars": 1,
-      "created_at": "2026-10-16T18:49:07Z",
-      "pushed_at": "2026-10-25T04:30:20Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1432198594",
-      "title": "CAG1218/touchlearn-fudan-Team_Stella",
-      "url": "https://github.com/CAG1218/touchlearn-fudan-Team_Stella",
-      "description": "触见 TouchLearn：把 STEM 图重构成可触摸的 3D 结构图，配编号盲文和扫码音频｜2026 复旦大学未来智造智能体大赛",
-      "owner": "CAG1218",
+      "id": "1423586205",
+      "title": "yannabadie/taste-matched-trailer",
+      "url": "https://github.com/yannabadie/taste-matched-trailer",
+      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
+      "owner": "yannabadie",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-24T13:14:25Z",
-      "pushed_at": "2026-10-24T17:49:31Z",
+      "created_at": "2026-10-17T17:40:45Z",
+      "pushed_at": "2026-10-26T06:00:51Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1358761745",
+      "title": "lixianxin/creativity-ai",
+      "url": "https://github.com/lixianxin/creativity-ai",
+      "description": "2026全球智能体大赛",
+      "owner": "lixianxin",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-09-06T03:42:57Z",
+      "pushed_at": "2026-10-25T12:26:10Z",
       "topics": [],
       "matched_queries": [
         "智能体 大赛"
