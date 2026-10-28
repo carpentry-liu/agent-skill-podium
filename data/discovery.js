@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-10-27T09:00:00+08:00",
+  "updated_at": "2026-10-28T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,47 +21,20 @@
   ],
   "candidates": [
     {
-      "id": "1422632526",
-      "title": "saphan-ai/proven",
-      "url": "https://github.com/saphan-ai/proven",
-      "description": "A code reviewer that reports only what it can prove: a test that shows the bug, or the data that confirms the risk. Open source, built by a fleet of AI agents with Saphan Studio for the Open Agent Hackathon 2026.",
-      "owner": "saphan-ai",
-      "language": "Go",
-      "stars": 9,
-      "created_at": "2026-10-16T20:16:42Z",
-      "pushed_at": "2026-10-27T06:08:47Z",
-      "topics": [
-        "ai-agents",
-        "code-review",
-        "golang",
-        "hackathon",
-        "llm",
-        "nvidia",
-        "open-source",
-        "pull-request"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 16.0,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
       "id": "1342067209",
       "title": "GSA-TTS/mcp-hackathon-template",
       "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
       "description": "Template repository for teams participating in GSA's MCP Server and AI Agent Hackathon",
       "owner": "GSA-TTS",
       "language": "Python",
-      "stars": 9,
+      "stars": 10,
       "created_at": "2026-08-21T17:32:23Z",
       "pushed_at": "2026-10-26T12:16:27Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.889,
+      "score": 15.819,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -74,7 +47,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-13T05:58:35Z",
-      "pushed_at": "2026-10-27T06:07:22Z",
+      "pushed_at": "2026-10-28T06:46:02Z",
       "topics": [
         "agent",
         "qloo",
@@ -90,15 +63,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1432895674",
-      "title": "aarati5/qloo-taste-agent",
-      "url": "https://github.com/aarati5/qloo-taste-agent",
-      "description": "AI agent that blends group taste using Qloo's taste graph (Qloo Agentic Hackathon)",
-      "owner": "aarati5",
+      "id": "1436380660",
+      "title": "autoktone/hackaton_GenAI_2026",
+      "url": "https://github.com/autoktone/hackaton_GenAI_2026",
+      "description": "Flood Risk Decision Intelligence — Evidence-driven multi-agent reasoning architecture using NVIDIA Nemotron, Meterless NightShift, Zetaris and World Model. Open Agent Hackathon 2026.",
+      "owner": "autoktone",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-25T06:25:05Z",
-      "pushed_at": "2026-10-27T06:15:47Z",
+      "created_at": "2026-10-27T23:18:08Z",
+      "pushed_at": "2026-10-28T05:40:24Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -108,39 +81,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1432791513",
-      "title": "daffa-athallah/recall",
-      "url": "https://github.com/daffa-athallah/recall",
-      "description": "Recall: turns saved screenshots into grounded reminders. Evidence → Open Loop → Context → Critic agents with Zetaris memory, Meterless Nightshift and H-MEM. Open Agent Hackathon 2026, Reasoning Architecture.",
-      "owner": "daffa-athallah",
+      "id": "1266435726",
+      "title": "BernardUriza/activist-os",
+      "url": "https://github.com/BernardUriza/activist-os",
+      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
+      "owner": "BernardUriza",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-25T03:20:28Z",
-      "pushed_at": "2026-10-27T06:10:04Z",
-      "topics": [
-        "ai-agents",
-        "hackathon",
-        "meterless",
-        "nvidia-nemotron",
-        "zetaris"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1429138962",
-      "title": "doctarock/Open-Agent-Hackathon-2026",
-      "url": "https://github.com/doctarock/Open-Agent-Hackathon-2026",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "doctarock",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-22T02:12:07Z",
-      "pushed_at": "2026-10-27T06:10:28Z",
+      "created_at": "2026-06-11T16:03:14Z",
+      "pushed_at": "2026-10-28T06:15:43Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -150,15 +99,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1434320262",
-      "title": "gaurav-kumar99/qloo-taste-table",
-      "url": "https://github.com/gaurav-kumar99/qloo-taste-table",
-      "description": "Taste Table is an AI-powered, taste-aware group planner built for the Qloo Agentic Hackathon. It bridges conflicting preferences across friend groups by querying the Qloo API, scoring multi-stop itineraries against individual taste graphs, and dynamically balancing equity across the evening.",
-      "owner": "gaurav-kumar99",
+      "id": "1430534786",
+      "title": "bswagy/drop-scout",
+      "url": "https://github.com/bswagy/drop-scout",
+      "description": "Taste intelligence agent for small streetwear brands Qloo + Gemini. Qloo Agentic Hackathon 2026.",
+      "owner": "bswagy",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-10-23T03:31:47Z",
+      "pushed_at": "2026-10-28T06:45:14Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1433609366",
+      "title": "chrisbuildsonline/venturetaste",
+      "url": "https://github.com/chrisbuildsonline/venturetaste",
+      "description": "Qloo taste-graph agent for venture deal flow (Qloo Agentic Hackathon)",
+      "owner": "chrisbuildsonline",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-26T11:59:41Z",
-      "pushed_at": "2026-10-27T06:08:35Z",
+      "created_at": "2026-10-25T20:42:24Z",
+      "pushed_at": "2026-10-28T05:51:17Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -168,51 +135,42 @@
       "source_type": "github-search"
     },
     {
-      "id": "1433019189",
-      "title": "includecctype/leopardcode-open-agent-hackathon-2026",
-      "url": "https://github.com/includecctype/leopardcode-open-agent-hackathon-2026",
-      "description": "Real-time task morphing for coding agents.",
-      "owner": "includecctype",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-25T09:17:46Z",
-      "pushed_at": "2026-10-27T06:16:07Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1435235728",
-      "title": "mukuntheverquest/crisismesh",
-      "url": "https://github.com/mukuntheverquest/crisismesh",
-      "description": "CrisisMesh - Multi-Agent Disaster Management for Open Agent Hackathon 2026",
-      "owner": "mukuntheverquest",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-27T04:16:32Z",
-      "pushed_at": "2026-10-27T06:04:00Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1434046600",
-      "title": "ozias007/common-ground",
-      "url": "https://github.com/ozias007/common-ground",
-      "description": "An AI agent that finds the shared world between people who've drifted apart, using Qloo's taste graph to bridge different tastes and plan their next time together. Built for the Qloo Agentic Hackathon.",
-      "owner": "ozias007",
+      "id": "1428186728",
+      "title": "Daniel221287/tastebridge-qloo",
+      "url": "https://github.com/Daniel221287/tastebridge-qloo",
+      "description": "TasteBridge: a Qloo-powered taste agent that finds common ground between two people. MCP server, web demo and CLI. Built for the Qloo Agentic Hackathon.",
+      "owner": "Daniel221287",
       "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-10-26T07:30:45Z",
-      "pushed_at": "2026-10-27T06:09:35Z",
+      "created_at": "2026-10-21T09:52:25Z",
+      "pushed_at": "2026-10-28T05:56:42Z",
+      "topics": [
+        "agent",
+        "hackathon",
+        "mcp",
+        "model-context-protocol",
+        "nodejs",
+        "qloo",
+        "recommendations",
+        "taste-ai"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1414332722",
+      "title": "rishulmatta/soundcheck",
+      "url": "https://github.com/rishulmatta/soundcheck",
+      "description": "Tour intelligence for any live act. Qloo Agentic Hackathon entry.",
+      "owner": "rishulmatta",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-11T12:49:12Z",
+      "pushed_at": "2026-10-28T04:14:11Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -222,15 +180,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1423586205",
-      "title": "yannabadie/taste-matched-trailer",
-      "url": "https://github.com/yannabadie/taste-matched-trailer",
-      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
-      "owner": "yannabadie",
-      "language": "Python",
+      "id": "1432695705",
+      "title": "tanDivina/lengua-fina",
+      "url": "https://github.com/tanDivina/lengua-fina",
+      "description": "Transcreation agent: rewrites product copy per market using Qloo taste data, with every reference traceable. Qloo Agentic Hackathon 2026.",
+      "owner": "tanDivina",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-17T17:40:45Z",
-      "pushed_at": "2026-10-27T06:11:16Z",
+      "created_at": "2026-10-25T00:04:54Z",
+      "pushed_at": "2026-10-28T04:14:55Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -240,18 +198,54 @@
       "source_type": "github-search"
     },
     {
-      "id": "1428793325",
-      "title": "igor-aji333/hackathon",
-      "url": "https://github.com/igor-aji333/hackathon",
-      "description": "GSA MCP Hackathon 2026",
-      "owner": "igor-aji333",
-      "language": "Python",
+      "id": "1431861012",
+      "title": "yadneshSalvi/qloo-immersion",
+      "url": "https://github.com/yadneshSalvi/qloo-immersion",
+      "description": "immersion — Qloo Agentic Hackathon project",
+      "owner": "yadneshSalvi",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-21T18:44:07Z",
-      "pushed_at": "2026-10-26T19:42:56Z",
+      "created_at": "2026-10-24T05:50:45Z",
+      "pushed_at": "2026-10-28T05:22:36Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1431861087",
+      "title": "yadneshSalvi/qloo-tastekeeper",
+      "url": "https://github.com/yadneshSalvi/qloo-tastekeeper",
+      "description": "tastekeeper — Qloo Agentic Hackathon project",
+      "owner": "yadneshSalvi",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-24T05:50:52Z",
+      "pushed_at": "2026-10-28T05:22:37Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1432198594",
+      "title": "CAG1218/touchlearn-fudan-Team_Stella",
+      "url": "https://github.com/CAG1218/touchlearn-fudan-Team_Stella",
+      "description": "触见 TouchLearn：把 STEM 图重构成可触摸的 3D 结构图，配编号盲文和扫码音频｜2026 复旦大学未来智造智能体大赛",
+      "owner": "CAG1218",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-24T13:14:25Z",
+      "pushed_at": "2026-10-27T16:16:29Z",
+      "topics": [],
+      "matched_queries": [
+        "智能体 大赛"
       ],
       "score": 15.19,
       "status": "unverified",
