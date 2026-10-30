@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-10-29T09:00:00+08:00",
+  "updated_at": "2026-10-30T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -29,44 +29,33 @@
       "language": "Python",
       "stars": 10,
       "created_at": "2026-08-21T17:32:23Z",
-      "pushed_at": "2026-10-26T12:16:27Z",
+      "pushed_at": "2026-10-29T11:45:08Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.708,
+      "score": 15.93,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1347801160",
-      "title": "Ayliea/remediation-zero",
-      "url": "https://github.com/Ayliea/remediation-zero",
-      "description": "An autonomous agent fleet that owns the vulnerability remediation lifecycle for a one-person security team. Built for the All Things Agentic Hackathon, Fortified Enterprise Fleet track.",
-      "owner": "Ayliea",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-26T21:12:09Z",
-      "pushed_at": "2026-10-29T07:03:37Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1437441414",
-      "title": "devreddy1015/ayto-qloo",
-      "url": "https://github.com/devreddy1015/ayto-qloo",
-      "description": "AYTO: tell it what you're making and where. Qloo reads what that city loves and finds the gap; your own LLM writes the idea into it. Qloo Agentic Hackathon 2026.",
-      "owner": "devreddy1015",
+      "id": "1422619833",
+      "title": "0xvikram/buysheet",
+      "url": "https://github.com/0xvikram/buysheet",
+      "description": "Restocked: the buying agent for independent shops. Paste a supplier's brand list; get stock, consider or skip for your crowd, with reasons from Qloo's taste data. Qloo Agentic Hackathon 2026.",
+      "owner": "0xvikram",
       "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-10-28T17:53:54Z",
-      "pushed_at": "2026-10-29T06:55:59Z",
-      "topics": [],
+      "created_at": "2026-10-16T20:01:03Z",
+      "pushed_at": "2026-10-30T07:01:34Z",
+      "topics": [
+        "ai-agent",
+        "hackathon",
+        "mcp",
+        "nextjs",
+        "qloo",
+        "retail"
+      ],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -75,15 +64,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1435648827",
-      "title": "emperorsixpacks/landfall",
-      "url": "https://github.com/emperorsixpacks/landfall",
-      "description": "Landfall — agentic release planner for music artists (Qloo Agentic Hackathon)",
-      "owner": "emperorsixpacks",
+      "id": "1439340479",
+      "title": "Adarsh-pandey-cse/hackindia-ai-agents-hackathon-agentverse-2026",
+      "url": "https://github.com/Adarsh-pandey-cse/hackindia-ai-agents-hackathon-agentverse-2026",
+      "description": "HackIndia AI Agents Hackathon - AgentVerse 2026 submission: Autonomous AI Agent Pipeline with external & mock API integration.",
+      "owner": "Adarsh-pandey-cse",
       "language": "Python",
-      "stars": 1,
-      "created_at": "2026-10-27T11:40:25Z",
-      "pushed_at": "2026-10-29T06:40:46Z",
+      "stars": 0,
+      "created_at": "2026-10-30T06:03:59Z",
+      "pushed_at": "2026-10-30T06:35:01Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -93,15 +82,51 @@
       "source_type": "github-search"
     },
     {
-      "id": "1438040648",
-      "title": "jacobofrndez-afk/turnout",
-      "url": "https://github.com/jacobofrndez-afk/turnout",
-      "description": "Turn the crowd outside into customers inside. Qloo Agentic Hackathon entry.",
-      "owner": "jacobofrndez-afk",
-      "language": "HTML",
+      "id": "1432335283",
+      "title": "barada02/Qloo_Explore",
+      "url": "https://github.com/barada02/Qloo_Explore",
+      "description": "exploration repo for Qloo Agentic Hackathon",
+      "owner": "barada02",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-10-29T06:34:49Z",
-      "pushed_at": "2026-10-29T06:35:00Z",
+      "created_at": "2026-10-24T15:45:13Z",
+      "pushed_at": "2026-10-30T06:58:35Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1439349298",
+      "title": "ciscojrai/addytaste",
+      "url": "https://github.com/ciscojrai/addytaste",
+      "description": "AddyTaste: paste what someone likes, get a place, gift and backup plan ranked by Qloo taste data. Qloo Agentic Hackathon.",
+      "owner": "ciscojrai",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-30T06:15:12Z",
+      "pushed_at": "2026-10-30T06:15:18Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1429894266",
+      "title": "GenAI-Open-Agent-Hackathon/FloodSenseEU-Hackathon-Monorepo",
+      "url": "https://github.com/GenAI-Open-Agent-Hackathon/FloodSenseEU-Hackathon-Monorepo",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "GenAI-Open-Agent-Hackathon",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-22T14:58:00Z",
+      "pushed_at": "2026-10-30T04:58:34Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -119,7 +144,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-10-11T04:28:00Z",
-      "pushed_at": "2026-10-29T07:04:14Z",
+      "pushed_at": "2026-10-30T06:16:49Z",
       "topics": [
         "agent",
         "hackathon",
@@ -136,42 +161,36 @@
       "source_type": "github-search"
     },
     {
-      "id": "1438023822",
-      "title": "KrakowiakK/cadenza",
-      "url": "https://github.com/KrakowiakK/cadenza",
-      "description": "Your website, shaped by talking to it — a Symfony AI agent edits a live Symfony site through MCP, as sketches you approve. Symfony AI & MCP Hackathon 2026.",
-      "owner": "KrakowiakK",
-      "language": "PHP",
+      "id": "1439351594",
+      "title": "nithish8145mnk-art/agentx-hackathon",
+      "url": "https://github.com/nithish8145mnk-art/agentx-hackathon",
+      "description": "My AgentX Hackathon Project.",
+      "owner": "nithish8145mnk-art",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-29T06:14:39Z",
-      "pushed_at": "2026-10-29T06:23:37Z",
-      "topics": [
-        "ai-agent",
-        "hackathon",
-        "mcp",
-        "php",
-        "symfony",
-        "symfony-ai"
-      ],
+      "created_at": "2026-10-30T06:17:54Z",
+      "pushed_at": "2026-10-30T06:18:00Z",
+      "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1423030446",
-      "title": "lijnati/sondo",
-      "url": "https://github.com/lijnati/sondo",
-      "description": "Autonomous cultural-intelligence strategist: turns a brand brief into campaign concepts where every claim traces to a Qloo result. Qloo Agentic Hackathon 2026.",
-      "owner": "lijnati",
+      "id": "1438559039",
+      "title": "quartz246/poachly",
+      "url": "https://github.com/quartz246/poachly",
+      "description": "Poachly: an ad agency that works non-stop to win your competitors' customers. Agents profile rivals' fans on Qloo's taste graph and build a campaign for every segment. Qloo Agentic Hackathon 2026.",
+      "owner": "quartz246",
       "language": "TypeScript",
-      "stars": 1,
-      "created_at": "2026-10-17T06:38:35Z",
-      "pushed_at": "2026-10-29T06:20:06Z",
+      "stars": 0,
+      "created_at": "2026-10-29T14:49:20Z",
+      "pushed_at": "2026-10-30T06:27:24Z",
       "topics": [
-        "ai-agent",
+        "ai-agents",
+        "hackathon",
         "nextjs",
         "qloo"
       ],
@@ -183,66 +202,42 @@
       "source_type": "github-search"
     },
     {
-      "id": "1435085367",
-      "title": "neromtoobad/encore",
-      "url": "https://github.com/neromtoobad/encore",
-      "description": "Find the crowd that's waiting for you. Qloo taste demand vs Ticketmaster supply, then a Claude agent plans the run. Qloo Agentic Hackathon.",
-      "owner": "neromtoobad",
+      "id": "1439271629",
+      "title": "quartz246/undertow",
+      "url": "https://github.com/quartz246/undertow",
+      "description": "Undertow: the 2026 Senate forecast, with Qloo taste maps from state down to the block. Qloo Agentic Hackathon 2026.",
+      "owner": "quartz246",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-30T04:26:45Z",
+      "pushed_at": "2026-10-30T05:26:27Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1426487078",
+      "title": "usv240/anchor",
+      "url": "https://github.com/usv240/anchor",
+      "description": "Find the barbershops of every community: plans free blood pressure checks at the places people already trust, using CDC need data and Qloo taste data. Qloo Agentic Hackathon 2026.",
+      "owner": "usv240",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-10-27T00:47:24Z",
-      "pushed_at": "2026-10-29T05:59:07Z",
-      "topics": [
-        "ai-agents",
-        "claude",
-        "hackathon",
-        "qloo",
-        "touring"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1438066645",
-      "title": "suhailps93/ayma-taste-qloo",
-      "url": "https://github.com/suhailps93/ayma-taste-qloo",
-      "description": "Taste match powered by Qloo — shared-taste score + date ideas for a pair, from the Qloo Taste/Insights API. Ayma's Qloo Agentic Hackathon subset (Oct 2026).",
-      "owner": "suhailps93",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-10-29T07:04:29Z",
-      "pushed_at": "2026-10-29T07:04:35Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1436764530",
-      "title": "taku629/opening-act",
-      "url": "https://github.com/taku629/opening-act",
-      "description": "Taste-graph booking agent for indie promoters — Qloo Agentic Hackathon",
-      "owner": "taku629",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-28T07:47:35Z",
-      "pushed_at": "2026-10-29T05:58:59Z",
+      "created_at": "2026-10-20T04:17:43Z",
+      "pushed_at": "2026-10-30T05:35:47Z",
       "topics": [
         "ai-agent",
-        "booking",
-        "fastapi",
+        "blood-pressure",
+        "claude",
         "hackathon",
-        "llm",
-        "music",
-        "qloo",
-        "taste-graph"
+        "mcp",
+        "nextjs",
+        "public-health",
+        "qloo"
       ],
       "matched_queries": [
         "agent hackathon"
@@ -252,20 +247,20 @@
       "source_type": "github-search"
     },
     {
-      "id": "1437289377",
-      "title": "Unretur/Culturemix",
-      "url": "https://github.com/Unretur/Culturemix",
-      "description": "CultureMix: an AI agent that designs culturally intelligent event concepts, grounded in Qloo’s cultural intelligence API. Built for the Qloo Agentic Hackathon 2026.",
-      "owner": "Unretur",
+      "id": "1432198594",
+      "title": "CAG1218/touchlearn-fudan-Team_Stella",
+      "url": "https://github.com/CAG1218/touchlearn-fudan-Team_Stella",
+      "description": "触见 TouchLearn：把 STEM 图重构成可触摸的 3D 结构图，配编号盲文和扫码音频｜2026 复旦大学未来智造智能体大赛",
+      "owner": "CAG1218",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-28T15:41:46Z",
-      "pushed_at": "2026-10-29T06:51:50Z",
+      "created_at": "2026-10-24T13:14:25Z",
+      "pushed_at": "2026-10-29T18:28:23Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "智能体 大赛"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
