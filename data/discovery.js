@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-03T09:00:00+08:00",
+  "updated_at": "2026-11-04T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,24 +21,6 @@
   ],
   "candidates": [
     {
-      "id": "1351293462",
-      "title": "Arming-afk/Trading-agent-alpaca",
-      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
-      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
-      "owner": "Arming-afk",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-02T22:39:58Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 17.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
       "id": "1342067209",
       "title": "GSA-TTS/mcp-hackathon-template",
       "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
@@ -47,7 +29,7 @@
       "language": "Python",
       "stars": 10,
       "created_at": "2026-08-21T17:32:23Z",
-      "pushed_at": "2026-11-02T22:40:43Z",
+      "pushed_at": "2026-11-03T17:53:58Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -57,111 +39,42 @@
       "source_type": "github-search"
     },
     {
-      "id": "1239267353",
-      "title": "Brian-J-Wang/Agentic-Essay-Evaluator",
-      "url": "https://github.com/Brian-J-Wang/Agentic-Essay-Evaluator",
-      "description": "This repo was created for the Google Cloud Rapid Agent Hackathon. It allows students to use agentic-AI to review their essays against their provided rubric and get feedback on what they can improve. Built with Astro, React, Tailwind, MongoDB, ExpressJS, and Google Cloud Platform (GCP).",
-      "owner": "Brian-J-Wang",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-05-14T23:40:10Z",
-      "pushed_at": "2026-11-03T03:55:26Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1434165493",
-      "title": "DevendraDilliwar/ghost-agent-hackathon",
-      "url": "https://github.com/DevendraDilliwar/ghost-agent-hackathon",
-      "description": "👻 Ghost Agent - Invisible AI that sees your screen and operates any software. No APIs, No MCPs, No Connectors - Just Vision. Built with Meta SAM 3 + Muse Spark + Glimmer for Meta Global Hackathon",
-      "owner": "DevendraDilliwar",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-26T09:28:39Z",
-      "pushed_at": "2026-11-03T07:12:59Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1435288107",
-      "title": "Quantit-Github/quantit-nyu-hackathon-2026",
-      "url": "https://github.com/Quantit-Github/quantit-nyu-hackathon-2026",
-      "description": "Quantit x NYU Stern Finance Agent Hackathon (TECH-UB 41, Fall 2026) — Mirage Benchmark, 6 Seeded Candidate Packets & Audit Toolkit",
-      "owner": "Quantit-Github",
+      "id": "1235708408",
+      "title": "tang-vu/reasoning-receipt",
+      "url": "https://github.com/tang-vu/reasoning-receipt",
+      "description": "x402-paywalled AI oracle for prediction markets — every price ships with a hashed reasoning trace, settled on Arc in <1s for ~$0.01. Agora Agents Hackathon submission.",
+      "owner": "tang-vu",
       "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-27T05:26:58Z",
-      "pushed_at": "2026-11-03T07:44:29Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1368794556",
-      "title": "SanderSaxBuilds/closeloop-hackathon-2026",
-      "url": "https://github.com/SanderSaxBuilds/closeloop-hackathon-2026",
-      "description": "CloseLoop, an approval-gated revenue operations agen demo for the 2026 Multi-App AI Agent Hackathon. Curent public build uses synthetic fixture data and doe not claim live provider writes.",
-      "owner": "SanderSaxBuilds",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-09-13T19:37:15Z",
-      "pushed_at": "2026-11-03T00:55:19Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1420495596",
-      "title": "sneldao/meridian",
-      "url": "https://github.com/sneldao/meridian",
-      "description": "Agents that fly ahead of you — a crew of long-running agents plans your body-clock adjustment, with destination ideas grounded by the Qloo taste graph. Qloo Agentic Hackathon 2026.",
-      "owner": "sneldao",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-15T09:49:23Z",
-      "pushed_at": "2026-11-03T01:57:05Z",
+      "stars": 3,
+      "created_at": "2026-05-11T15:22:01Z",
+      "pushed_at": "2026-11-04T07:13:06Z",
       "topics": [
-        "ai-agents",
-        "hackathon",
-        "jet-lag",
-        "nextjs",
-        "qloo"
+        "agora-hackathon",
+        "ai-agent",
+        "arc-network",
+        "circle-usdc",
+        "fastapi",
+        "foundry",
+        "gemini",
+        "nextjs"
       ],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
+      "score": 15.602,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1423586205",
-      "title": "yannabadie/taste-matched-trailer",
-      "url": "https://github.com/yannabadie/taste-matched-trailer",
-      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
-      "owner": "yannabadie",
+      "id": "1355678393",
+      "title": "adwik1401/alpaca-ai-trading-agent",
+      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
+      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "adwik1401",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-17T17:40:45Z",
-      "pushed_at": "2026-11-03T02:11:01Z",
+      "created_at": "2026-09-03T07:53:55Z",
+      "pushed_at": "2026-11-04T00:16:38Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -179,30 +92,66 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-02T22:10:13Z",
+      "pushed_at": "2026-11-04T00:32:21Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1428793325",
-      "title": "igor-aji333/hackathon",
-      "url": "https://github.com/igor-aji333/hackathon",
-      "description": "GSA MCP Hackathon 2026",
-      "owner": "igor-aji333",
-      "language": "Python",
+      "id": "1388123708",
+      "title": "axmatea/compass-horizon",
+      "url": "https://github.com/axmatea/compass-horizon",
+      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
+      "owner": "axmatea",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-10-21T18:44:07Z",
-      "pushed_at": "2026-11-02T21:42:09Z",
+      "created_at": "2026-09-25T19:50:28Z",
+      "pushed_at": "2026-11-04T03:48:27Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1434165493",
+      "title": "DevendraDilliwar/ghost-agent-hackathon",
+      "url": "https://github.com/DevendraDilliwar/ghost-agent-hackathon",
+      "description": "👻 Ghost Agent - Invisible AI that sees your screen and operates any software. No APIs, No MCPs, No Connectors - Just Vision. Built with Meta SAM 3 + Muse Spark + Glimmer for Meta Global Hackathon",
+      "owner": "DevendraDilliwar",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-26T09:28:39Z",
+      "pushed_at": "2026-11-04T03:47:21Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1445196329",
+      "title": "heichan2000/hackstack",
+      "url": "https://github.com/heichan2000/hackstack",
+      "description": "Hackstack is my starter kit for AI agent hackathons. A FastAPI agent loop on the Anthropic SDK with pluggable LLM providers, hybrid RAG on Postgres + pgvector (BM25 + vectors, RRF, reranking), cited answers, ACL-aware search, SSE streaming to a Next.js UI, evals, tracing and MCP.",
+      "owner": "heichan2000",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-11-04T05:20:46Z",
+      "pushed_at": "2026-11-04T05:34:47Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -215,28 +164,90 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T11:29:01Z",
-      "pushed_at": "2026-11-02T22:56:31Z",
+      "pushed_at": "2026-11-04T01:27:45Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1262610489",
-      "title": "kcngkc/FairPay",
-      "url": "https://github.com/kcngkc/FairPay",
-      "description": "Autonomous HR Compensation Benchmarking Agent — Google Cloud Rapid Agent Hackathon 2026",
-      "owner": "kcngkc",
+      "id": "1349913502",
+      "title": "nizarhazaymeh/tradingbot",
+      "url": "https://github.com/nizarhazaymeh/tradingbot",
+      "description": "Autonomous options-trading agent that trades only when the premium is worth the risk — Alpaca AI Trading Agents Hackathon",
+      "owner": "nizarhazaymeh",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-06-08T06:39:07Z",
-      "pushed_at": "2026-11-02T23:40:20Z",
+      "created_at": "2026-08-28T18:20:29Z",
+      "pushed_at": "2026-11-04T06:50:50Z",
+      "topics": [
+        "algorithmic-trading",
+        "alpaca",
+        "autonomous-agents",
+        "llm",
+        "mcp",
+        "options-trading",
+        "python"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349918779",
+      "title": "Sebastian0890/onenode-options-agent",
+      "url": "https://github.com/Sebastian0890/onenode-options-agent",
+      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Sebastian0890",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T18:26:54Z",
+      "pushed_at": "2026-11-04T00:25:35Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1445162690",
+      "title": "vramesh1/take2-voice-agent-hackathon-starter",
+      "url": "https://github.com/vramesh1/take2-voice-agent-hackathon-starter",
+      "description": "Take2 voice agent hackathon starter, built on LiveKit Agents.",
+      "owner": "vramesh1",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-04T04:35:14Z",
+      "pushed_at": "2026-11-04T04:38:19Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1428793325",
+      "title": "igor-aji333/hackathon",
+      "url": "https://github.com/igor-aji333/hackathon",
+      "description": "GSA MCP Hackathon 2026",
+      "owner": "igor-aji333",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-21T18:44:07Z",
+      "pushed_at": "2026-11-03T19:59:49Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
