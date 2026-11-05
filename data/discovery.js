@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-04T09:00:00+08:00",
+  "updated_at": "2026-11-05T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -29,12 +29,12 @@
       "language": "Python",
       "stars": 10,
       "created_at": "2026-08-21T17:32:23Z",
-      "pushed_at": "2026-11-03T17:53:58Z",
+      "pushed_at": "2026-11-05T04:03:52Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.93,
+      "score": 16.041,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -47,7 +47,7 @@
       "language": "Python",
       "stars": 3,
       "created_at": "2026-05-11T15:22:01Z",
-      "pushed_at": "2026-11-04T07:13:06Z",
+      "pushed_at": "2026-11-05T01:53:36Z",
       "topics": [
         "agora-hackathon",
         "ai-agent",
@@ -66,15 +66,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
-      "language": "Python",
+      "id": "1423138856",
+      "title": "adelmhmdhassan/tastebridge",
+      "url": "https://github.com/adelmhmdhassan/tastebridge",
+      "description": "Cultural translation agent - Qloo Agentic Hackathon 2026",
+      "owner": "adelmhmdhassan",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-04T00:16:38Z",
+      "created_at": "2026-10-17T09:04:17Z",
+      "pushed_at": "2026-11-05T04:58:51Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -92,7 +92,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-04T00:32:21Z",
+      "pushed_at": "2026-11-05T00:58:48Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -102,15 +102,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1388123708",
-      "title": "axmatea/compass-horizon",
-      "url": "https://github.com/axmatea/compass-horizon",
-      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
-      "owner": "axmatea",
+      "id": "1282410129",
+      "title": "dotteduniverse/agentic_hackathon",
+      "url": "https://github.com/dotteduniverse/agentic_hackathon",
+      "description": "work on agentic ai",
+      "owner": "dotteduniverse",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-06-27T18:25:26Z",
+      "pushed_at": "2026-11-05T05:59:18Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1439271629",
+      "title": "quartz246/undertow",
+      "url": "https://github.com/quartz246/undertow",
+      "description": "Undertow: the 2026 Senate forecast, with Qloo taste maps from state down to the block. Qloo Agentic Hackathon 2026.",
+      "owner": "quartz246",
       "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-04T03:48:27Z",
+      "created_at": "2026-10-30T04:26:45Z",
+      "pushed_at": "2026-11-05T01:30:44Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -120,78 +138,16 @@
       "source_type": "github-search"
     },
     {
-      "id": "1434165493",
-      "title": "DevendraDilliwar/ghost-agent-hackathon",
-      "url": "https://github.com/DevendraDilliwar/ghost-agent-hackathon",
-      "description": "👻 Ghost Agent - Invisible AI that sees your screen and operates any software. No APIs, No MCPs, No Connectors - Just Vision. Built with Meta SAM 3 + Muse Spark + Glimmer for Meta Global Hackathon",
-      "owner": "DevendraDilliwar",
-      "language": "TypeScript",
+      "id": "1444016554",
+      "title": "sams71000-arch/trustauto-ai",
+      "url": "https://github.com/sams71000-arch/trustauto-ai",
+      "description": "TrustAuto AI is an automotive assistance project using AI and Concordium's verifiable agent identity technology. Developed for the Concordium Trusted Agents Hackathon 2026.",
+      "owner": "sams71000-arch",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-10-26T09:28:39Z",
-      "pushed_at": "2026-11-04T03:47:21Z",
+      "created_at": "2026-11-03T08:34:37Z",
+      "pushed_at": "2026-11-05T07:30:45Z",
       "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1445196329",
-      "title": "heichan2000/hackstack",
-      "url": "https://github.com/heichan2000/hackstack",
-      "description": "Hackstack is my starter kit for AI agent hackathons. A FastAPI agent loop on the Anthropic SDK with pluggable LLM providers, hybrid RAG on Postgres + pgvector (BM25 + vectors, RRF, reranking), cited answers, ACL-aware search, SSE streaming to a Next.js UI, evals, tracing and MCP.",
-      "owner": "heichan2000",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-11-04T05:20:46Z",
-      "pushed_at": "2026-11-04T05:34:47Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1351339980",
-      "title": "JFKELLY89/alpha-council",
-      "url": "https://github.com/JFKELLY89/alpha-council",
-      "description": "Autonomous adversarial AI options trading agent built for the Alpaca AI Trading Agents Hackathon",
-      "owner": "JFKELLY89",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-30T11:29:01Z",
-      "pushed_at": "2026-11-04T01:27:45Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349913502",
-      "title": "nizarhazaymeh/tradingbot",
-      "url": "https://github.com/nizarhazaymeh/tradingbot",
-      "description": "Autonomous options-trading agent that trades only when the premium is worth the risk — Alpaca AI Trading Agents Hackathon",
-      "owner": "nizarhazaymeh",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T18:20:29Z",
-      "pushed_at": "2026-11-04T06:50:50Z",
-      "topics": [
-        "algorithmic-trading",
-        "alpaca",
-        "autonomous-agents",
-        "llm",
-        "mcp",
-        "options-trading",
-        "python"
-      ],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -208,7 +164,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-11-04T00:25:35Z",
+      "pushed_at": "2026-11-05T00:58:19Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -218,15 +174,57 @@
       "source_type": "github-search"
     },
     {
-      "id": "1445162690",
-      "title": "vramesh1/take2-voice-agent-hackathon-starter",
-      "url": "https://github.com/vramesh1/take2-voice-agent-hackathon-starter",
-      "description": "Take2 voice agent hackathon starter, built on LiveKit Agents.",
-      "owner": "vramesh1",
+      "id": "1446336615",
+      "title": "sinonchum/callpilot",
+      "url": "https://github.com/sinonchum/callpilot",
+      "description": "CallPilot: Android phone-call agent that transcribes calls live and acts on calendar/notes (H Company x 42AI Computer Use Agents Hackathon, Nov 2026)",
+      "owner": "sinonchum",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-04T04:35:14Z",
-      "pushed_at": "2026-11-04T04:38:19Z",
+      "created_at": "2026-11-05T00:07:53Z",
+      "pushed_at": "2026-11-05T06:51:48Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1420495596",
+      "title": "sneldao/meridian",
+      "url": "https://github.com/sneldao/meridian",
+      "description": "Agents that fly ahead of you — a crew of long-running agents plans your body-clock adjustment, with destination ideas grounded by the Qloo taste graph. Qloo Agentic Hackathon 2026.",
+      "owner": "sneldao",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-10-15T09:49:23Z",
+      "pushed_at": "2026-11-05T03:57:11Z",
+      "topics": [
+        "ai-agents",
+        "hackathon",
+        "jet-lag",
+        "nextjs",
+        "qloo"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1423586205",
+      "title": "yannabadie/taste-matched-trailer",
+      "url": "https://github.com/yannabadie/taste-matched-trailer",
+      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
+      "owner": "yannabadie",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-17T17:40:45Z",
+      "pushed_at": "2026-11-05T02:11:10Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -244,7 +242,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-21T18:44:07Z",
-      "pushed_at": "2026-11-03T19:59:49Z",
+      "pushed_at": "2026-11-04T15:19:02Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
