@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-10T09:00:00+08:00",
+  "updated_at": "2026-11-11T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -38,7 +38,7 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 16.968,
+      "score": 16.857,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -56,20 +56,20 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.486,
+      "score": 15.375,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1341360604",
-      "title": "aashishvarma0708-ai/ai-agent-hackathon",
-      "url": "https://github.com/aashishvarma0708-ai/ai-agent-hackathon",
-      "description": "this repository is for hackathon on 20-08-26",
-      "owner": "aashishvarma0708-ai",
+      "id": "1355678393",
+      "title": "adwik1401/alpaca-ai-trading-agent",
+      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
+      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
+      "owner": "adwik1401",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-21T03:30:08Z",
-      "pushed_at": "2026-11-10T06:00:39Z",
+      "created_at": "2026-09-03T07:53:55Z",
+      "pushed_at": "2026-11-11T00:38:06Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -79,22 +79,70 @@
       "source_type": "github-search"
     },
     {
-      "id": "1450715805",
-      "title": "aobasar/ai7-website-doctor",
-      "url": "https://github.com/aobasar/ai7-website-doctor",
-      "description": "Voice AI tech support that diagnoses, fixes and verifies. ElevenLabs agents + Daytona sandboxes. SDxSDSU Voice Agent Hackathon 2026.",
-      "owner": "aobasar",
+      "id": "1349699908",
+      "title": "alvaarocl/iv-desk",
+      "url": "https://github.com/alvaarocl/iv-desk",
+      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
+      "owner": "alvaarocl",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-08-28T14:32:47Z",
+      "pushed_at": "2026-11-11T00:46:37Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1388123708",
+      "title": "axmatea/compass-horizon",
+      "url": "https://github.com/axmatea/compass-horizon",
+      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
+      "owner": "axmatea",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-25T19:50:28Z",
+      "pushed_at": "2026-11-11T06:24:04Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1452383602",
+      "title": "God8Lucifer/Mindu-Agent-",
+      "url": "https://github.com/God8Lucifer/Mindu-Agent-",
+      "description": "A project for Show me your agent Hackathon",
+      "owner": "God8Lucifer",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-11-08T22:29:46Z",
-      "pushed_at": "2026-11-10T03:17:04Z",
-      "topics": [
-        "daytona",
-        "elevenlabs",
-        "hackathon",
-        "voice-agent",
-        "voice-ai"
+      "created_at": "2026-11-10T08:16:23Z",
+      "pushed_at": "2026-11-11T07:43:28Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1452008376",
+      "title": "haricharanparna/EMedic-AI",
+      "url": "https://github.com/haricharanparna/EMedic-AI",
+      "description": "EMedic AI: a 24/7 virtual care assistant for the eGain AI Agent Hackathon. Sourced health answers, symptom triage, refills, booking and nurse handoff.",
+      "owner": "haricharanparna",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-11-09T23:53:40Z",
+      "pushed_at": "2026-11-11T04:01:30Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -111,7 +159,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-10-04T17:50:36Z",
-      "pushed_at": "2026-11-10T06:18:46Z",
+      "pushed_at": "2026-11-11T01:06:40Z",
       "topics": [
         "ai-agents",
         "caregivers",
@@ -127,15 +175,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1445533329",
-      "title": "luisaheckmann-dev/CloudDays-Foundry-Agent-Hackathon",
-      "url": "https://github.com/luisaheckmann-dev/CloudDays-Foundry-Agent-Hackathon",
-      "description": "Deutschsprachiger 3,5h Hands-on-Workshop: AI Agents mit Microsoft Foundry – Portal, Python, Grounding und Hackathon.",
-      "owner": "luisaheckmann-dev",
+      "id": "1396110699",
+      "title": "Nurexen-Labs/safegate-xagent-commerce-outcome-public",
+      "url": "https://github.com/Nurexen-Labs/safegate-xagent-commerce-outcome-public",
+      "description": "Public-safe X-Agent MCP Hackathon verifier mirror for SafeGate Commerce Outcome.",
+      "owner": "Nurexen-Labs",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-29T17:11:39Z",
+      "pushed_at": "2026-11-11T06:14:52Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349918779",
+      "title": "Sebastian0890/onenode-options-agent",
+      "url": "https://github.com/Sebastian0890/onenode-options-agent",
+      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Sebastian0890",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-04T10:59:35Z",
-      "pushed_at": "2026-11-10T07:13:50Z",
+      "created_at": "2026-08-28T18:26:54Z",
+      "pushed_at": "2026-11-11T00:39:48Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -145,69 +211,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1451480716",
-      "title": "luisaheckmann-dev/CloudDays-Foundry-Agent-Hackathon-Customer-Owned",
-      "url": "https://github.com/luisaheckmann-dev/CloudDays-Foundry-Agent-Hackathon-Customer-Owned",
-      "description": "English browser-only Foundry agent workshop built from scratch in the customer's own Azure subscription, with synthetic assets, setup, labs, evaluation and cleanup.",
-      "owner": "luisaheckmann-dev",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-11-09T14:36:45Z",
-      "pushed_at": "2026-11-10T06:19:47Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1451970047",
-      "title": "mestredelpino/sre-agent-hackathon",
-      "url": "https://github.com/mestredelpino/sre-agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "mestredelpino",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-11-09T22:57:03Z",
-      "pushed_at": "2026-11-10T08:06:56Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1451209976",
-      "title": "mestredelpino/sre-agent-hackathon-infra",
-      "url": "https://github.com/mestredelpino/sre-agent-hackathon-infra",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "mestredelpino",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-09T10:12:51Z",
-      "pushed_at": "2026-11-10T08:07:25Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1450593205",
-      "title": "rayanazzam1991/agentic-hackathon-builder-io",
-      "url": "https://github.com/rayanazzam1991/agentic-hackathon-builder-io",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "rayanazzam1991",
+      "id": "1453511616",
+      "title": "vidyabharadwaj03/soraa-match-lab",
+      "url": "https://github.com/vidyabharadwaj03/soraa-match-lab",
+      "description": "AI agent fleet that researches brand-creator matches on a shared Archil disk with Keenable web search (Archil Agent Hackathon)",
+      "owner": "vidyabharadwaj03",
       "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-11-08T19:27:27Z",
-      "pushed_at": "2026-11-10T06:38:49Z",
+      "created_at": "2026-11-11T04:18:51Z",
+      "pushed_at": "2026-11-11T04:41:39Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -217,38 +229,20 @@
       "source_type": "github-search"
     },
     {
-      "id": "1452199973",
-      "title": "taruki11/gemma4-developer-agent",
-      "url": "https://github.com/taruki11/gemma4-developer-agent",
-      "description": "Companion notes for repository-level coding-agent experiments (Gemma 4 Developer Agent hackathon): narrow synthetic-repair SFT result, tool-call compatibility and measurement protocol",
-      "owner": "taruki11",
-      "language": null,
+      "id": "1438284043",
+      "title": "Breakdown-10/SponsorMatch",
+      "url": "https://github.com/Breakdown-10/SponsorMatch",
+      "description": "SponsorMatch AI — Evidence-Backed Event Sponsorship Discovery via Qloo's Cultural Taste Graph | Qloo Agentic Hackathon 2026",
+      "owner": "Breakdown-10",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-11-10T04:25:57Z",
-      "pushed_at": "2026-11-10T04:26:03Z",
+      "created_at": "2026-10-29T10:47:18Z",
+      "pushed_at": "2026-11-10T22:51:35Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1452383602",
-      "title": "TheDragon/Mindu-Agent-",
-      "url": "https://github.com/TheDragon/Mindu-Agent-",
-      "description": "A project for Show me your agent Hackathon",
-      "owner": "TheDragon",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-11-10T08:16:23Z",
-      "pushed_at": "2026-11-10T08:21:29Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
