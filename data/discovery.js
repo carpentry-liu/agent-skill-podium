@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-11T09:00:00+08:00",
+  "updated_at": "2026-11-12T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -43,25 +43,7 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 16.857,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1342067209",
-      "title": "GSA-TTS/mcp-hackathon-template",
-      "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
-      "description": "Template repository for teams participating in GSA's MCP Server and AI Agent Hackathon",
-      "owner": "GSA-TTS",
-      "language": "Python",
-      "stars": 10,
-      "created_at": "2026-08-21T17:32:23Z",
-      "pushed_at": "2026-11-05T04:03:52Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.375,
+      "score": 16.745,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -74,7 +56,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-11T00:38:06Z",
+      "pushed_at": "2026-11-12T01:44:26Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -92,7 +74,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-11T00:46:37Z",
+      "pushed_at": "2026-11-12T01:53:54Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -110,25 +92,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-11T06:24:04Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1452383602",
-      "title": "God8Lucifer/Mindu-Agent-",
-      "url": "https://github.com/God8Lucifer/Mindu-Agent-",
-      "description": "A project for Show me your agent Hackathon",
-      "owner": "God8Lucifer",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-11-10T08:16:23Z",
-      "pushed_at": "2026-11-11T07:43:28Z",
+      "pushed_at": "2026-11-12T06:12:37Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -146,7 +110,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-11-09T23:53:40Z",
-      "pushed_at": "2026-11-11T04:01:30Z",
+      "pushed_at": "2026-11-12T00:09:07Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -164,7 +128,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-10-04T17:50:36Z",
-      "pushed_at": "2026-11-11T01:06:40Z",
+      "pushed_at": "2026-11-12T05:01:19Z",
       "topics": [
         "ai-agents",
         "caregivers",
@@ -180,18 +144,72 @@
       "source_type": "github-search"
     },
     {
-      "id": "1396110699",
-      "title": "Nurexen-Labs/safegate-xagent-commerce-outcome-public",
-      "url": "https://github.com/Nurexen-Labs/safegate-xagent-commerce-outcome-public",
-      "description": "Public-safe X-Agent MCP Hackathon verifier mirror for SafeGate Commerce Outcome.",
-      "owner": "Nurexen-Labs",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-09-29T17:11:39Z",
-      "pushed_at": "2026-11-11T06:14:52Z",
+      "id": "1440579100",
+      "title": "midatm1234/earth-science-mcp-hackathon",
+      "url": "https://github.com/midatm1234/earth-science-mcp-hackathon",
+      "description": "Starter repository for the MCP and Agent Skill Hackathon for Earth Science Observations and Models: a credential-free Earth science MCP server, agent skills, tutorials, a contribution catalog and peer-testing workflow for GitHub Copilot, Claude Code and Codex in VS Code.",
+      "owner": "midatm1234",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-10-31T06:32:13Z",
+      "pushed_at": "2026-11-12T08:04:04Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1454990037",
+      "title": "midatm1234/earth-science-mcp-hackathon_backup",
+      "url": "https://github.com/midatm1234/earth-science-mcp-hackathon_backup",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "midatm1234",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-12T07:50:24Z",
+      "pushed_at": "2026-11-12T07:51:50Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1454730614",
+      "title": "Pritahi/hackhunt-crew",
+      "url": "https://github.com/Pritahi/hackhunt-crew",
+      "description": "ContextCon 2026 entry (Yugabyte Meko): a 4-agent hackathon-evaluation crew sharing one Meko datapack, with a measured token-savings benchmark vs a full-context baseline.",
+      "owner": "Pritahi",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-12T02:19:51Z",
+      "pushed_at": "2026-11-12T06:20:52Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349963420",
+      "title": "rawrkey/killjoy",
+      "url": "https://github.com/rawrkey/killjoy",
+      "description": "Alpaca AI Hackathon :- https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon",
+      "owner": "rawrkey",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T19:24:28Z",
+      "pushed_at": "2026-11-12T00:55:04Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -206,7 +224,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-11-11T00:39:48Z",
+      "pushed_at": "2026-11-12T01:52:01Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -216,38 +234,20 @@
       "source_type": "github-search"
     },
     {
-      "id": "1453511616",
-      "title": "vidyabharadwaj03/soraa-match-lab",
-      "url": "https://github.com/vidyabharadwaj03/soraa-match-lab",
-      "description": "AI agent fleet that researches brand-creator matches on a shared Archil disk with Keenable web search (Archil Agent Hackathon)",
-      "owner": "vidyabharadwaj03",
-      "language": "TypeScript",
+      "id": "1423586205",
+      "title": "yannabadie/taste-matched-trailer",
+      "url": "https://github.com/yannabadie/taste-matched-trailer",
+      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
+      "owner": "yannabadie",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-11T04:18:51Z",
-      "pushed_at": "2026-11-11T04:41:39Z",
+      "created_at": "2026-10-17T17:40:45Z",
+      "pushed_at": "2026-11-12T02:11:41Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
       "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1438284043",
-      "title": "Breakdown-10/SponsorMatch",
-      "url": "https://github.com/Breakdown-10/SponsorMatch",
-      "description": "SponsorMatch AI — Evidence-Backed Event Sponsorship Discovery via Qloo's Cultural Taste Graph | Qloo Agentic Hackathon 2026",
-      "owner": "Breakdown-10",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-10-29T10:47:18Z",
-      "pushed_at": "2026-11-10T22:51:35Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
