@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-12T09:00:00+08:00",
+  "updated_at": "2026-11-13T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,29 +21,63 @@
   ],
   "candidates": [
     {
-      "id": "1448915707",
-      "title": "caelum0x/scribase-mcp-php",
-      "url": "https://github.com/caelum0x/scribase-mcp-php",
-      "description": "Real MCP server for Scribase (hosted Postgres, Supabase/Neon alternative) on the official PHP MCP SDK, wired into a real Symfony AI Agent. Built for the Symfony AI & MCP Hackathon.",
-      "owner": "caelum0x",
-      "language": "PHP",
+      "id": "1351293462",
+      "title": "Arming-afk/Trading-agent-alpaca",
+      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
+      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
+      "owner": "Arming-afk",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-07T01:20:29Z",
-      "pushed_at": "2026-11-07T16:09:53Z",
-      "topics": [
-        "ai-agent-tools",
-        "mcp",
-        "model-context-protocol",
-        "php",
-        "postgres",
-        "scribase",
-        "symfony",
-        "symfony-ai"
+      "created_at": "2026-08-30T10:13:42Z",
+      "pushed_at": "2026-11-12T21:22:35Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
+      "score": 17.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1264067820",
+      "title": "Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
+      "url": "https://github.com/Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
+      "description": "Run one command, follow the instructions, and get your first AI agents up and running — Claude Code or Codex. Built for the Elnora AI agent hackathon.",
+      "owner": "Elnora-AI",
+      "language": "PowerShell",
+      "stars": 22,
+      "created_at": "2026-06-09T14:27:37Z",
+      "pushed_at": "2026-11-13T06:38:15Z",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "hackathon",
+        "starter-kit",
+        "template"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 16.362,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1440579100",
+      "title": "midatm1234/earth-science-mcp-hackathon",
+      "url": "https://github.com/midatm1234/earth-science-mcp-hackathon",
+      "description": "Starter repository for the MCP and Agent Skill Hackathon for Earth Science Observations and Models: a credential-free Earth science MCP server, agent skills, tutorials, a contribution catalog and peer-testing workflow for GitHub Copilot, Claude Code and Codex in VS Code.",
+      "owner": "midatm1234",
+      "language": "Python",
+      "stars": 2,
+      "created_at": "2026-10-31T06:32:13Z",
+      "pushed_at": "2026-11-12T23:14:49Z",
+      "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 16.745,
+      "score": 15.366,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -56,7 +90,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-12T01:44:26Z",
+      "pushed_at": "2026-11-13T01:28:32Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -74,7 +108,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-12T01:53:54Z",
+      "pushed_at": "2026-11-13T01:28:54Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -92,7 +126,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-12T06:12:37Z",
+      "pushed_at": "2026-11-13T00:15:20Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -102,60 +136,54 @@
       "source_type": "github-search"
     },
     {
-      "id": "1452008376",
-      "title": "haricharanparna/EMedic-AI",
-      "url": "https://github.com/haricharanparna/EMedic-AI",
-      "description": "EMedic AI: a 24/7 virtual care assistant for the eGain AI Agent Hackathon. Sourced health answers, symptom triage, refills, booking and nurse handoff.",
-      "owner": "haricharanparna",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-11-09T23:53:40Z",
-      "pushed_at": "2026-11-12T00:09:07Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1404691415",
-      "title": "Jacob-Met/tastetable",
-      "url": "https://github.com/Jacob-Met/tastetable",
-      "description": "Agentic weekly dining + outing planner for seniors and caregivers, grounded in Qloo taste signals. Qloo Agentic Hackathon entry.",
-      "owner": "Jacob-Met",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-10-04T17:50:36Z",
-      "pushed_at": "2026-11-12T05:01:19Z",
-      "topics": [
-        "ai-agents",
-        "caregivers",
-        "hackathon",
-        "python",
-        "recommendation"
-      ],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1440579100",
-      "title": "midatm1234/earth-science-mcp-hackathon",
-      "url": "https://github.com/midatm1234/earth-science-mcp-hackathon",
-      "description": "Starter repository for the MCP and Agent Skill Hackathon for Earth Science Observations and Models: a credential-free Earth science MCP server, agent skills, tutorials, a contribution catalog and peer-testing workflow for GitHub Copilot, Claude Code and Codex in VS Code.",
-      "owner": "midatm1234",
+      "id": "1266435726",
+      "title": "BernardUriza/activist-os",
+      "url": "https://github.com/BernardUriza/activist-os",
+      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
+      "owner": "BernardUriza",
       "language": "Python",
-      "stars": 1,
-      "created_at": "2026-10-31T06:32:13Z",
-      "pushed_at": "2026-11-12T08:04:04Z",
+      "stars": 0,
+      "created_at": "2026-06-11T16:03:14Z",
+      "pushed_at": "2026-11-13T03:37:02Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1368794556",
+      "title": "SanderSaxBuilds/closeloop-hackathon-2026",
+      "url": "https://github.com/SanderSaxBuilds/closeloop-hackathon-2026",
+      "description": "CloseLoop, an approval-gated revenue operations agen demo for the 2026 Multi-App AI Agent Hackathon. Curent public build uses synthetic fixture data and doe not claim live provider writes.",
+      "owner": "SanderSaxBuilds",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-09-13T19:37:15Z",
+      "pushed_at": "2026-11-13T00:06:13Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1349918779",
+      "title": "Sebastian0890/onenode-options-agent",
+      "url": "https://github.com/Sebastian0890/onenode-options-agent",
+      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
+      "owner": "Sebastian0890",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-28T18:26:54Z",
+      "pushed_at": "2026-11-13T01:28:37Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -175,79 +203,43 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1454730614",
-      "title": "Pritahi/hackhunt-crew",
-      "url": "https://github.com/Pritahi/hackhunt-crew",
-      "description": "ContextCon 2026 entry (Yugabyte Meko): a 4-agent hackathon-evaluation crew sharing one Meko datapack, with a measured token-savings benchmark vs a full-context baseline.",
-      "owner": "Pritahi",
-      "language": "Python",
+      "id": "1425675864",
+      "title": "nmkhan076/fda_mcp_hackathon",
+      "url": "https://github.com/nmkhan076/fda_mcp_hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "nmkhan076",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-11-12T02:19:51Z",
-      "pushed_at": "2026-11-12T06:20:52Z",
+      "created_at": "2026-10-19T13:41:39Z",
+      "pushed_at": "2026-11-12T17:21:21Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "MCP hackathon"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1349963420",
-      "title": "rawrkey/killjoy",
-      "url": "https://github.com/rawrkey/killjoy",
-      "description": "Alpaca AI Hackathon :- https://lablab.ai/ai-hackathons/alpaca-ai-trading-agents-hackathon",
-      "owner": "rawrkey",
-      "language": "Python",
+      "id": "1454214970",
+      "title": "shaahid-ahmed/yourturn",
+      "url": "https://github.com/shaahid-ahmed/yourturn",
+      "description": "YourTurn - sandbox-only multi-agent hackathon scaffold for keeping existing friend groups connected.",
+      "owner": "shaahid-ahmed",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-08-28T19:24:28Z",
-      "pushed_at": "2026-11-12T00:55:04Z",
+      "created_at": "2026-11-11T16:22:41Z",
+      "pushed_at": "2026-11-12T20:20:35Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349918779",
-      "title": "Sebastian0890/onenode-options-agent",
-      "url": "https://github.com/Sebastian0890/onenode-options-agent",
-      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
-      "owner": "Sebastian0890",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-11-12T01:52:01Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1423586205",
-      "title": "yannabadie/taste-matched-trailer",
-      "url": "https://github.com/yannabadie/taste-matched-trailer",
-      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
-      "owner": "yannabadie",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-17T17:40:45Z",
-      "pushed_at": "2026-11-12T02:11:41Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
