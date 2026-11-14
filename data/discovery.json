@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-13T09:00:00+08:00",
+  "updated_at": "2026-11-14T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -24,7 +24,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-12T21:22:35Z",
+      "pushed_at": "2026-11-13T20:49:43Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -34,27 +34,20 @@
       "source_type": "github-search"
     },
     {
-      "id": "1264067820",
-      "title": "Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "url": "https://github.com/Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "description": "Run one command, follow the instructions, and get your first AI agents up and running — Claude Code or Codex. Built for the Elnora AI agent hackathon.",
-      "owner": "Elnora-AI",
-      "language": "PowerShell",
-      "stars": 22,
-      "created_at": "2026-06-09T14:27:37Z",
-      "pushed_at": "2026-11-13T06:38:15Z",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "hackathon",
-        "starter-kit",
-        "template"
-      ],
+      "id": "1396397600",
+      "title": "k1lst1x/FireWatch",
+      "url": "https://github.com/k1lst1x/FireWatch",
+      "description": "2nd-place project at the Flower Labs Collaborative Agent Hackathon at Stanford University: an AI-driven wildfire detection and emergency response platform that analyzes live camera footage, satellite heat signatures, and weather data to identify wildfires, reduce false alarms, evaluate incident severity, and recommend appropriate response actions.",
+      "owner": "k1lst1x",
+      "language": "TypeScript",
+      "stars": 3,
+      "created_at": "2026-09-29T18:57:31Z",
+      "pushed_at": "2026-11-14T03:27:07Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 16.362,
+      "score": 15.602,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -67,7 +60,7 @@
       "language": "Python",
       "stars": 2,
       "created_at": "2026-10-31T06:32:13Z",
-      "pushed_at": "2026-11-12T23:14:49Z",
+      "pushed_at": "2026-11-13T09:04:14Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -85,7 +78,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-13T01:28:32Z",
+      "pushed_at": "2026-11-14T00:52:24Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -103,7 +96,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-13T01:28:54Z",
+      "pushed_at": "2026-11-14T00:58:10Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -121,7 +114,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-13T00:15:20Z",
+      "pushed_at": "2026-11-14T02:15:16Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -131,15 +124,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1266435726",
-      "title": "BernardUriza/activist-os",
-      "url": "https://github.com/BernardUriza/activist-os",
-      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
-      "owner": "BernardUriza",
+      "id": "1449839444",
+      "title": "lcheetham/agentverse-hackathon-make-it-make-cents",
+      "url": "https://github.com/lcheetham/agentverse-hackathon-make-it-make-cents",
+      "description": "Hackathon prototype (Agentverse 2026): checks whether a Polymarket “top trader” is skilled or lucky, and whether a follower could still copy the edge. Paper trading only.",
+      "owner": "lcheetham",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-06-11T16:03:14Z",
-      "pushed_at": "2026-11-13T03:37:02Z",
+      "created_at": "2026-11-08T00:07:29Z",
+      "pushed_at": "2026-11-14T00:48:06Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -149,15 +142,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1368794556",
-      "title": "SanderSaxBuilds/closeloop-hackathon-2026",
-      "url": "https://github.com/SanderSaxBuilds/closeloop-hackathon-2026",
-      "description": "CloseLoop, an approval-gated revenue operations agen demo for the 2026 Multi-App AI Agent Hackathon. Curent public build uses synthetic fixture data and doe not claim live provider writes.",
-      "owner": "SanderSaxBuilds",
-      "language": "HTML",
+      "id": "1457480397",
+      "title": "nancyjlau/november14-agent-hackathon",
+      "url": "https://github.com/nancyjlau/november14-agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "nancyjlau",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-09-13T19:37:15Z",
-      "pushed_at": "2026-11-13T00:06:13Z",
+      "created_at": "2026-11-14T06:58:46Z",
+      "pushed_at": "2026-11-14T06:58:48Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -175,7 +168,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-11-13T01:28:37Z",
+      "pushed_at": "2026-11-14T00:57:12Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -185,18 +178,18 @@
       "source_type": "github-search"
     },
     {
-      "id": "1454990037",
-      "title": "midatm1234/earth-science-mcp-hackathon_backup",
-      "url": "https://github.com/midatm1234/earth-science-mcp-hackathon_backup",
+      "id": "1447848857",
+      "title": "MAbdullahDev01/agentic-hackathon-builder",
+      "url": "https://github.com/MAbdullahDev01/agentic-hackathon-builder",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "midatm1234",
+      "owner": "MAbdullahDev01",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-12T07:50:24Z",
-      "pushed_at": "2026-11-12T07:51:50Z",
+      "created_at": "2026-11-06T05:00:07Z",
+      "pushed_at": "2026-11-13T23:59:07Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
@@ -211,7 +204,7 @@
       "language": "HTML",
       "stars": 0,
       "created_at": "2026-10-19T13:41:39Z",
-      "pushed_at": "2026-11-12T17:21:21Z",
+      "pushed_at": "2026-11-13T16:19:23Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -221,15 +214,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1454214970",
-      "title": "shaahid-ahmed/yourturn",
-      "url": "https://github.com/shaahid-ahmed/yourturn",
-      "description": "YourTurn - sandbox-only multi-agent hackathon scaffold for keeping existing friend groups connected.",
-      "owner": "shaahid-ahmed",
-      "language": "JavaScript",
+      "id": "1444390078",
+      "title": "SowmyaRadhakrishnan277/EXL-Agentic-Hackathon",
+      "url": "https://github.com/SowmyaRadhakrishnan277/EXL-Agentic-Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "SowmyaRadhakrishnan277",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-11T16:22:41Z",
-      "pushed_at": "2026-11-12T20:20:35Z",
+      "created_at": "2026-11-03T14:18:39Z",
+      "pushed_at": "2026-11-13T18:11:54Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
