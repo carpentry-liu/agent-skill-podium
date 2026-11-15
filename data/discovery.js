@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-14T09:00:00+08:00",
+  "updated_at": "2026-11-15T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,38 +21,110 @@
   ],
   "candidates": [
     {
-      "id": "1351293462",
-      "title": "Arming-afk/Trading-agent-alpaca",
-      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
-      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
-      "owner": "Arming-afk",
+      "id": "1342067209",
+      "title": "GSA-TTS/mcp-hackathon-template",
+      "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
+      "description": "Template repository for teams participating in GSA's MCP Server and AI Agent Hackathon",
+      "owner": "GSA-TTS",
       "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-13T20:49:43Z",
+      "stars": 10,
+      "created_at": "2026-08-21T17:32:23Z",
+      "pushed_at": "2026-11-15T05:03:26Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "MCP hackathon"
       ],
-      "score": 17.19,
+      "score": 16.041,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1396397600",
-      "title": "k1lst1x/FireWatch",
-      "url": "https://github.com/k1lst1x/FireWatch",
-      "description": "2nd-place project at the Flower Labs Collaborative Agent Hackathon at Stanford University: an AI-driven wildfire detection and emergency response platform that analyzes live camera footage, satellite heat signatures, and weather data to identify wildfires, reduce false alarms, evaluate incident severity, and recommend appropriate response actions.",
-      "owner": "k1lst1x",
+      "id": "1458050655",
+      "title": "mjkang-estrella/search-agent-hackathon",
+      "url": "https://github.com/mjkang-estrella/search-agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "mjkang-estrella",
       "language": "TypeScript",
-      "stars": 3,
-      "created_at": "2026-09-29T18:57:31Z",
-      "pushed_at": "2026-11-14T03:27:07Z",
+      "stars": 0,
+      "created_at": "2026-11-14T18:26:57Z",
+      "pushed_at": "2026-11-15T01:43:55Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.602,
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1452980050",
+      "title": "survos-sites/MemorialAtlas",
+      "url": "https://github.com/survos-sites/MemorialAtlas",
+      "description": "MemorialAtlas — From gravestone photographs to a searchable record of remembrance. Built for the Symfony AI & MCP Hackathon.",
+      "owner": "survos-sites",
+      "language": "PHP",
+      "stars": 0,
+      "created_at": "2026-11-10T17:29:50Z",
+      "pushed_at": "2026-11-15T00:15:56Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1454087112",
+      "title": "tetriagen/agent-hackathon",
+      "url": "https://github.com/tetriagen/agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "tetriagen",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-11T14:29:50Z",
+      "pushed_at": "2026-11-15T06:58:20Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1221098354",
+      "title": "Truunik/RiskClaw-EthGlobal",
+      "url": "https://github.com/Truunik/RiskClaw-EthGlobal",
+      "description": "Autonomous risk guardian for Uniswap v4-style pools, powered by 0G — agentic hackathon WIP",
+      "owner": "Truunik",
+      "language": "TypeScript",
+      "stars": 1,
+      "created_at": "2026-04-25T18:48:20Z",
+      "pushed_at": "2026-11-15T05:26:35Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1423586205",
+      "title": "yannabadie/taste-matched-trailer",
+      "url": "https://github.com/yannabadie/taste-matched-trailer",
+      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
+      "owner": "yannabadie",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-17T17:40:45Z",
+      "pushed_at": "2026-11-15T02:11:53Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -70,43 +142,7 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.366,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-14T00:52:24Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-14T00:58:10Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.255,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -119,79 +155,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-14T02:15:16Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1449839444",
-      "title": "lcheetham/agentverse-hackathon-make-it-make-cents",
-      "url": "https://github.com/lcheetham/agentverse-hackathon-make-it-make-cents",
-      "description": "Hackathon prototype (Agentverse 2026): checks whether a Polymarket “top trader” is skilled or lucky, and whether a follower could still copy the edge. Paper trading only.",
-      "owner": "lcheetham",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-08T00:07:29Z",
-      "pushed_at": "2026-11-14T00:48:06Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1457480397",
-      "title": "nancyjlau/november14-agent-hackathon",
-      "url": "https://github.com/nancyjlau/november14-agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "nancyjlau",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-11-14T06:58:46Z",
-      "pushed_at": "2026-11-14T06:58:48Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349918779",
-      "title": "Sebastian0890/onenode-options-agent",
-      "url": "https://github.com/Sebastian0890/onenode-options-agent",
-      "description": "Autonomous defined-risk options trading agent on Alpaca paper trading. Proposer / Risk Officer / Hard Gate. Built for the Alpaca AI Trading Agents Hackathon 2026.",
-      "owner": "Sebastian0890",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-28T18:26:54Z",
-      "pushed_at": "2026-11-14T00:57:12Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1447848857",
-      "title": "MAbdullahDev01/agentic-hackathon-builder",
-      "url": "https://github.com/MAbdullahDev01/agentic-hackathon-builder",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "MAbdullahDev01",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-06T05:00:07Z",
-      "pushed_at": "2026-11-13T23:59:07Z",
+      "pushed_at": "2026-11-14T19:59:59Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -201,33 +165,69 @@
       "source_type": "github-search"
     },
     {
-      "id": "1425675864",
-      "title": "nmkhan076/fda_mcp_hackathon",
-      "url": "https://github.com/nmkhan076/fda_mcp_hackathon",
+      "id": "1454094557",
+      "title": "dkoshenkov/mipt-ai-agents-hackathon",
+      "url": "https://github.com/dkoshenkov/mipt-ai-agents-hackathon",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "nmkhan076",
+      "owner": "dkoshenkov",
+      "language": "Rust",
+      "stars": 0,
+      "created_at": "2026-11-11T14:36:18Z",
+      "pushed_at": "2026-11-14T20:33:32Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1457701151",
+      "title": "KunalSiyag/cedar-ridge-demo",
+      "url": "https://github.com/KunalSiyag/cedar-ridge-demo",
+      "description": "Fictional utility back end, site and knowledge base for an eGain AI Agent Hackathon entry",
+      "owner": "KunalSiyag",
       "language": "HTML",
       "stars": 0,
-      "created_at": "2026-10-19T13:41:39Z",
-      "pushed_at": "2026-11-13T16:19:23Z",
+      "created_at": "2026-11-14T11:51:01Z",
+      "pushed_at": "2026-11-14T12:41:17Z",
       "topics": [],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1444390078",
-      "title": "SowmyaRadhakrishnan277/EXL-Agentic-Hackathon",
-      "url": "https://github.com/SowmyaRadhakrishnan277/EXL-Agentic-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "SowmyaRadhakrishnan277",
-      "language": "Python",
+      "id": "1458043293",
+      "title": "Ombray88/bring-the-humans-01",
+      "url": "https://github.com/Ombray88/bring-the-humans-01",
+      "description": "Ad for make.fun (bring-the-humans-01): AI-agent competitions with cash prizes — join with referral code 9w5z28cm",
+      "owner": "Ombray88",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-11-03T14:18:39Z",
-      "pushed_at": "2026-11-13T18:11:54Z",
+      "created_at": "2026-11-14T18:18:39Z",
+      "pushed_at": "2026-11-14T18:20:10Z",
+      "topics": [],
+      "matched_queries": [
+        "AI agent competition"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1458165620",
+      "title": "TYK3/pennywell-demo",
+      "url": "https://github.com/TYK3/pennywell-demo",
+      "description": "Fictional Pennywell Bank homepage for the Tag eGain AI Agent Hackathon demo.",
+      "owner": "TYK3",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-11-14T20:51:03Z",
+      "pushed_at": "2026-11-14T20:51:10Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
