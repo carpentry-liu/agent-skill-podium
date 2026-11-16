@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-15T09:00:00+08:00",
+  "updated_at": "2026-11-16T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,6 +21,33 @@
   ],
   "candidates": [
     {
+      "id": "1422632526",
+      "title": "saphan-ai/proven",
+      "url": "https://github.com/saphan-ai/proven",
+      "description": "A code reviewer that reports only what it can prove: a test that shows the bug, or the data that confirms the risk. Open source, built by a fleet of AI agents with Saphan Studio for the Open Agent Hackathon 2026.",
+      "owner": "saphan-ai",
+      "language": "Go",
+      "stars": 16,
+      "created_at": "2026-10-16T20:16:42Z",
+      "pushed_at": "2026-11-16T07:51:08Z",
+      "topics": [
+        "ai-agents",
+        "code-review",
+        "golang",
+        "hackathon",
+        "llm",
+        "nvidia",
+        "open-source",
+        "pull-request"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 16.23,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
       "id": "1342067209",
       "title": "GSA-TTS/mcp-hackathon-template",
       "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
@@ -34,7 +61,79 @@
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 16.041,
+      "score": 15.93,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1459403884",
+      "title": "alvino9/agentpasar",
+      "url": "https://github.com/alvino9/agentpasar",
+      "description": "AgentPasar — a job marketplace where AI agents hire other AI agents. Built on Concordium testnet for the Encode Club Trusted Agents Hackathon.",
+      "owner": "alvino9",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-11-16T01:13:38Z",
+      "pushed_at": "2026-11-16T01:14:25Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1266435726",
+      "title": "BernardUriza/activist-os",
+      "url": "https://github.com/BernardUriza/activist-os",
+      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
+      "owner": "BernardUriza",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-06-11T16:03:14Z",
+      "pushed_at": "2026-11-16T06:56:05Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1258796856",
+      "title": "juliushill42/titan-agent-fleet",
+      "url": "https://github.com/juliushill42/titan-agent-fleet",
+      "description": "TitanU AI — 100 Agent Fleet — Google Cloud Rapid Agent Hackathon — JCH-2026-001",
+      "owner": "juliushill42",
+      "language": "Shell",
+      "stars": 0,
+      "created_at": "2026-06-03T23:42:14Z",
+      "pushed_at": "2026-11-16T04:31:39Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1266341234",
+      "title": "juliushill42/titan-fleet-next",
+      "url": "https://github.com/juliushill42/titan-fleet-next",
+      "description": "TitanU AI Fleet Dashboard - 106 Autonomous Agents - Google Cloud Rapid Agent Hackathon 2026",
+      "owner": "juliushill42",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-06-11T14:27:13Z",
+      "pushed_at": "2026-11-16T04:34:21Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -47,10 +146,28 @@
       "language": "TypeScript",
       "stars": 0,
       "created_at": "2026-11-14T18:26:57Z",
-      "pushed_at": "2026-11-15T01:43:55Z",
+      "pushed_at": "2026-11-16T02:50:29Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1425675864",
+      "title": "nmkhan076/fda_mcp_hackathon",
+      "url": "https://github.com/nmkhan076/fda_mcp_hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "nmkhan076",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-10-19T13:41:39Z",
+      "pushed_at": "2026-11-16T02:13:54Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -63,99 +180,53 @@
       "description": "MemorialAtlas — From gravestone photographs to a searchable record of remembrance. Built for the Symfony AI & MCP Hackathon.",
       "owner": "survos-sites",
       "language": "PHP",
-      "stars": 0,
-      "created_at": "2026-11-10T17:29:50Z",
-      "pushed_at": "2026-11-15T00:15:56Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1454087112",
-      "title": "tetriagen/agent-hackathon",
-      "url": "https://github.com/tetriagen/agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "tetriagen",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-11T14:29:50Z",
-      "pushed_at": "2026-11-15T06:58:20Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1221098354",
-      "title": "Truunik/RiskClaw-EthGlobal",
-      "url": "https://github.com/Truunik/RiskClaw-EthGlobal",
-      "description": "Autonomous risk guardian for Uniswap v4-style pools, powered by 0G — agentic hackathon WIP",
-      "owner": "Truunik",
-      "language": "TypeScript",
       "stars": 1,
-      "created_at": "2026-04-25T18:48:20Z",
-      "pushed_at": "2026-11-15T05:26:35Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1423586205",
-      "title": "yannabadie/taste-matched-trailer",
-      "url": "https://github.com/yannabadie/taste-matched-trailer",
-      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
-      "owner": "yannabadie",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-17T17:40:45Z",
-      "pushed_at": "2026-11-15T02:11:53Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1440579100",
-      "title": "midatm1234/earth-science-mcp-hackathon",
-      "url": "https://github.com/midatm1234/earth-science-mcp-hackathon",
-      "description": "Starter repository for the MCP and Agent Skill Hackathon for Earth Science Observations and Models: a credential-free Earth science MCP server, agent skills, tutorials, a contribution catalog and peer-testing workflow for GitHub Copilot, Claude Code and Codex in VS Code.",
-      "owner": "midatm1234",
-      "language": "Python",
-      "stars": 2,
-      "created_at": "2026-10-31T06:32:13Z",
-      "pushed_at": "2026-11-13T09:04:14Z",
+      "created_at": "2026-11-10T17:29:50Z",
+      "pushed_at": "2026-11-16T00:26:12Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.255,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1388123708",
-      "title": "axmatea/compass-horizon",
-      "url": "https://github.com/axmatea/compass-horizon",
-      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
-      "owner": "axmatea",
-      "language": "JavaScript",
+      "id": "1459405234",
+      "title": "yussefhallak/arca",
+      "url": "https://github.com/yussefhallak/arca",
+      "description": "AI agents for flood rescue. 2nd place worldwide, Open Agent Hackathon 2026.",
+      "owner": "yussefhallak",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-14T19:59:59Z",
+      "created_at": "2026-11-16T01:15:43Z",
+      "pushed_at": "2026-11-16T01:28:53Z",
+      "topics": [
+        "ai-agents",
+        "disaster-response",
+        "hackathon",
+        "human-in-the-loop",
+        "llm",
+        "multi-agent-systems",
+        "nvidia-nemotron"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1422831870",
+      "title": "bsabau/namesake",
+      "url": "https://github.com/bsabau/namesake",
+      "description": "Adoption listings, name options and an exposure plan for shelter animals, using Qloo taste data (Qloo Agentic Hackathon entry)",
+      "owner": "bsabau",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-17T01:19:40Z",
+      "pushed_at": "2026-11-15T23:01:04Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -165,72 +236,18 @@
       "source_type": "github-search"
     },
     {
-      "id": "1454094557",
-      "title": "dkoshenkov/mipt-ai-agents-hackathon",
-      "url": "https://github.com/dkoshenkov/mipt-ai-agents-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "dkoshenkov",
-      "language": "Rust",
+      "id": "1458570713",
+      "title": "Budiiis/proof-gatekeeper",
+      "url": "https://github.com/Budiiis/proof-gatekeeper",
+      "description": "Proof Gatekeeper agent for the zkVerify AI Agent Competition (Season 01)",
+      "owner": "Budiiis",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-11-11T14:36:18Z",
-      "pushed_at": "2026-11-14T20:33:32Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1457701151",
-      "title": "KunalSiyag/cedar-ridge-demo",
-      "url": "https://github.com/KunalSiyag/cedar-ridge-demo",
-      "description": "Fictional utility back end, site and knowledge base for an eGain AI Agent Hackathon entry",
-      "owner": "KunalSiyag",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-11-14T11:51:01Z",
-      "pushed_at": "2026-11-14T12:41:17Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1458043293",
-      "title": "Ombray88/bring-the-humans-01",
-      "url": "https://github.com/Ombray88/bring-the-humans-01",
-      "description": "Ad for make.fun (bring-the-humans-01): AI-agent competitions with cash prizes — join with referral code 9w5z28cm",
-      "owner": "Ombray88",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-11-14T18:18:39Z",
-      "pushed_at": "2026-11-14T18:20:10Z",
+      "created_at": "2026-11-15T07:53:29Z",
+      "pushed_at": "2026-11-15T07:56:15Z",
       "topics": [],
       "matched_queries": [
         "AI agent competition"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1458165620",
-      "title": "TYK3/pennywell-demo",
-      "url": "https://github.com/TYK3/pennywell-demo",
-      "description": "Fictional Pennywell Bank homepage for the Tag eGain AI Agent Hackathon demo.",
-      "owner": "TYK3",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-11-14T20:51:03Z",
-      "pushed_at": "2026-11-14T20:51:10Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
