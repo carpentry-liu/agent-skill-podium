@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-17T09:00:00+08:00",
+  "updated_at": "2026-11-18T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -21,6 +21,25 @@
   ],
   "candidates": [
     {
+      "id": "1462058079",
+      "title": "gsa-mcp-hackathon/irs-public-retrieval-mcp",
+      "url": "https://github.com/gsa-mcp-hackathon/irs-public-retrieval-mcp",
+      "description": "IRS public retrieval MCP prototype for GSA MCP and SI Agent Hackathon",
+      "owner": "gsa-mcp-hackathon",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-17T22:48:46Z",
+      "pushed_at": "2026-11-18T02:10:22Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon",
+        "agent hackathon"
+      ],
+      "score": 20.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
       "id": "1351293462",
       "title": "Arming-afk/Trading-agent-alpaca",
       "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
@@ -29,7 +48,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-16T23:15:59Z",
+      "pushed_at": "2026-11-17T22:07:45Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -39,34 +58,21 @@
       "source_type": "github-search"
     },
     {
-      "id": "1342067209",
-      "title": "GSA-TTS/mcp-hackathon-template",
-      "url": "https://github.com/GSA-TTS/mcp-hackathon-template",
-      "description": "Template repository for teams participating in GSA's MCP Server and AI Agent Hackathon",
-      "owner": "GSA-TTS",
-      "language": "Python",
-      "stars": 10,
-      "created_at": "2026-08-21T17:32:23Z",
-      "pushed_at": "2026-11-15T05:03:26Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.819,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1460233490",
-      "title": "balojey/tradewizard-concordium",
-      "url": "https://github.com/balojey/tradewizard-concordium",
-      "description": "TradeWizard — AI prediction-trading platform for Polymarket. Concordium Trusted Agents Hackathon build.",
-      "owner": "balojey",
-      "language": "TypeScript",
+      "id": "1440247445",
+      "title": "Amethyst001/culturalbeta",
+      "url": "https://github.com/Amethyst001/culturalbeta",
+      "description": "A consumer equity desk that prices 101 US names against a taste factor built from Qloo, with a live read-only analyst. Qloo Agentic Hackathon 2026.",
+      "owner": "Amethyst001",
+      "language": "JavaScript",
       "stars": 0,
-      "created_at": "2026-11-16T15:54:27Z",
-      "pushed_at": "2026-11-17T08:32:45Z",
-      "topics": [],
+      "created_at": "2026-10-30T21:27:19Z",
+      "pushed_at": "2026-11-18T00:47:37Z",
+      "topics": [
+        "agentic-ai",
+        "hackathon",
+        "qloo",
+        "quantitative-finance"
+      ],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -81,9 +87,9 @@
       "description": "Your website, shaped by talking to it — a Symfony AI agent edits a live Symfony site through MCP, as sketches you approve. Symfony AI & MCP Hackathon 2026.",
       "owner": "KrakowiakK",
       "language": "PHP",
-      "stars": 0,
+      "stars": 1,
       "created_at": "2026-10-29T06:14:39Z",
-      "pushed_at": "2026-11-17T08:44:57Z",
+      "pushed_at": "2026-11-18T08:02:35Z",
       "topics": [
         "ai-agent",
         "hackathon",
@@ -100,16 +106,24 @@
       "source_type": "github-search"
     },
     {
-      "id": "1429478754",
-      "title": "Palmlore/Tiresias",
-      "url": "https://github.com/Palmlore/Tiresias",
-      "description": "Evidence-backed 5 Whys root-cause agent for financial analysts, built on SEC filings (Open Agent Hackathon 2026)",
-      "owner": "Palmlore",
+      "id": "1349913502",
+      "title": "nizarhazaymeh/tradingbot",
+      "url": "https://github.com/nizarhazaymeh/tradingbot",
+      "description": "Autonomous options-trading agent that trades only when the premium is worth the risk — Alpaca AI Trading Agents Hackathon",
+      "owner": "nizarhazaymeh",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-22T08:48:23Z",
-      "pushed_at": "2026-11-17T07:53:00Z",
-      "topics": [],
+      "created_at": "2026-08-28T18:20:29Z",
+      "pushed_at": "2026-11-18T06:44:14Z",
+      "topics": [
+        "algorithmic-trading",
+        "alpaca",
+        "autonomous-agents",
+        "llm",
+        "mcp",
+        "options-trading",
+        "python"
+      ],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -118,42 +132,34 @@
       "source_type": "github-search"
     },
     {
-      "id": "1423586205",
-      "title": "yannabadie/taste-matched-trailer",
-      "url": "https://github.com/yannabadie/taste-matched-trailer",
-      "description": "Evidence-linked book-trailer briefs from Qloo cultural rankings, with native creative review. Built for the Qloo Agentic Hackathon.",
-      "owner": "yannabadie",
-      "language": "Python",
+      "id": "1425675864",
+      "title": "nmkhan076/fda_mcp_hackathon",
+      "url": "https://github.com/nmkhan076/fda_mcp_hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "nmkhan076",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-10-17T17:40:45Z",
-      "pushed_at": "2026-11-17T04:45:03Z",
+      "created_at": "2026-10-19T13:41:39Z",
+      "pushed_at": "2026-11-18T07:08:43Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "MCP hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1459405234",
-      "title": "yussefhallak/arca",
-      "url": "https://github.com/yussefhallak/arca",
-      "description": "AI agents for flood rescue. 2nd place worldwide, Open Agent Hackathon 2026.",
-      "owner": "yussefhallak",
+      "id": "1458799537",
+      "title": "Techfrontiers/billsettle-concordium",
+      "url": "https://github.com/Techfrontiers/billsettle-concordium",
+      "description": "BillSettle agent with Verified by Concordium badge (CIS-8004 Agent Registry, testnet) — Concordium Trusted Agents Hackathon. Built on the BillSettle NEAR project; kept in a separate repo so the NEAR entry stays untouched.",
+      "owner": "Techfrontiers",
       "language": null,
       "stars": 0,
-      "created_at": "2026-11-16T01:15:43Z",
-      "pushed_at": "2026-11-17T03:53:58Z",
-      "topics": [
-        "ai-agents",
-        "disaster-response",
-        "hackathon",
-        "human-in-the-loop",
-        "llm",
-        "multi-agent-systems",
-        "nvidia-nemotron"
-      ],
+      "created_at": "2026-11-15T12:54:43Z",
+      "pushed_at": "2026-11-18T05:21:07Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -162,18 +168,36 @@
       "source_type": "github-search"
     },
     {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
-      "language": "Python",
+      "id": "1462202479",
+      "title": "ZhangHaozhi001/agent-anchor",
+      "url": "https://github.com/ZhangHaozhi001/agent-anchor",
+      "description": "AgentAnchor — anchors every AI agent action to one verified, accountable human; EU AI Act-ready audit trail on Concordium. Encode Club x Concordium Trusted Agents Hackathon.",
+      "owner": "ZhangHaozhi001",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-16T22:38:41Z",
+      "created_at": "2026-11-18T02:05:57Z",
+      "pushed_at": "2026-11-18T02:06:15Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1461594440",
+      "title": "1292215273loveseeker-dotcom/xiaoyuan-14b-agent",
+      "url": "https://github.com/1292215273loveseeker-dotcom/xiaoyuan-14b-agent",
+      "description": "Xiaoyuan 14B: local-first, auditable agent architecture for open AI agent competitions and the open agentic web.",
+      "owner": "1292215273loveseeker-dotcom",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-11-17T15:24:27Z",
+      "pushed_at": "2026-11-17T17:28:41Z",
+      "topics": [],
+      "matched_queries": [
+        "AI agent competition"
       ],
       "score": 15.19,
       "status": "unverified",
@@ -188,7 +212,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-16T22:44:44Z",
+      "pushed_at": "2026-11-17T21:30:57Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -206,7 +230,7 @@
       "language": "JavaScript",
       "stars": 0,
       "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-16T19:57:59Z",
+      "pushed_at": "2026-11-17T22:19:48Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -216,38 +240,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1459914782",
-      "title": "Celebez/makefun-human-ad",
-      "url": "https://github.com/Celebez/makefun-human-ad",
-      "description": "An honest invitation to build AI-agent competition entries on make.fun.",
-      "owner": "Celebez",
-      "language": "HTML",
+      "id": "1462100179",
+      "title": "darkwood-com/content-ai-mcp-symfony-hackathon",
+      "url": "https://github.com/darkwood-com/content-ai-mcp-symfony-hackathon",
+      "description": "Generated Darkwood Symfony AI MCP Hackathon workshop. Canonical source: darkwood-com/darkwood.",
+      "owner": "darkwood-com",
+      "language": "CSS",
       "stars": 0,
-      "created_at": "2026-11-16T11:16:17Z",
-      "pushed_at": "2026-11-16T11:30:06Z",
-      "topics": [
-        "ai-agents",
-        "bounties",
-        "growth",
-        "makefun"
-      ],
-      "matched_queries": [
-        "AI agent competition"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1428793325",
-      "title": "igor-aji333/hackathon",
-      "url": "https://github.com/igor-aji333/hackathon",
-      "description": "GSA MCP Hackathon 2026",
-      "owner": "igor-aji333",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-21T18:44:07Z",
-      "pushed_at": "2026-11-16T15:34:20Z",
+      "created_at": "2026-11-17T23:46:18Z",
+      "pushed_at": "2026-11-17T23:57:22Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
