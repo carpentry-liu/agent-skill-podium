@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-19T09:00:00+08:00",
+  "updated_at": "2026-11-20T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -16,6 +16,26 @@
   ],
   "candidates": [
     {
+      "id": "1465079484",
+      "title": "salescau1/makefun-ultimate-guide",
+      "url": "https://github.com/salescau1/makefun-ultimate-guide",
+      "description": "Official Getting Started Guide & Tutorial for make.fun - AI Agent Competitions and USDC Bounties",
+      "owner": "salescau1",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-11-20T06:42:24Z",
+      "pushed_at": "2026-11-20T06:42:27Z",
+      "topics": [
+        "makefun"
+      ],
+      "matched_queries": [
+        "AI agent competition"
+      ],
+      "score": 17.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
       "id": "1351293462",
       "title": "Arming-afk/Trading-agent-alpaca",
       "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
@@ -24,7 +44,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-18T21:45:27Z",
+      "pushed_at": "2026-11-19T22:01:58Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -34,40 +54,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1264067820",
-      "title": "Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "url": "https://github.com/Elnora-AI/elnora-ai-agent-hackathon-starter-kit",
-      "description": "Run one command, follow the instructions, and get your first AI agents up and running — Claude Code or Codex. Built for the Elnora AI agent hackathon.",
-      "owner": "Elnora-AI",
-      "language": "PowerShell",
-      "stars": 22,
-      "created_at": "2026-06-09T14:27:37Z",
-      "pushed_at": "2026-11-18T20:42:08Z",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "codex",
-        "hackathon",
-        "starter-kit",
-        "template"
-      ],
+      "id": "1282410129",
+      "title": "dotteduniverse/agentic_hackathon",
+      "url": "https://github.com/dotteduniverse/agentic_hackathon",
+      "description": "work on agentic ai",
+      "owner": "dotteduniverse",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-06-27T18:25:26Z",
+      "pushed_at": "2026-11-20T08:15:37Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 16.251,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1462100179",
-      "title": "darkwood-com/content-ai-mcp-symfony-hackathon",
-      "url": "https://github.com/darkwood-com/content-ai-mcp-symfony-hackathon",
-      "description": "Generated Darkwood Symfony AI MCP Hackathon workshop. Canonical source: darkwood-com/darkwood.",
-      "owner": "darkwood-com",
-      "language": "CSS",
+      "id": "1464960120",
+      "title": "gsa-mcp-hackathon/irs-ai-risk-server",
+      "url": "https://github.com/gsa-mcp-hackathon/irs-ai-risk-server",
+      "description": "AI-native IRS tax risk analysis server built on Model Context Protocol (MCP) + IBM watsonx Orchestrate. ",
+      "owner": "gsa-mcp-hackathon",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-17T23:46:18Z",
-      "pushed_at": "2026-11-19T04:47:08Z",
+      "created_at": "2026-11-20T04:05:01Z",
+      "pushed_at": "2026-11-20T04:05:57Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -77,40 +90,27 @@
       "source_type": "github-search"
     },
     {
-      "id": "1463305260",
-      "title": "deliremzi80/makefun-guide",
-      "url": "https://github.com/deliremzi80/makefun-guide",
-      "description": "The Comprehensive Getting Started Tutorial & Handbook for make.fun AI Agent Competitions",
-      "owner": "deliremzi80",
-      "language": null,
+      "id": "1464249255",
+      "title": "gsa-mcp-hackathon/veteran-access-bridge-mcp-server",
+      "url": "https://github.com/gsa-mcp-hackathon/veteran-access-bridge-mcp-server",
+      "description": "An MCP server for Veteran appointment scheduling. In the demo, Avery, an IBM watsonx Orchestrate voice agent, uses VA sandbox data to help a caller schedule a simulated Primary Care visit.",
+      "owner": "gsa-mcp-hackathon",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-18T20:30:33Z",
-      "pushed_at": "2026-11-19T07:03:39Z",
-      "topics": [],
-      "matched_queries": [
-        "AI agent competition"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1463796564",
-      "title": "Fahrozi09/makefun-guide",
-      "url": "https://github.com/Fahrozi09/makefun-guide",
-      "description": "Getting started with make.fun — a beginner-friendly guide to entering AI agent competitions, written by an agent.",
-      "owner": "Fahrozi09",
-      "language": null,
-      "stars": 0,
-      "created_at": "2026-11-19T07:14:28Z",
-      "pushed_at": "2026-11-19T07:16:32Z",
+      "created_at": "2026-11-19T14:24:21Z",
+      "pushed_at": "2026-11-20T03:41:27Z",
       "topics": [
-        "ai-agents",
-        "bounties",
-        "makefun"
+        "appointment-scheduling",
+        "hackathon",
+        "livekit",
+        "mcp-server",
+        "model-context-protocol-servers",
+        "python",
+        "supabase",
+        "veteran-health"
       ],
       "matched_queries": [
-        "AI agent competition"
+        "MCP hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -125,7 +125,7 @@
       "language": "TypeScript",
       "stars": 0,
       "created_at": "2026-11-17T16:00:07Z",
-      "pushed_at": "2026-11-19T01:44:16Z",
+      "pushed_at": "2026-11-20T08:26:57Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -135,18 +135,18 @@
       "source_type": "github-search"
     },
     {
-      "id": "1463840917",
-      "title": "kageyoru3120/makefun-getting-started",
-      "url": "https://github.com/kageyoru3120/makefun-getting-started",
-      "description": "A beginner-friendly guide to make.fun, AI agent competitions, and getting started with your first bounty.",
-      "owner": "kageyoru3120",
+      "id": "1464824925",
+      "title": "L-shell0/IO",
+      "url": "https://github.com/L-shell0/IO",
+      "description": "IO city project of Lempyra R&D - Concordium Trusted Agents Hackathon",
+      "owner": "L-shell0",
       "language": null,
       "stars": 0,
-      "created_at": "2026-11-19T08:00:59Z",
-      "pushed_at": "2026-11-19T08:01:01Z",
+      "created_at": "2026-11-20T00:52:28Z",
+      "pushed_at": "2026-11-20T00:52:29Z",
       "topics": [],
       "matched_queries": [
-        "AI agent competition"
+        "agent hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -161,7 +161,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-11-18T16:27:53Z",
-      "pushed_at": "2026-11-19T05:27:42Z",
+      "pushed_at": "2026-11-20T05:27:24Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -171,15 +171,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1463487462",
-      "title": "techadnank9/diya-soc",
-      "url": "https://github.com/techadnank9/diya-soc",
-      "description": "Red vs Blue security agents that harden an app together in a BAND room, with Lyzr brains (Diwali Agent Hackathon)",
-      "owner": "techadnank9",
+      "id": "1463957532",
+      "title": "manasvimittal27/paytm-agent-hackathon",
+      "url": "https://github.com/manasvimittal27/paytm-agent-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "manasvimittal27",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-19T00:28:10Z",
-      "pushed_at": "2026-11-19T03:32:17Z",
+      "created_at": "2026-11-19T09:55:11Z",
+      "pushed_at": "2026-11-20T08:28:16Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -189,56 +189,56 @@
       "source_type": "github-search"
     },
     {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
-      "language": "Python",
+      "id": "1425675864",
+      "title": "nmkhan076/fda_mcp_hackathon",
+      "url": "https://github.com/nmkhan076/fda_mcp_hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "nmkhan076",
+      "language": "HTML",
       "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-18T20:59:23Z",
+      "created_at": "2026-10-19T13:41:39Z",
+      "pushed_at": "2026-11-20T03:17:04Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "MCP hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1463418957",
-      "title": "AikenMeikle/hackbridge",
-      "url": "https://github.com/AikenMeikle/hackbridge",
-      "description": "Multi-Agent Hackathon Coordination, Contract-First Mock/Codegen & Birmingham AI (bAI) Web-Oracle Bridge for OpenCode Free Tier",
-      "owner": "AikenMeikle",
-      "language": "Python",
+      "id": "1465132202",
+      "title": "RealCloudyPanda/Open-Agentic-Hackathon",
+      "url": "https://github.com/RealCloudyPanda/Open-Agentic-Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "RealCloudyPanda",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-11-18T22:46:12Z",
-      "pushed_at": "2026-11-18T22:46:33Z",
+      "created_at": "2026-11-20T07:42:16Z",
+      "pushed_at": "2026-11-20T07:42:17Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-18T21:06:51Z",
+      "id": "1462202479",
+      "title": "ZhangHaozhi001/agent-anchor",
+      "url": "https://github.com/ZhangHaozhi001/agent-anchor",
+      "description": "AgentAnchor — anchors every AI agent action to one verified, accountable human; EU AI Act-ready audit trail on Concordium. Encode Club x Concordium Trusted Agents Hackathon.",
+      "owner": "ZhangHaozhi001",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-11-18T02:05:57Z",
+      "pushed_at": "2026-11-20T07:56:46Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     }
