@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-20T09:00:00+08:00",
+  "updated_at": "2026-11-21T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -24,32 +24,101 @@
       "language": null,
       "stars": 0,
       "created_at": "2026-11-20T06:42:24Z",
-      "pushed_at": "2026-11-20T06:42:27Z",
+      "pushed_at": "2026-11-20T18:59:39Z",
       "topics": [
         "makefun"
       ],
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 17.301,
+      "score": 17.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1351293462",
-      "title": "Arming-afk/Trading-agent-alpaca",
-      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
-      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
-      "owner": "Arming-afk",
+      "id": "1464573400",
+      "title": "odiseoteam/reflex",
+      "url": "https://github.com/odiseoteam/reflex",
+      "description": "Self-hosted agents that react to your systems' events over MCP, act within per-tool policies, and escalate big decisions to people. Built for the Symfony AI & MCP Hackathon.",
+      "owner": "odiseoteam",
+      "language": "PHP",
+      "stars": 3,
+      "created_at": "2026-11-19T19:27:14Z",
+      "pushed_at": "2026-11-21T04:38:50Z",
+      "topics": [
+        "ai-agents",
+        "elicitation",
+        "human-in-the-loop",
+        "mcp",
+        "model-context-protocol",
+        "n8n-alternative",
+        "php",
+        "symfony"
+      ],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.602,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1439340479",
+      "title": "Adarsh-pandey-cse/hackindia-ai-agents-hackathon-agentverse-2026",
+      "url": "https://github.com/Adarsh-pandey-cse/hackindia-ai-agents-hackathon-agentverse-2026",
+      "description": "HackIndia AI Agents Hackathon - AgentVerse 2026 submission: Autonomous AI Agent Pipeline with external & mock API integration.",
+      "owner": "Adarsh-pandey-cse",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-19T22:01:58Z",
+      "created_at": "2026-10-30T06:03:59Z",
+      "pushed_at": "2026-11-21T04:55:18Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 17.19,
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1368011520",
+      "title": "areycruzer/kwik112-assemblyai",
+      "url": "https://github.com/areycruzer/kwik112-assemblyai",
+      "description": "Kwik 112 on AssemblyAI: a live Voice Agent API call-taker for emergency intake, steered by a deterministic escalate-only safety floor. AssemblyAI Voice Agent Hackathon, Sep 2026.",
+      "owner": "areycruzer",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-09-13T04:41:34Z",
+      "pushed_at": "2026-11-21T07:21:37Z",
+      "topics": [
+        "assemblyai",
+        "emergency-response",
+        "nextjs",
+        "typescript",
+        "voice-agent"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1465735452",
+      "title": "bertramsargla/pah",
+      "url": "https://github.com/bertramsargla/pah",
+      "description": "Personal Agents Hackathon",
+      "owner": "bertramsargla",
+      "language": "Swift",
+      "stars": 0,
+      "created_at": "2026-11-20T17:51:12Z",
+      "pushed_at": "2026-11-21T03:09:36Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -62,28 +131,10 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-06-27T18:25:26Z",
-      "pushed_at": "2026-11-20T08:15:37Z",
+      "pushed_at": "2026-11-21T03:20:29Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1464960120",
-      "title": "gsa-mcp-hackathon/irs-ai-risk-server",
-      "url": "https://github.com/gsa-mcp-hackathon/irs-ai-risk-server",
-      "description": "AI-native IRS tax risk analysis server built on Model Context Protocol (MCP) + IBM watsonx Orchestrate. ",
-      "owner": "gsa-mcp-hackathon",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-20T04:05:01Z",
-      "pushed_at": "2026-11-20T04:05:57Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
@@ -98,7 +149,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-11-19T14:24:21Z",
-      "pushed_at": "2026-11-20T03:41:27Z",
+      "pushed_at": "2026-11-21T07:03:04Z",
       "topics": [
         "appointment-scheduling",
         "hackathon",
@@ -117,33 +168,33 @@
       "source_type": "github-search"
     },
     {
-      "id": "1461639713",
-      "title": "jiahaoc040-ai/veriflow",
-      "url": "https://github.com/jiahaoc040-ai/veriflow",
-      "description": "On-chain exchange-flow signals for AI agents, sold only to verified buyers, with a verifiable track record. Concordium Trusted Agents Hackathon.",
-      "owner": "jiahaoc040-ai",
-      "language": "TypeScript",
+      "id": "1466313536",
+      "title": "Guiziweb/repcoach",
+      "url": "https://github.com/Guiziweb/repcoach",
+      "description": "Gym coaching MCP server for Claude, built with Symfony 8.1. Symfony AI & MCP Hackathon 2026.",
+      "owner": "Guiziweb",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-11-17T16:00:07Z",
-      "pushed_at": "2026-11-20T08:26:57Z",
+      "created_at": "2026-11-21T07:52:04Z",
+      "pushed_at": "2026-11-21T07:52:06Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "MCP hackathon"
       ],
       "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1464824925",
-      "title": "L-shell0/IO",
-      "url": "https://github.com/L-shell0/IO",
-      "description": "IO city project of Lempyra R&D - Concordium Trusted Agents Hackathon",
-      "owner": "L-shell0",
-      "language": null,
+      "id": "1465835989",
+      "title": "Keon-Amid/personal-agent-hack",
+      "url": "https://github.com/Keon-Amid/personal-agent-hack",
+      "description": "tokens& Personal Agents Hackathon, Nov 20 2026 (AWS Builder Loft SF)",
+      "owner": "Keon-Amid",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-20T00:52:28Z",
-      "pushed_at": "2026-11-20T00:52:29Z",
+      "created_at": "2026-11-20T19:44:04Z",
+      "pushed_at": "2026-11-21T01:39:09Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -161,7 +212,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-11-18T16:27:53Z",
-      "pushed_at": "2026-11-20T05:27:24Z",
+      "pushed_at": "2026-11-21T07:36:40Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
@@ -171,51 +222,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1463957532",
-      "title": "manasvimittal27/paytm-agent-hackathon",
-      "url": "https://github.com/manasvimittal27/paytm-agent-hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "manasvimittal27",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-19T09:55:11Z",
-      "pushed_at": "2026-11-20T08:28:16Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1425675864",
-      "title": "nmkhan076/fda_mcp_hackathon",
-      "url": "https://github.com/nmkhan076/fda_mcp_hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "nmkhan076",
-      "language": "HTML",
-      "stars": 0,
-      "created_at": "2026-10-19T13:41:39Z",
-      "pushed_at": "2026-11-20T03:17:04Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1465132202",
-      "title": "RealCloudyPanda/Open-Agentic-Hackathon",
-      "url": "https://github.com/RealCloudyPanda/Open-Agentic-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "RealCloudyPanda",
+      "id": "1466201580",
+      "title": "riocavell3/muse",
+      "url": "https://github.com/riocavell3/muse",
+      "description": "Concordium Trusted Agents Hackathon - Encode Club ",
+      "owner": "riocavell3",
       "language": null,
       "stars": 0,
-      "created_at": "2026-11-20T07:42:16Z",
-      "pushed_at": "2026-11-20T07:42:17Z",
+      "created_at": "2026-11-21T05:08:29Z",
+      "pushed_at": "2026-11-21T05:08:31Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -225,15 +240,15 @@
       "source_type": "github-search"
     },
     {
-      "id": "1462202479",
-      "title": "ZhangHaozhi001/agent-anchor",
-      "url": "https://github.com/ZhangHaozhi001/agent-anchor",
-      "description": "AgentAnchor — anchors every AI agent action to one verified, accountable human; EU AI Act-ready audit trail on Concordium. Encode Club x Concordium Trusted Agents Hackathon.",
-      "owner": "ZhangHaozhi001",
-      "language": "TypeScript",
+      "id": "1431929526",
+      "title": "Shivay00001/dealreasoner",
+      "url": "https://github.com/Shivay00001/dealreasoner",
+      "description": "DealReasoner — verifiable reasoning agent for freelancer client go/no-go decisions. Open Agent Hackathon 2026, Track 03 Reasoning Architecture.",
+      "owner": "Shivay00001",
+      "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-18T02:05:57Z",
-      "pushed_at": "2026-11-20T07:56:46Z",
+      "created_at": "2026-10-24T07:26:57Z",
+      "pushed_at": "2026-11-21T07:03:20Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
