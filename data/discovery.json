@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-22T09:00:00+08:00",
+  "updated_at": "2026-11-23T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -31,56 +31,99 @@
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 17.079,
+      "score": 16.968,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1464573400",
-      "title": "odiseoteam/reflex",
-      "url": "https://github.com/odiseoteam/reflex",
-      "description": "Self-hosted agents that react to your systems' events over MCP, act within per-tool policies, and escalate big decisions to people. Built for the Symfony AI & MCP Hackathon.",
-      "owner": "odiseoteam",
-      "language": "PHP",
-      "stars": 3,
-      "created_at": "2026-11-19T19:27:14Z",
-      "pushed_at": "2026-11-21T04:38:50Z",
+      "id": "1364221232",
+      "title": "Muhammad-Anas59/Voice-Customer-Support-Agent",
+      "url": "https://github.com/Muhammad-Anas59/Voice-Customer-Support-Agent",
+      "description": "Voice-enabled AI customer support agent — real-time speech-to-text, RAG-powered answers, and spoken responses. Built for the AssemblyAI Voice Agent Hackathon.",
+      "owner": "Muhammad-Anas59",
+      "language": "Python",
+      "stars": 2,
+      "created_at": "2026-09-10T13:30:21Z",
+      "pushed_at": "2026-11-23T07:42:19Z",
       "topics": [
-        "ai-agents",
-        "elicitation",
-        "human-in-the-loop",
-        "mcp",
-        "model-context-protocol",
-        "n8n-alternative",
-        "php",
-        "symfony"
+        "elevenlabs",
+        "flask-socketio",
+        "gemini",
+        "gemini-api",
+        "rag",
+        "voice-ai"
       ],
       "matched_queries": [
-        "MCP hackathon"
+        "agent hackathon"
       ],
-      "score": 15.491,
+      "score": 15.477,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1464249255",
-      "title": "gsa-mcp-hackathon/veteran-access-bridge-mcp-server",
-      "url": "https://github.com/gsa-mcp-hackathon/veteran-access-bridge-mcp-server",
-      "description": "An MCP server for Veteran appointment scheduling. In the demo, Avery, an IBM watsonx Orchestrate voice agent, uses VA sandbox data to help a caller schedule a simulated Primary Care visit.",
+      "id": "1450715805",
+      "title": "aobasar/ai7-website-doctor",
+      "url": "https://github.com/aobasar/ai7-website-doctor",
+      "description": "Voice AI tech support that diagnoses, fixes and verifies. ElevenLabs agents + Daytona sandboxes. SDxSDSU Voice Agent Hackathon 2026.",
+      "owner": "aobasar",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-11-08T22:29:46Z",
+      "pushed_at": "2026-11-23T06:04:41Z",
+      "topics": [
+        "daytona",
+        "elevenlabs",
+        "hackathon",
+        "voice-agent",
+        "voice-ai"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1301332218",
+      "title": "Ash-Blanc/hackscout-mcp",
+      "url": "https://github.com/Ash-Blanc/hackscout-mcp",
+      "description": "Agentic hackathon intelligence MCP server — fit scoring, winner playbooks, and public competitor dynamics",
+      "owner": "Ash-Blanc",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-07-15T07:32:05Z",
+      "pushed_at": "2026-11-23T02:41:08Z",
+      "topics": [
+        "agno",
+        "fastmcp",
+        "hackathon",
+        "mcp"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1468375287",
+      "title": "gsa-mcp-hackathon/mcp-hackathon-ssa-qz",
+      "url": "https://github.com/gsa-mcp-hackathon/mcp-hackathon-ssa-qz",
+      "description": "MCP server giving AI agents access to SSA open data, field-office lookup, COLA estimates, and sandboxed appointment booking.",
       "owner": "gsa-mcp-hackathon",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-19T14:24:21Z",
-      "pushed_at": "2026-11-22T00:44:03Z",
+      "created_at": "2026-11-23T06:27:38Z",
+      "pushed_at": "2026-11-23T06:29:35Z",
       "topics": [
-        "appointment-scheduling",
-        "hackathon",
-        "livekit",
-        "mcp-server",
-        "model-context-protocol-servers",
+        "fastmcp",
+        "gsa-hackathon",
+        "mcp",
+        "open-data",
         "python",
-        "supabase",
-        "veteran-health"
+        "social-security"
       ],
       "matched_queries": [
         "MCP hackathon"
@@ -90,173 +133,131 @@
       "source_type": "github-search"
     },
     {
-      "id": "1351339980",
-      "title": "JFKELLY89/alpha-council",
-      "url": "https://github.com/JFKELLY89/alpha-council",
-      "description": "Autonomous adversarial AI options trading agent built for the Alpaca AI Trading Agents Hackathon",
-      "owner": "JFKELLY89",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-30T11:29:01Z",
-      "pushed_at": "2026-11-22T02:10:07Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1467187483",
-      "title": "Karim-mans/Multi-Agent-Hackathon-Planner",
-      "url": "https://github.com/Karim-mans/Multi-Agent-Hackathon-Planner",
+      "id": "1468251779",
+      "title": "gsa-mcp-hackathon/mcp-nvd-server",
+      "url": "https://github.com/gsa-mcp-hackathon/mcp-nvd-server",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "Karim-mans",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-22T03:47:30Z",
-      "pushed_at": "2026-11-22T03:52:34Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1465759240",
-      "title": "metafrogmeme-droid/claw-pay-concordium",
-      "url": "https://github.com/metafrogmeme-droid/claw-pay-concordium",
-      "description": "Claw Pay for Concordium — testnet-only agent payment guardrails for the Encode x Concordium Trusted Agents hackathon",
-      "owner": "metafrogmeme-droid",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-11-20T18:16:33Z",
-      "pushed_at": "2026-11-22T07:37:39Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1465132202",
-      "title": "RealCloudyPanda/Open-Agentic-Hackathon",
-      "url": "https://github.com/RealCloudyPanda/Open-Agentic-Hackathon",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "RealCloudyPanda",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-11-20T07:42:16Z",
-      "pushed_at": "2026-11-22T03:40:46Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1250098842",
-      "title": "square-box-hash/Crisiswatch",
-      "url": "https://github.com/square-box-hash/Crisiswatch",
-      "description": "AI-powered disease outbreak surveillance agent. Detects emerging health clusters, classifies novel vs seasonal outbreaks, predicts spread trajectories, and enables real-time human-in-the-loop validation by verified health workers. Built with Gemini, MongoDB Atlas, and Google Cloud for the Google Cloud Rapid Agent Hackathon.",
-      "owner": "square-box-hash",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-05-26T09:55:26Z",
-      "pushed_at": "2026-11-22T05:46:16Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1466953126",
-      "title": "975L/pilot-mcp-demo",
-      "url": "https://github.com/975L/pilot-mcp-demo",
-      "description": "Symfony AI & MCP hackathon demo: an AI agent works on a Pilot card through one MCP endpoint, every c975L bundle adding its tools",
-      "owner": "975L",
-      "language": "PHP",
-      "stars": 1,
-      "created_at": "2026-11-21T21:03:25Z",
-      "pushed_at": "2026-11-21T22:13:33Z",
-      "topics": [
-        "ai-agent",
-        "hackathon",
-        "human-in-the-loop",
-        "mcp",
-        "mcp-sdk",
-        "php",
-        "symfony",
-        "symfony-ai"
-      ],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1465938066",
-      "title": "abhaypadmanabhan/lunchshift",
-      "url": "https://github.com/abhaypadmanabhan/lunchshift",
-      "description": "LunchShift: a grocery agent for families with food-allergic kids (tokens& Personal Agents Hackathon)",
-      "owner": "abhaypadmanabhan",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-11-20T21:54:07Z",
-      "pushed_at": "2026-11-21T21:02:08Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1432198594",
-      "title": "CAG1218/touchlearn-fudan-Team_Stella",
-      "url": "https://github.com/CAG1218/touchlearn-fudan-Team_Stella",
-      "description": "触见 TouchLearn：把 STEM 图重构成可触摸的 3D 结构图，配编号盲文和扫码音频｜2026 复旦大学未来智造智能体大赛",
-      "owner": "CAG1218",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-10-24T13:14:25Z",
-      "pushed_at": "2026-11-21T13:28:24Z",
-      "topics": [],
-      "matched_queries": [
-        "智能体 大赛"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1463196944",
-      "title": "gsa-mcp-hackathon/civicgate-nova-labs-research",
-      "url": "https://github.com/gsa-mcp-hackathon/civicgate-nova-labs-research",
-      "description": "Governed First MCP gateway for public federal spending research, build for the GSA MCP Server and SI Agent Government Hackathon",
       "owner": "gsa-mcp-hackathon",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-18T18:40:33Z",
-      "pushed_at": "2026-11-21T17:56:15Z",
+      "created_at": "2026-11-23T03:44:12Z",
+      "pushed_at": "2026-11-23T03:44:16Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.19,
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1468440125",
+      "title": "gsa-mcp-hackathon/mcp-vcare-compass",
+      "url": "https://github.com/gsa-mcp-hackathon/mcp-vcare-compass",
+      "description": "VCARE Community Care Compass: MCP server prototype using synthetic data (GSA MCP Hackathon).",
+      "owner": "gsa-mcp-hackathon",
+      "language": null,
+      "stars": 0,
+      "created_at": "2026-11-23T07:39:04Z",
+      "pushed_at": "2026-11-23T07:39:06Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1467890341",
+      "title": "gsa-mcp-hackathon/notam-watch-mcp",
+      "url": "https://github.com/gsa-mcp-hackathon/notam-watch-mcp",
+      "description": "An MCP server that shows which flight safety notices are most critical to a planned route based on location, altitude, and timing.",
+      "owner": "gsa-mcp-hackathon",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-22T19:02:03Z",
+      "pushed_at": "2026-11-23T02:38:01Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1463385688",
+      "title": "gsa-mcp-hackathon/payroll-compliance-mcp",
+      "url": "https://github.com/gsa-mcp-hackathon/payroll-compliance-mcp",
+      "description": "MCP server validating 2026 OPM biweekly premium pay caps (5 U.S.C. 5547) across federal locality pay areas with statutory guardrails.",
+      "owner": "gsa-mcp-hackathon",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-18T22:02:47Z",
+      "pushed_at": "2026-11-23T01:23:06Z",
+      "topics": [
+        "databricks",
+        "mcp"
+      ],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1400656957",
+      "title": "knowaguy4u-cell/tasteloop",
+      "url": "https://github.com/knowaguy4u-cell/tasteloop",
+      "description": "TasteLoop Agent — Qloo Agentic Hackathon entry. Agentic week-planner grounded in Qloo Taste AI cultural data. MIT.",
+      "owner": "knowaguy4u-cell",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-01T20:00:44Z",
+      "pushed_at": "2026-11-23T00:07:05Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1466402539",
+      "title": "Ksschkw/ProxID",
+      "url": "https://github.com/Ksschkw/ProxID",
+      "description": "Hyper-local services marketplace with Concordium ZK identity and x402 agent payments. Concordium Trusted Agents Hackathon.",
+      "owner": "Ksschkw",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-21T09:54:23Z",
+      "pushed_at": "2026-11-23T01:23:59Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1468250170",
+      "title": "marcusL87/blm-mining-claims-mcp",
+      "url": "https://github.com/marcusL87/blm-mining-claims-mcp",
+      "description": "MCP server that helps BLM Montana/Dakotas staff answer public questions about mining claims (GSA MCP Hackathon)",
+      "owner": "marcusL87",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-23T03:42:13Z",
+      "pushed_at": "2026-11-23T07:16:49Z",
+      "topics": [],
+      "matched_queries": [
+        "MCP hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     }
