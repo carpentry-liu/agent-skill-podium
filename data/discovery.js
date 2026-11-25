@@ -5,7 +5,7 @@
 })(typeof globalThis !== "undefined" ? globalThis : this, function () {
   return {
   "schema_version": 1,
-  "updated_at": "2026-11-24T09:00:00+08:00",
+  "updated_at": "2026-11-25T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -29,12 +29,12 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-24T01:33:24Z",
+      "pushed_at": "2026-11-24T23:25:59Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 17.301,
+      "score": 17.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -54,7 +54,120 @@
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 16.857,
+      "score": 16.745,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1388123708",
+      "title": "axmatea/compass-horizon",
+      "url": "https://github.com/axmatea/compass-horizon",
+      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
+      "owner": "axmatea",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-09-25T19:50:28Z",
+      "pushed_at": "2026-11-25T00:08:46Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1471262830",
+      "title": "dannytungadi5/proofsight-agent",
+      "url": "https://github.com/dannytungadi5/proofsight-agent",
+      "description": "Verified AI data-analysis agent on Concordium testnet: CIS-8004 Agent Registry identity, Verified by Concordium badge, x402 micropayments, on-chain audit trail. Encode Club x Concordium Trusted Agents Hackathon submission.",
+      "owner": "dannytungadi5",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-11-25T04:57:40Z",
+      "pushed_at": "2026-11-25T07:08:14Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1471246961",
+      "title": "Gnanendra-naidu/ai-agents-hackathon-2026",
+      "url": "https://github.com/Gnanendra-naidu/ai-agents-hackathon-2026",
+      "description": "AI-powered agent application built for a 12-hour hackathon.",
+      "owner": "Gnanendra-naidu",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-11-25T04:43:51Z",
+      "pushed_at": "2026-11-25T08:59:32Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1351339980",
+      "title": "JFKELLY89/alpha-council",
+      "url": "https://github.com/JFKELLY89/alpha-council",
+      "description": "Autonomous adversarial AI options trading agent built for the Alpaca AI Trading Agents Hackathon",
+      "owner": "JFKELLY89",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-30T11:29:01Z",
+      "pushed_at": "2026-11-25T04:26:33Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1466402539",
+      "title": "Ksschkw/ProxID",
+      "url": "https://github.com/Ksschkw/ProxID",
+      "description": "Hyper-local services marketplace with Concordium ZK identity and x402 agent payments. Concordium Trusted Agents Hackathon.",
+      "owner": "Ksschkw",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-21T09:54:23Z",
+      "pushed_at": "2026-11-25T02:33:41Z",
+      "topics": [
+        "ai-agent-security",
+        "ai-agents",
+        "blockchain-technology",
+        "concordium"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1469848460",
+      "title": "LumenFromTheFuture/opind-verifier",
+      "url": "https://github.com/LumenFromTheFuture/opind-verifier",
+      "description": "Operator-independence verification protocol for ERC-8004 agent validation. Reference implementation for the Concordium Trusted Agents Hackathon.",
+      "owner": "LumenFromTheFuture",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-24T08:13:24Z",
+      "pushed_at": "2026-11-25T08:21:03Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -67,12 +180,12 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-24T00:28:50Z",
+      "pushed_at": "2026-11-24T22:50:59Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -85,48 +198,12 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-24T00:36:04Z",
+      "pushed_at": "2026-11-24T22:55:40Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1460233490",
-      "title": "balojey/tradewizard-concordium",
-      "url": "https://github.com/balojey/tradewizard-concordium",
-      "description": "TradeWizard — AI prediction-trading platform for Polymarket. Concordium Trusted Agents Hackathon build.",
-      "owner": "balojey",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-11-16T15:54:27Z",
-      "pushed_at": "2026-11-24T08:44:05Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1343232934",
-      "title": "bouncypitch/cooking-robot-agent",
-      "url": "https://github.com/bouncypitch/cooking-robot-agent",
-      "description": "A long-horizon physical agent -- kits meal ingredients with a simulated robot arm, detecting and recovering from mid-run failures. AGI House Long-Horizon Agents hackathon.",
-      "owner": "bouncypitch",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-22T23:17:18Z",
-      "pushed_at": "2026-11-24T04:28:16Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -139,102 +216,30 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-10-24T13:14:25Z",
-      "pushed_at": "2026-11-24T10:31:58Z",
+      "pushed_at": "2026-11-24T15:56:43Z",
       "topics": [],
       "matched_queries": [
         "智能体 大赛"
       ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1466899447",
-      "title": "gsa-mcp-hackathon/hazbrief",
-      "url": "https://github.com/gsa-mcp-hackathon/hazbrief",
-      "description": "Given a hazardous material release on a highway or rail line, Hazbrief fuses public federal data into an interactive GUI that shows the danger area, the gas cloud over time, who and what is inside it, and more, including a draft ICS 201 briefing for the incident commander in minutes. ",
-      "owner": "gsa-mcp-hackathon",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-11-21T19:46:42Z",
-      "pushed_at": "2026-11-24T04:45:24Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1469635539",
-      "title": "gsa-mcp-hackathon/IRS_Research_Server",
-      "url": "https://github.com/gsa-mcp-hackathon/IRS_Research_Server",
+      "id": "1470296850",
+      "title": "gsa-mcp-hackathon/ce_mcp_ser",
+      "url": "https://github.com/gsa-mcp-hackathon/ce_mcp_ser",
       "description": "该仓库暂无公开简介，请进入来源页核验。",
       "owner": "gsa-mcp-hackathon",
-      "language": "Python",
+      "language": null,
       "stars": 0,
-      "created_at": "2026-11-24T04:12:38Z",
-      "pushed_at": "2026-11-24T04:13:47Z",
+      "created_at": "2026-11-24T14:39:55Z",
+      "pushed_at": "2026-11-24T14:39:57Z",
       "topics": [],
       "matched_queries": [
         "MCP hackathon"
       ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1469611884",
-      "title": "gsa-mcp-hackathon/mcp-c-scrm-mapping",
-      "url": "https://github.com/gsa-mcp-hackathon/mcp-c-scrm-mapping",
-      "description": "mapping vendors/platforms/products to agency usage. native mcp server with live data pulls from usaspending.gov",
-      "owner": "gsa-mcp-hackathon",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-24T03:41:58Z",
-      "pushed_at": "2026-11-24T05:17:56Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1468440125",
-      "title": "gsa-mcp-hackathon/mcp-vcare-compass",
-      "url": "https://github.com/gsa-mcp-hackathon/mcp-vcare-compass",
-      "description": "VCARE Community Care Compass: MCP server prototype using synthetic data (GSA MCP Hackathon).",
-      "owner": "gsa-mcp-hackathon",
-      "language": "Jupyter Notebook",
-      "stars": 0,
-      "created_at": "2026-11-23T07:39:04Z",
-      "pushed_at": "2026-11-24T04:28:54Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1467890341",
-      "title": "gsa-mcp-hackathon/notam-watch-mcp",
-      "url": "https://github.com/gsa-mcp-hackathon/notam-watch-mcp",
-      "description": "An MCP server that shows which flight safety notices are most critical to a planned route based on location, altitude, and timing.",
-      "owner": "gsa-mcp-hackathon",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-22T19:02:03Z",
-      "pushed_at": "2026-11-24T03:47:00Z",
-      "topics": [],
-      "matched_queries": [
-        "MCP hackathon"
-      ],
-      "score": 15.301,
+      "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     }
