@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-25T09:00:00+08:00",
+  "updated_at": "2026-11-26T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -24,7 +24,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-24T23:25:59Z",
+      "pushed_at": "2026-11-25T23:00:09Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -49,98 +49,39 @@
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 16.745,
+      "score": 16.634,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1388123708",
-      "title": "axmatea/compass-horizon",
-      "url": "https://github.com/axmatea/compass-horizon",
-      "description": "COMPASS: watch an acquisition agent learn, day by day (Long Horizon Agents hackathon)",
-      "owner": "axmatea",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-09-25T19:50:28Z",
-      "pushed_at": "2026-11-25T00:08:46Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1471262830",
-      "title": "dannytungadi5/proofsight-agent",
-      "url": "https://github.com/dannytungadi5/proofsight-agent",
-      "description": "Verified AI data-analysis agent on Concordium testnet: CIS-8004 Agent Registry identity, Verified by Concordium badge, x402 micropayments, on-chain audit trail. Encode Club x Concordium Trusted Agents Hackathon submission.",
-      "owner": "dannytungadi5",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-11-25T04:57:40Z",
-      "pushed_at": "2026-11-25T07:08:14Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1471246961",
-      "title": "Gnanendra-naidu/ai-agents-hackathon-2026",
-      "url": "https://github.com/Gnanendra-naidu/ai-agents-hackathon-2026",
-      "description": "AI-powered agent application built for a 12-hour hackathon.",
-      "owner": "Gnanendra-naidu",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-11-25T04:43:51Z",
-      "pushed_at": "2026-11-25T08:59:32Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1351339980",
-      "title": "JFKELLY89/alpha-council",
-      "url": "https://github.com/JFKELLY89/alpha-council",
-      "description": "Autonomous adversarial AI options trading agent built for the Alpaca AI Trading Agents Hackathon",
-      "owner": "JFKELLY89",
+      "id": "1432198594",
+      "title": "CAG1218/touchlearn-fudan-Team_Stella",
+      "url": "https://github.com/CAG1218/touchlearn-fudan-Team_Stella",
+      "description": "触见 TouchLearn：把 STEM 图重构成可触摸的 3D 结构图，配编号盲文和扫码音频｜2026 复旦大学未来智造智能体大赛",
+      "owner": "CAG1218",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-08-30T11:29:01Z",
-      "pushed_at": "2026-11-25T04:26:33Z",
+      "created_at": "2026-10-24T13:14:25Z",
+      "pushed_at": "2026-11-26T06:01:11Z",
       "topics": [],
       "matched_queries": [
-        "agent hackathon"
+        "智能体 大赛"
       ],
       "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1466402539",
-      "title": "Ksschkw/ProxID",
-      "url": "https://github.com/Ksschkw/ProxID",
-      "description": "Hyper-local services marketplace with Concordium ZK identity and x402 agent payments. Concordium Trusted Agents Hackathon.",
-      "owner": "Ksschkw",
+      "id": "1464824925",
+      "title": "L-shell0/IO",
+      "url": "https://github.com/L-shell0/IO",
+      "description": "IO city project of Lempyra R&D - Concordium Trusted Agents Hackathon",
+      "owner": "L-shell0",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-11-21T09:54:23Z",
-      "pushed_at": "2026-11-25T02:33:41Z",
-      "topics": [
-        "ai-agent-security",
-        "ai-agents",
-        "blockchain-technology",
-        "concordium"
-      ],
+      "created_at": "2026-11-20T00:52:28Z",
+      "pushed_at": "2026-11-26T04:19:57Z",
+      "topics": [],
       "matched_queries": [
         "agent hackathon"
       ],
@@ -157,7 +98,25 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-11-24T08:13:24Z",
-      "pushed_at": "2026-11-25T08:21:03Z",
+      "pushed_at": "2026-11-26T08:29:12Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1340187356",
+      "title": "TheScottyB/blue-toad-fleet",
+      "url": "https://github.com/TheScottyB/blue-toad-fleet",
+      "description": "Agent fleet for absentee auction bidding — All Things Agentic Hackathon 2026",
+      "owner": "TheScottyB",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-08-20T02:00:06Z",
+      "pushed_at": "2026-11-26T06:19:37Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -175,7 +134,7 @@
       "language": "Python",
       "stars": 0,
       "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-24T22:50:59Z",
+      "pushed_at": "2026-11-25T22:03:48Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -193,7 +152,7 @@
       "language": "Python",
       "stars": 1,
       "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-24T22:55:40Z",
+      "pushed_at": "2026-11-25T22:09:15Z",
       "topics": [],
       "matched_queries": [
         "agent hackathon"
@@ -203,34 +162,79 @@
       "source_type": "github-search"
     },
     {
-      "id": "1432198594",
-      "title": "CAG1218/touchlearn-fudan-Team_Stella",
-      "url": "https://github.com/CAG1218/touchlearn-fudan-Team_Stella",
-      "description": "触见 TouchLearn：把 STEM 图重构成可触摸的 3D 结构图，配编号盲文和扫码音频｜2026 复旦大学未来智造智能体大赛",
-      "owner": "CAG1218",
+      "id": "1266435726",
+      "title": "BernardUriza/activist-os",
+      "url": "https://github.com/BernardUriza/activist-os",
+      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
+      "owner": "BernardUriza",
       "language": "Python",
       "stars": 0,
-      "created_at": "2026-10-24T13:14:25Z",
-      "pushed_at": "2026-11-24T15:56:43Z",
+      "created_at": "2026-06-11T16:03:14Z",
+      "pushed_at": "2026-11-25T16:30:48Z",
       "topics": [],
       "matched_queries": [
-        "智能体 大赛"
+        "agent hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
       "source_type": "github-search"
     },
     {
-      "id": "1470296850",
-      "title": "gsa-mcp-hackathon/ce_mcp_ser",
-      "url": "https://github.com/gsa-mcp-hackathon/ce_mcp_ser",
-      "description": "该仓库暂无公开简介，请进入来源页核验。",
-      "owner": "gsa-mcp-hackathon",
-      "language": null,
+      "id": "1443320906",
+      "title": "dholmes0207/concordium-trusted-agents-hackathon",
+      "url": "https://github.com/dholmes0207/concordium-trusted-agents-hackathon",
+      "description": "Encode x Concordium Trusted Agents Hackathon 2026 — add trust and accountability to AI agents",
+      "owner": "dholmes0207",
+      "language": "TypeScript",
       "stars": 0,
-      "created_at": "2026-11-24T14:39:55Z",
-      "pushed_at": "2026-11-24T14:39:57Z",
+      "created_at": "2026-11-02T18:14:36Z",
+      "pushed_at": "2026-11-25T17:11:35Z",
       "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1471246961",
+      "title": "Gnanendra-naidu/ai-agents-hackathon-2026",
+      "url": "https://github.com/Gnanendra-naidu/ai-agents-hackathon-2026",
+      "description": "AI-powered agent application built for a 12-hour hackathon.",
+      "owner": "Gnanendra-naidu",
+      "language": "JavaScript",
+      "stars": 0,
+      "created_at": "2026-11-25T04:43:51Z",
+      "pushed_at": "2026-11-25T17:04:34Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.19,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1463196944",
+      "title": "gsa-mcp-hackathon/civicgate-nova-labs-research",
+      "url": "https://github.com/gsa-mcp-hackathon/civicgate-nova-labs-research",
+      "description": "Governance-first MCP gateway for public federal contract award research using USAspending. Built for the GSA MCP Server and SI Agent Government Hackathon",
+      "owner": "gsa-mcp-hackathon",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-18T18:40:33Z",
+      "pushed_at": "2026-11-25T17:47:29Z",
+      "topics": [
+        "agent-orchestration",
+        "agentic-coding",
+        "agentic-workflow",
+        "containment-control",
+        "databricks",
+        "deterministic",
+        "governance-first",
+        "gpt-luna"
+      ],
       "matched_queries": [
         "MCP hackathon"
       ],
