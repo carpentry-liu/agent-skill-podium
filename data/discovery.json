@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-26T09:00:00+08:00",
+  "updated_at": "2026-11-27T09:00:00+08:00",
   "cadence": "daily",
   "source": "GitHub Search API",
   "source_note": "自动发现仅生成待核验线索，不代表赛事官方身份、奖项或结果。",
@@ -15,24 +15,6 @@
     "Agent 技能 大赛"
   ],
   "candidates": [
-    {
-      "id": "1351293462",
-      "title": "Arming-afk/Trading-agent-alpaca",
-      "url": "https://github.com/Arming-afk/Trading-agent-alpaca",
-      "description": "Autonomous options trading agent for the Alpaca AI Trading Agents Hackathon — IV/RV regime switching, defined-risk verticals, submitted through Alpaca's official CLI",
-      "owner": "Arming-afk",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-30T10:13:42Z",
-      "pushed_at": "2026-11-25T23:00:09Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 17.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
     {
       "id": "1465079484",
       "title": "salescau1/makefun-ultimate-guide",
@@ -49,7 +31,205 @@
       "matched_queries": [
         "AI agent competition"
       ],
-      "score": 16.634,
+      "score": 16.523,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1329458499",
+      "title": "alejandro-publius/blackbox-datahub",
+      "url": "https://github.com/alejandro-publius/blackbox-datahub",
+      "description": "BlackBox, Grand Prize winner of the Build with DataHub Agent Hackathon 2026. Autonomous data incident response with an evidence gate, verified repair, real PRs, and DataHub write-back.",
+      "owner": "alejandro-publius",
+      "language": "Python",
+      "stars": 16,
+      "created_at": "2026-08-10T05:32:26Z",
+      "pushed_at": "2026-11-27T08:05:55Z",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "data-engineering",
+        "data-lineage",
+        "data-observability",
+        "datahub",
+        "hackathon-winner",
+        "incident-response"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 16.23,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1474209622",
+      "title": "AmitMaurya25/it-support-agents-hackathon",
+      "url": "https://github.com/AmitMaurya25/it-support-agents-hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "AmitMaurya25",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-27T09:08:23Z",
+      "pushed_at": "2026-11-27T09:29:22Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1257612782",
+      "title": "Ashwin-Dev-27/band-of-agents_Hackathon",
+      "url": "https://github.com/Ashwin-Dev-27/band-of-agents_Hackathon",
+      "description": "该仓库暂无公开简介，请进入来源页核验。",
+      "owner": "Ashwin-Dev-27",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-06-02T21:03:33Z",
+      "pushed_at": "2026-11-27T06:19:21Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1273567251",
+      "title": "baimocn/ad-compliance-agent",
+      "url": "https://github.com/baimocn/ad-compliance-agent",
+      "description": "广告法合规审查 Agent — Agent Hackathon 参赛作品 | LangChain + DeepSeek + RAG + React",
+      "owner": "baimocn",
+      "language": "Python",
+      "stars": 1,
+      "created_at": "2026-06-18T16:45:06Z",
+      "pushed_at": "2026-11-27T08:15:31Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1473483609",
+      "title": "Chidi112/all-chain-crypto-tracker",
+      "url": "https://github.com/Chidi112/all-chain-crypto-tracker",
+      "description": "All-Chain Crypto Tracker — Telegram bot that tracks crypto wallets across Stellar and BNB Chain and alerts on new transactions. Concordium Trusted Agents Hackathon entry.",
+      "owner": "Chidi112",
+      "language": "HTML",
+      "stars": 0,
+      "created_at": "2026-11-26T17:36:54Z",
+      "pushed_at": "2026-11-27T07:26:05Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1282410129",
+      "title": "dotteduniverse/agentic_hackathon",
+      "url": "https://github.com/dotteduniverse/agentic_hackathon",
+      "description": "work on agentic ai",
+      "owner": "dotteduniverse",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-06-27T18:25:26Z",
+      "pushed_at": "2026-11-27T05:22:19Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1473827531",
+      "title": "enuyhs39/IBM-Bob-a-thon",
+      "url": "https://github.com/enuyhs39/IBM-Bob-a-thon",
+      "description": "[AI센터×IBM] 2026 Campus Agent Hackathon",
+      "owner": "enuyhs39",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-27T00:58:58Z",
+      "pushed_at": "2026-11-27T06:54:31Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1473316792",
+      "title": "klangberater/AgenticHackathon",
+      "url": "https://github.com/klangberater/AgenticHackathon",
+      "description": "for the Hackathon 26th of November",
+      "owner": "klangberater",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-11-26T15:06:12Z",
+      "pushed_at": "2026-11-27T08:58:26Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1437024335",
+      "title": "vishavmehra/NativeProof",
+      "url": "https://github.com/vishavmehra/NativeProof",
+      "description": "Qloo Agentic Hackathon    2026.                                                               Cultural research workspace for campaigns: Qloo-grounded market discovery, synthetic audience studies, adaptation and comparison with traceable evidence.",
+      "owner": "vishavmehra",
+      "language": "Python",
+      "stars": 0,
+      "created_at": "2026-10-28T12:00:59Z",
+      "pushed_at": "2026-11-27T06:05:03Z",
+      "topics": [
+        "alembic",
+        "fastapi",
+        "langgraph",
+        "llm",
+        "market-research",
+        "nebius",
+        "nextjs",
+        "openapi"
+      ],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
+      "status": "unverified",
+      "source_type": "github-search"
+    },
+    {
+      "id": "1473938547",
+      "title": "Zihuatanejo63/neuralclear-trusted-agents",
+      "url": "https://github.com/Zihuatanejo63/neuralclear-trusted-agents",
+      "description": "NeuralClear for Trusted Agents - Concordium Trusted Agents Hackathon entry (testnet demo)",
+      "owner": "Zihuatanejo63",
+      "language": "TypeScript",
+      "stars": 0,
+      "created_at": "2026-11-27T03:38:54Z",
+      "pushed_at": "2026-11-27T07:04:42Z",
+      "topics": [],
+      "matched_queries": [
+        "agent hackathon"
+      ],
+      "score": 15.301,
       "status": "unverified",
       "source_type": "github-search"
     },
@@ -66,177 +246,6 @@
       "topics": [],
       "matched_queries": [
         "智能体 大赛"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1464824925",
-      "title": "L-shell0/IO",
-      "url": "https://github.com/L-shell0/IO",
-      "description": "IO city project of Lempyra R&D - Concordium Trusted Agents Hackathon",
-      "owner": "L-shell0",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-20T00:52:28Z",
-      "pushed_at": "2026-11-26T04:19:57Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1469848460",
-      "title": "LumenFromTheFuture/opind-verifier",
-      "url": "https://github.com/LumenFromTheFuture/opind-verifier",
-      "description": "Operator-independence verification protocol for ERC-8004 agent validation. Reference implementation for the Concordium Trusted Agents Hackathon.",
-      "owner": "LumenFromTheFuture",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-24T08:13:24Z",
-      "pushed_at": "2026-11-26T08:29:12Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1340187356",
-      "title": "TheScottyB/blue-toad-fleet",
-      "url": "https://github.com/TheScottyB/blue-toad-fleet",
-      "description": "Agent fleet for absentee auction bidding — All Things Agentic Hackathon 2026",
-      "owner": "TheScottyB",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-08-20T02:00:06Z",
-      "pushed_at": "2026-11-26T06:19:37Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.301,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1355678393",
-      "title": "adwik1401/alpaca-ai-trading-agent",
-      "url": "https://github.com/adwik1401/alpaca-ai-trading-agent",
-      "description": "Autonomous AI options trading agent for the Alpaca AI Trading Agents Hackathon",
-      "owner": "adwik1401",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-09-03T07:53:55Z",
-      "pushed_at": "2026-11-25T22:03:48Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1349699908",
-      "title": "alvaarocl/iv-desk",
-      "url": "https://github.com/alvaarocl/iv-desk",
-      "description": "Autonomous options desk trading the volatility risk premium on Alpaca — AI Trading Agents Hackathon",
-      "owner": "alvaarocl",
-      "language": "Python",
-      "stars": 1,
-      "created_at": "2026-08-28T14:32:47Z",
-      "pushed_at": "2026-11-25T22:09:15Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1266435726",
-      "title": "BernardUriza/activist-os",
-      "url": "https://github.com/BernardUriza/activist-os",
-      "description": "Multi-agent workflow for safe, evidence-backed civic advocacy — Band of Agents Hackathon (lablab.ai). Band coordinates the agents; safety gates every public action.",
-      "owner": "BernardUriza",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-06-11T16:03:14Z",
-      "pushed_at": "2026-11-25T16:30:48Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1443320906",
-      "title": "dholmes0207/concordium-trusted-agents-hackathon",
-      "url": "https://github.com/dholmes0207/concordium-trusted-agents-hackathon",
-      "description": "Encode x Concordium Trusted Agents Hackathon 2026 — add trust and accountability to AI agents",
-      "owner": "dholmes0207",
-      "language": "TypeScript",
-      "stars": 0,
-      "created_at": "2026-11-02T18:14:36Z",
-      "pushed_at": "2026-11-25T17:11:35Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1471246961",
-      "title": "Gnanendra-naidu/ai-agents-hackathon-2026",
-      "url": "https://github.com/Gnanendra-naidu/ai-agents-hackathon-2026",
-      "description": "AI-powered agent application built for a 12-hour hackathon.",
-      "owner": "Gnanendra-naidu",
-      "language": "JavaScript",
-      "stars": 0,
-      "created_at": "2026-11-25T04:43:51Z",
-      "pushed_at": "2026-11-25T17:04:34Z",
-      "topics": [],
-      "matched_queries": [
-        "agent hackathon"
-      ],
-      "score": 15.19,
-      "status": "unverified",
-      "source_type": "github-search"
-    },
-    {
-      "id": "1463196944",
-      "title": "gsa-mcp-hackathon/civicgate-nova-labs-research",
-      "url": "https://github.com/gsa-mcp-hackathon/civicgate-nova-labs-research",
-      "description": "Governance-first MCP gateway for public federal contract award research using USAspending. Built for the GSA MCP Server and SI Agent Government Hackathon",
-      "owner": "gsa-mcp-hackathon",
-      "language": "Python",
-      "stars": 0,
-      "created_at": "2026-11-18T18:40:33Z",
-      "pushed_at": "2026-11-25T17:47:29Z",
-      "topics": [
-        "agent-orchestration",
-        "agentic-coding",
-        "agentic-workflow",
-        "containment-control",
-        "databricks",
-        "deterministic",
-        "governance-first",
-        "gpt-luna"
-      ],
-      "matched_queries": [
-        "MCP hackathon"
       ],
       "score": 15.19,
       "status": "unverified",
